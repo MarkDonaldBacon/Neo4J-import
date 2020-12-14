@@ -122,9 +122,7 @@
          <data key="ID">Term1031</data>
          <data key="Signifier">approved CSD</data>
          <data key="Synonym">approved CSD</data>
-         <data key="Definition">a CSD not lodged only for recording purposes and for which any of the following is true:
-- the CSD has been determined by the chief executive [cadastral survey] to comply with the cadastral survey rules
-- the CSD was approved under former Acts and regulations</data>
+         <data key="Definition">a CSD not lodged only for recording purposes and for which any of the following is true:\u003Cbr/\u003E\n- the CSD has been determined by the chief executive [cadastral survey] to comply with the cadastral survey rules\u003Cbr/\u003E\n- the CSD was approved under former Acts and regulations</data>
       </node>
       <node id="Term1459" labels=":Term">
          <data key="ID">Term1459</data>
@@ -178,9 +176,7 @@
          <data key="ID">Term1453</data>
          <data key="Signifier">bearing adjustment</data>
          <data key="Synonym">bearing adjustment; bearing correction</data>
-         <data key="Definition">either:
-- the difference between an older datum and the current datum being used
-- a difference in orientation</data>
+         <data key="Definition">either:\u003Cbr/\u003E\n- the difference between an older datum and the current datum being used\u003Cbr/\u003E\n- a difference in orientation</data>
       </node>
       <node id="Term1396" labels=":Term">
          <data key="ID">Term1396</data>
@@ -192,18 +188,13 @@
          <data key="ID">Term1121</data>
          <data key="Signifier">bed of a lake</data>
          <data key="Synonym">bed of a lake</data>
-         <data key="Definition">the space of land which the waters of a lake cover at any of the following levels:
-- the maximum permitted operating level for a lake controlled by artificial means
-- the annual highest level without exceeding its margin for esplanade reserves, esplanade strips and subdivision
-- the highest level without exceeding its margin in all other cases</data>
+         <data key="Definition">the space of land which the waters of a lake cover at any of the following levels:\u003Cbr/\u003E\n- the maximum permitted operating level for a lake controlled by artificial means\u003Cbr/\u003E\n- the annual highest level without exceeding its margin for esplanade reserves, esplanade strips and subdivision\u003Cbr/\u003E\n- the highest level without exceeding its margin in all other cases</data>
       </node>
       <node id="Term1122" labels=":Term">
          <data key="ID">Term1122</data>
          <data key="Signifier">bed of a river</data>
          <data key="Synonym">bed of a river</data>
-         <data key="Definition">the space of land which the waters of the river cover at any of the following flows:
-- the annual fullest flow without overtopping its banks for esplanade reserves, esplanade strips and subdivision
-- the fullest flow without overtopping its banks in all other cases</data>
+         <data key="Definition">the space of land which the waters of the river cover at any of the following flows:\u003Cbr/\u003E\n- the annual fullest flow without overtopping its banks for esplanade reserves, esplanade strips and subdivision\u003Cbr/\u003E\n- the fullest flow without overtopping its banks in all other cases</data>
       </node>
       <node id="Term1194" labels=":Term">
          <data key="ID">Term1194</data>
@@ -221,9 +212,7 @@
          <data key="ID">Term1020</data>
          <data key="Signifier">boundary</data>
          <data key="Synonym">boundary</data>
-         <data key="Definition">any of the following:
-- the invisible line of division between abutting portions of land
-- a physical natural or man made object that serves as a limit of a property</data>
+         <data key="Definition">any of the following:\u003Cbr/\u003E\n- the invisible line of division between abutting portions of land\u003Cbr/\u003E\n- a physical natural or man made object that serves as a limit of a property</data>
       </node>
       <node id="Term1134" labels=":Term">
          <data key="ID">Term1134</data>
@@ -487,31 +476,19 @@
          <data key="ID">Term1048</data>
          <data key="Signifier">common marine and coastal area</data>
          <data key="Synonym">common marine and coastal area</data>
-         <data key="Definition">a marine and coastal area that is not any of the following:
-- a specified freehold land located in that area
-- an area owned by the Crown which has any of the following kinds of status:
-- - a conservation area within the meaning of section 2(1) of the Conservation Act 1987
-- - a national park within the meaning of section 2 of the National Parks Act 1980
-- - a reserve within the meaning of section 2(1) of the Reserves Act 1977
-- the bed of Te Whanga Lagoon in the Chatham Islands</data>
+         <data key="Definition">a marine and coastal area that is not any of the following:\u003Cbr/\u003E\n- a specified freehold land located in that area\u003Cbr/\u003E\n- an area owned by the Crown which has any of the following kinds of status:\u003Cbr/\u003E\n- - a conservation area within the meaning of section 2(1) of the Conservation Act 1987\u003Cbr/\u003E\n- - a national park within the meaning of section 2 of the National Parks Act 1980\u003Cbr/\u003E\n- - a reserve within the meaning of section 2(1) of the Reserves Act 1977\u003Cbr/\u003E\n- the bed of Te Whanga Lagoon in the Chatham Islands</data>
       </node>
       <node id="Term1162" labels=":Term">
          <data key="ID">Term1162</data>
          <data key="Signifier">common property</data>
          <data key="Synonym">common property</data>
-         <data key="Definition">land and facilities in a unit title development which are shared by the unit owners and not contained in any of the following:
-- principal unit
-- accessory unit
-- future development unit</data>
+         <data key="Definition">land and facilities in a unit title development which are shared by the unit owners and not contained in any of the following:\u003Cbr/\u003E\n- principal unit\u003Cbr/\u003E\n- accessory unit\u003Cbr/\u003E\n- future development unit</data>
       </node>
       <node id="Term1049" labels=":Term">
          <data key="ID">Term1049</data>
          <data key="Signifier">company lease</data>
          <data key="Synonym">company lease</data>
-         <data key="Definition">a lease or licence or other right of occupation of any building or part of any building on, or to be erected on, any land where all of the following are true:
-- the lease is granted by a company owning an estate or interest in the land
-- the lease is held by a person by virtue of being a shareholder in the company
-- the lease is a licence within the meaning of section 122 of the Land Transfer Act 2017</data>
+         <data key="Definition">a lease or licence or other right of occupation of any building or part of any building on, or to be erected on, any land where all of the following are true:\u003Cbr/\u003E\n- the lease is granted by a company owning an estate or interest in the land\u003Cbr/\u003E\n- the lease is held by a person by virtue of being a shareholder in the company\u003Cbr/\u003E\n- the lease is a licence within the meaning of section 122 of the Land Transfer Act 2017</data>
       </node>
       <node id="Term1030" labels=":Term">
          <data key="ID">Term1030</data>
@@ -559,9 +536,7 @@
          <data key="ID">Term1051</data>
          <data key="Signifier">cross lease</data>
          <data key="Synonym">cross lease</data>
-         <data key="Definition">a lease of any building or part of any building on, or to be erected on, any land where all of the following are true:
-- the lease is granted by any owner of the land
-- the lease is held by a person who has an estate or interest in an undivided share in the land</data>
+         <data key="Definition">a lease of any building or part of any building on, or to be erected on, any land where all of the following are true:\u003Cbr/\u003E\n- the lease is granted by any owner of the land\u003Cbr/\u003E\n- the lease is held by a person who has an estate or interest in an undivided share in the land</data>
       </node>
       <node id="Term1283" labels=":Term">
          <data key="ID">Term1283</data>
@@ -603,10 +578,7 @@
          <data key="ID">Term1210</data>
          <data key="Signifier">defined by survey</data>
          <data key="Synonym">defined by survey</data>
-         <data key="Definition">a definition that a cadastral surveyor has determined to be correct in relation to other boundaries and boundary points by performing all of the following:
-- gathering all evidence relevant to the definition
-- interpreting that evidence in accordance with all relevant enactments and rules of law
-- using that evidence to determine the correct position</data>
+         <data key="Definition">a definition that a cadastral surveyor has determined to be correct in relation to other boundaries and boundary points by performing all of the following:\u003Cbr/\u003E\n- gathering all evidence relevant to the definition\u003Cbr/\u003E\n- interpreting that evidence in accordance with all relevant enactments and rules of law\u003Cbr/\u003E\n- using that evidence to determine the correct position</data>
       </node>
       <node id="Term1212" labels=":Term">
          <data key="ID">Term1212</data>
@@ -684,10 +656,7 @@
          <data key="ID">Term1156</data>
          <data key="Signifier">esplanade strip</data>
          <data key="Synonym">esplanade strip</data>
-         <data key="Definition">a strip of land created by the registration of an instrument between the territorial authority and the subdividing owner for any of the following purposes:
-- to contribute to the protection of conservation values
-- to enable public access to or along any sea, river or lake
-- to enable public recreational use of the strip and adjacent sea, river or lake where the use is compatible with conservation values</data>
+         <data key="Definition">a strip of land created by the registration of an instrument between the territorial authority and the subdividing owner for any of the following purposes:\u003Cbr/\u003E\n- to contribute to the protection of conservation values\u003Cbr/\u003E\n- to enable public access to or along any sea, river or lake\u003Cbr/\u003E\n- to enable public recreational use of the strip and adjacent sea, river or lake where the use is compatible with conservation values</data>
       </node>
       <node id="Term1176" labels=":Term">
          <data key="ID">Term1176</data>
@@ -699,13 +668,7 @@
          <data key="ID">Term1054</data>
          <data key="Signifier">estate boundary</data>
          <data key="Synonym">estate boundary</data>
-         <data key="Definition">a boundary used in defining the shape of an estate recorded in an estate record in a tenure system for any of the following:
-- a fee simple estate
-- Maori freehold land
-- Maori customary land
-- land of the Crown
-- a stratum estate
-- a leasehold estate.</data>
+         <data key="Definition">a boundary used in defining the shape of an estate recorded in an estate record in a tenure system for any of the following:\u003Cbr/\u003E\n- a fee simple estate\u003Cbr/\u003E\n- Maori freehold land\u003Cbr/\u003E\n- Maori customary land\u003Cbr/\u003E\n- land of the Crown\u003Cbr/\u003E\n- a stratum estate\u003Cbr/\u003E\n- a leasehold estate.</data>
       </node>
       <node id="Term1101" labels=":Term">
          <data key="ID">Term1101</data>
@@ -717,10 +680,7 @@
          <data key="ID">Term1168</data>
          <data key="Signifier">existing</data>
          <data key="Synonym">existing</data>
-         <data key="Definition">information that is not historic and for which any of the following is true:
-- the information is present in an approved CSD
-- the information is present in an estate record held by the tenure system manager
-- the information is present in a CSD that was lodged only for recording purposes and the information is verified as complying with the cadastral survey rules</data>
+         <data key="Definition">information that is not historic and for which any of the following is true:\u003Cbr/\u003E\n- the information is present in an approved CSD\u003Cbr/\u003E\n- the information is present in an estate record held by the tenure system manager\u003Cbr/\u003E\n- the information is present in a CSD that was lodged only for recording purposes and the information is verified as complying with the cadastral survey rules</data>
       </node>
       <node id="Term1458" labels=":Term">
          <data key="ID">Term1458</data>
@@ -900,9 +860,7 @@
          <data key="ID">Term1057</data>
          <data key="Signifier">Hawkes Bay interim title</data>
          <data key="Synonym">Hawkes Bay interim title</data>
-         <data key="Definition">a record of title issued to a person under the Land Transfer (Hawke's Bay) Act 1931 due to any of the following reasons:
-- the Registrar-General of Land being satisfied that the original issued record of title was destroyed and that the person is the registered proprietor or mortgagee of the estate of freehold for which the record of title is being sought
-- the Registrar-General of Land knowing or believing that the original issued record of title was destroyed</data>
+         <data key="Definition">a record of title issued to a person under the Land Transfer (Hawke's Bay) Act 1931 due to any of the following reasons:\u003Cbr/\u003E\n- the Registrar-General of Land being satisfied that the original issued record of title was destroyed and that the person is the registered proprietor or mortgagee of the estate of freehold for which the record of title is being sought\u003Cbr/\u003E\n- the Registrar-General of Land knowing or believing that the original issued record of title was destroyed</data>
       </node>
       <node id="Term1180" labels=":Term">
          <data key="ID">Term1180</data>
@@ -914,9 +872,7 @@
          <data key="ID">Term1177</data>
          <data key="Signifier">historic</data>
          <data key="Synonym">historic</data>
-         <data key="Definition">information for which any of the following is true:
-- the information is replaced in an approved CSD
-- the information is expired in an approved CSD</data>
+         <data key="Definition">information for which any of the following is true:\u003Cbr/\u003E\n- the information is replaced in an approved CSD\u003Cbr/\u003E\n- the information is expired in an approved CSD</data>
       </node>
       <node id="Term1363" labels=":Term">
          <data key="ID">Term1363</data>
@@ -940,8 +896,7 @@
          <data key="ID">Term1329</data>
          <data key="Signifier">horizontal projection</data>
          <data key="Synonym">horizontal projection</data>
-         <data key="Definition">a projection of part of the curved surface of the Earth as a flat plane
-representation of the curved surface of a specific area of Earth upon a flat surface</data>
+         <data key="Definition">a projection of part of the curved surface of the Earth as a flat plane\u003Cbr/\u003E\nrepresentation of the curved surface of a specific area of Earth upon a flat surface</data>
       </node>
       <node id="Term1166" labels=":Term">
          <data key="ID">Term1166</data>
@@ -995,11 +950,7 @@ representation of the curved surface of a specific area of Earth upon a flat sur
          <data key="ID">Term1120</data>
          <data key="Signifier">Land Transfer Act 2017</data>
          <data key="Synonym">Land Transfer Act 2017</data>
-         <data key="Definition">a modern Act that replaces the Land Transfer Act 1952 that ensures all of the following:
-- continues and maintains the Torrens system of land title in New Zealand
-- retains the fundamental principles of that system
-- reflects the fact that the land transfer register is kept and operated electronically and that most dealings in land are carried out electronically
-- maintains the integrity of title to estates and interests in land</data>
+         <data key="Definition">a modern Act that replaces the Land Transfer Act 1952 that ensures all of the following:\u003Cbr/\u003E\n- continues and maintains the Torrens system of land title in New Zealand\u003Cbr/\u003E\n- retains the fundamental principles of that system\u003Cbr/\u003E\n- reflects the fact that the land transfer register is kept and operated electronically and that most dealings in land are carried out electronically\u003Cbr/\u003E\n- maintains the integrity of title to estates and interests in land</data>
       </node>
       <node id="Term1106" labels=":Term">
          <data key="ID">Term1106</data>
@@ -1059,8 +1010,7 @@ representation of the curved surface of a specific area of Earth upon a flat sur
          <data key="ID">Term1282</data>
          <data key="Signifier">legalisation plan</data>
          <data key="Synonym">legalisation plan</data>
-         <data key="Definition">when land is taken compulsorily or acquired by agreement through the use of statutory actions based on legislation including the stopping of roads
-the creation of new parcels of land for a public work or similar legalisation action</data>
+         <data key="Definition">when land is taken compulsorily or acquired by agreement through the use of statutory actions based on legislation including the stopping of roads\u003Cbr/\u003E\nthe creation of new parcels of land for a public work or similar legalisation action</data>
       </node>
       <node id="Term1147" labels=":Term">
          <data key="ID">Term1147</data>
@@ -1090,9 +1040,7 @@ the creation of new parcels of land for a public work or similar legalisation ac
          <data key="ID">Term1213</data>
          <data key="Signifier">limited as to parcels</data>
          <data key="Synonym">limitation as to parcels; limitations as to parcels; limited as to parcels</data>
-         <data key="Definition">land for which all of the following are true:
-- a guaranteed title not issued for the land due to the cadastral survey information being insufficient or another person being in adverse possession of part of the land
-- the boundaries of the land not properly defined on a CSD</data>
+         <data key="Definition">land for which all of the following are true:\u003Cbr/\u003E\n- a guaranteed title not issued for the land due to the cadastral survey information being insufficient or another person being in adverse possession of part of the land\u003Cbr/\u003E\n- the boundaries of the land not properly defined on a CSD</data>
       </node>
       <node id="Term1455" labels=":Term">
          <data key="ID">Term1455</data>
@@ -1122,9 +1070,7 @@ the creation of new parcels of land for a public work or similar legalisation ac
          <data key="ID">Term1182</data>
          <data key="Signifier">majority successor parcel</data>
          <data key="Synonym">majority successor parcel</data>
-         <data key="Definition">a new primary parcel for which all of the following are true:
-- the new primary parcel has an area [quantity] &gt; 20 hectares
-- the new primary parcel comprises more than 80% of the existing primary parcel that is extinguished by the new primary parcel</data>
+         <data key="Definition">a new primary parcel for which all of the following are true:\u003Cbr/\u003E\n- the new primary parcel has an area [quantity] &gt; 20 hectares\u003Cbr/\u003E\n- the new primary parcel comprises more than 80% of the existing primary parcel that is extinguished by the new primary parcel</data>
       </node>
       <node id="Term1379" labels=":Term">
          <data key="ID">Term1379</data>
@@ -1178,10 +1124,7 @@ the creation of new parcels of land for a public work or similar legalisation ac
          <data key="ID">Term1060</data>
          <data key="Signifier">marginal strip</data>
          <data key="Synonym">marginal strip</data>
-         <data key="Definition">a strip of land reserved or deemed to be reserved by the Conservation Act 1987 for any of the following:
-- conservation purposes
-- enabling public access to any adjacent watercourses or bodies of water
-- public recreational use of the strip and adjacent watercourses or bodies of water.</data>
+         <data key="Definition">a strip of land reserved or deemed to be reserved by the Conservation Act 1987 for any of the following:\u003Cbr/\u003E\n- conservation purposes\u003Cbr/\u003E\n- enabling public access to any adjacent watercourses or bodies of water\u003Cbr/\u003E\n- public recreational use of the strip and adjacent watercourses or bodies of water.</data>
       </node>
       <node id="Term1303" labels=":Term">
          <data key="ID">Term1303</data>
@@ -1259,13 +1202,7 @@ the creation of new parcels of land for a public work or similar legalisation ac
          <data key="ID">Term1117</data>
          <data key="Signifier">National Parks Act 1980</data>
          <data key="Synonym">National Parks Act 1980</data>
-         <data key="Definition">an Act having the effect of preserving, administering and maintaining areas of New Zealand that contain any of the following:
-
-- scenery of distinctive quality
-- ecological systems
-- natural features that are beautiful, unique, or scientifically important enough to warrant their preservation as national interest
-
-as national parks for their intrinsic worth and for the benefit, use, and enjoyment of the public</data>
+         <data key="Definition">an Act having the effect of preserving, administering and maintaining areas of New Zealand that contain any of the following:\u003Cbr/\u003E\n\u003Cbr/\u003E\n- scenery of distinctive quality\u003Cbr/\u003E\n- ecological systems\u003Cbr/\u003E\n- natural features that are beautiful, unique, or scientifically important enough to warrant their preservation as national interest\u003Cbr/\u003E\n\u003Cbr/\u003E\nas national parks for their intrinsic worth and for the benefit, use, and enjoyment of the public</data>
       </node>
       <node id="Term1100" labels=":Term">
          <data key="ID">Term1100</data>
@@ -1487,10 +1424,7 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
          <data key="ID">Term1066</data>
          <data key="Signifier">permanent reference mark</data>
          <data key="Synonym">permanent reference mark; PRM</data>
-         <data key="Definition">a mark that is all of the following:
-- made of durable material
-- set in stable material
-- located in a position that is likely to remain accessible and not be disturbed</data>
+         <data key="Definition">a mark that is all of the following:\u003Cbr/\u003E\n- made of durable material\u003Cbr/\u003E\n- set in stable material\u003Cbr/\u003E\n- located in a position that is likely to remain accessible and not be disturbed</data>
       </node>
       <node id="Term1321" labels=":Term">
          <data key="ID">Term1321</data>
@@ -1502,9 +1436,7 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
          <data key="ID">Term1067</data>
          <data key="Signifier">permanent structure boundary</data>
          <data key="Synonym">permanent structure boundary</data>
-         <data key="Definition">is any of the following:
-- a boundary related to a permanent structure
-- the outline of a future development unit</data>
+         <data key="Definition">is any of the following:\u003Cbr/\u003E\n- a boundary related to a permanent structure\u003Cbr/\u003E\n- the outline of a future development unit</data>
       </node>
       <node id="Term1415" labels=":Term">
          <data key="ID">Term1415</data>
@@ -1546,17 +1478,7 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
          <data key="ID">Term1025</data>
          <data key="Signifier">primary parcel</data>
          <data key="Synonym">primary parcel</data>
-         <data key="Definition">a parcel that is intended to be any of the following:
-- owned by the Crown if it is not a movable marginal strip parcel
-- held in fee simple
-- Maori freehold land
-- Maori customary land
-- part of the common marine and coastal area
-- the bed of a lake
-- the bed of a river
-- a road parcel
-- a railway parcel
-- vested in a local authority</data>
+         <data key="Definition">a parcel that is intended to be any of the following:\u003Cbr/\u003E\n- owned by the Crown if it is not a movable marginal strip parcel\u003Cbr/\u003E\n- held in fee simple\u003Cbr/\u003E\n- Maori freehold land\u003Cbr/\u003E\n- Maori customary land\u003Cbr/\u003E\n- part of the common marine and coastal area\u003Cbr/\u003E\n- the bed of a lake\u003Cbr/\u003E\n- the bed of a river\u003Cbr/\u003E\n- a road parcel\u003Cbr/\u003E\n- a railway parcel\u003Cbr/\u003E\n- vested in a local authority</data>
       </node>
       <node id="Term1370" labels=":Term">
          <data key="ID">Term1370</data>
@@ -1640,10 +1562,7 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
          <data key="ID">Term1444</data>
          <data key="Signifier">referenced point</data>
          <data key="Synonym">referenced point</data>
-         <data key="Definition">Any of:
-- a referenced boundary point
-- a referenced boundary mark
-- a referenced height-limited boundary point.</data>
+         <data key="Definition">Any of:\u003Cbr/\u003E\n- a referenced boundary point\u003Cbr/\u003E\n- a referenced boundary mark\u003Cbr/\u003E\n- a referenced height-limited boundary point.</data>
       </node>
       <node id="Term1323" labels=":Term">
          <data key="ID">Term1323</data>
@@ -1685,22 +1604,7 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
          <data key="ID">Term1069</data>
          <data key="Signifier">residue parcel</data>
          <data key="Synonym">residue parcel</data>
-         <data key="Definition">a parcel that is any of the following:
-- the residual portion of a primary parcel that remains as a result of a cadastral survey for any of the following reasons:
-- - for removal of limitations as to parcels
-- - for an adverse possession claim
-- - to change the registration of land from the Deeds Registration Act 1908 to the Land Transfer Act 2017
-- the residual portion of a primary parcel for which all of the following are true:
-- - the portion is being defined as part of any of the following:
-- - - the bed of a lake
-- - - the bed of a river
-- - - the common marine and coastal area
-- - the portion is not currently recorded in the cadastre as any of the following:
-- - - the bed of a lake
-- - - the bed of a river
-- - - part of the common marine and coastal area
-- - the portion is not intended to vest
-- - the portion is not intended to have a new estate record.</data>
+         <data key="Definition">a parcel that is any of the following:\u003Cbr/\u003E\n- the residual portion of a primary parcel that remains as a result of a cadastral survey for any of the following reasons:\u003Cbr/\u003E\n- - for removal of limitations as to parcels\u003Cbr/\u003E\n- - for an adverse possession claim\u003Cbr/\u003E\n- - to change the registration of land from the Deeds Registration Act 1908 to the Land Transfer Act 2017\u003Cbr/\u003E\n- the residual portion of a primary parcel for which all of the following are true:\u003Cbr/\u003E\n- - the portion is being defined as part of any of the following:\u003Cbr/\u003E\n- - - the bed of a lake\u003Cbr/\u003E\n- - - the bed of a river\u003Cbr/\u003E\n- - - the common marine and coastal area\u003Cbr/\u003E\n- - the portion is not currently recorded in the cadastre as any of the following:\u003Cbr/\u003E\n- - - the bed of a lake\u003Cbr/\u003E\n- - - the bed of a river\u003Cbr/\u003E\n- - - part of the common marine and coastal area\u003Cbr/\u003E\n- - the portion is not intended to vest\u003Cbr/\u003E\n- - the portion is not intended to have a new estate record.</data>
       </node>
       <node id="Term1413" labels=":Term">
          <data key="ID">Term1413</data>
@@ -1766,18 +1670,13 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
          <data key="ID">Term1312</data>
          <data key="Signifier">stratum estate</data>
          <data key="Synonym">stratum estate</data>
-         <data key="Definition">is any of the following:
-- stratum estate in freehold
-- stratum estate in leasehold
-- stratum estate in licence</data>
+         <data key="Definition">is any of the following:\u003Cbr/\u003E\n- stratum estate in freehold\u003Cbr/\u003E\n- stratum estate in leasehold\u003Cbr/\u003E\n- stratum estate in licence</data>
       </node>
       <node id="Term1313" labels=":Term">
          <data key="ID">Term1313</data>
          <data key="Signifier">stratum estate in freehold</data>
          <data key="Synonym">stratum estate in freehold</data>
-         <data key="Definition">is any of the following:
-- a principal unit or an accessory unit created by the subdivision of a fee simple parcel contained in a freehold record of title into a number of separate parcels
-- a subsidiary unit of a principal unit where the principal unit is created by the subdivision of a fee simple parcel contained in a freehold record of title into a number of separate parcels</data>
+         <data key="Definition">is any of the following:\u003Cbr/\u003E\n- a principal unit or an accessory unit created by the subdivision of a fee simple parcel contained in a freehold record of title into a number of separate parcels\u003Cbr/\u003E\n- a subsidiary unit of a principal unit where the principal unit is created by the subdivision of a fee simple parcel contained in a freehold record of title into a number of separate parcels</data>
       </node>
       <node id="Term1314" labels=":Term">
          <data key="ID">Term1314</data>
@@ -1837,21 +1736,13 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
          <data key="ID">Term1451</data>
          <data key="Signifier">survey plan</data>
          <data key="Synonym">survey plan</data>
-         <data key="Definition">a cadastral survey dataset of either:
-- subdivision of land, a building or part of a building prepared in a form suitable for deposit under the Land Transfer Act 2017
-- a subdivision by or on behalf of a Minister of the Crown of land not subject to the Land Transfer Act 2017</data>
+         <data key="Definition">a cadastral survey dataset of either:\u003Cbr/\u003E\n- subdivision of land, a building or part of a building prepared in a form suitable for deposit under the Land Transfer Act 2017\u003Cbr/\u003E\n- a subdivision by or on behalf of a Minister of the Crown of land not subject to the Land Transfer Act 2017</data>
       </node>
       <node id="Term1181" labels=":Term">
          <data key="ID">Term1181</data>
          <data key="Signifier">survey purpose</data>
          <data key="Synonym">survey purpose</data>
-         <data key="Definition">reason for a cadastral survey being conducted such as any of the following:
-- a limitation as to parcels being uplifted from a parcel
-- an application to make a Hawkes Bay interim title conclusive
-- a claim for adverse possession
-- a claim for accretion
-- a claim for a dry stream bed
-- a legalisation</data>
+         <data key="Definition">reason for a cadastral survey being conducted such as any of the following:\u003Cbr/\u003E\n- a limitation as to parcels being uplifted from a parcel\u003Cbr/\u003E\n- an application to make a Hawkes Bay interim title conclusive\u003Cbr/\u003E\n- a claim for adverse possession\u003Cbr/\u003E\n- a claim for accretion\u003Cbr/\u003E\n- a claim for a dry stream bed\u003Cbr/\u003E\n- a legalisation</data>
       </node>
       <node id="Term1184" labels=":Term">
          <data key="ID">Term1184</data>
@@ -1923,10 +1814,7 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
          <data key="ID">Term1316</data>
          <data key="Signifier">unit</data>
          <data key="Synonym">unit</data>
-         <data key="Definition">a part of land consisting of a space for which all of the following are true:
-- the shape of the space is situated below, on or above the surface of the land
-- all the dimensions of the space is limited
-- the space is designed for separate ownership</data>
+         <data key="Definition">a part of land consisting of a space for which all of the following are true:\u003Cbr/\u003E\n- the shape of the space is situated below, on or above the surface of the land\u003Cbr/\u003E\n- all the dimensions of the space is limited\u003Cbr/\u003E\n- the space is designed for separate ownership</data>
       </node>
       <node id="Term1464" labels=":Term">
          <data key="ID">Term1464</data>
@@ -1938,9 +1826,7 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
          <data key="ID">Term1219</data>
          <data key="Signifier">unit title</data>
          <data key="Synonym">unit record of title; unit title</data>
-         <data key="Definition">is any of the folllowing:
-- a record of title issued for a unit
-- a record of title issued for a subdivision of a unit</data>
+         <data key="Definition">is any of the folllowing:\u003Cbr/\u003E\n- a record of title issued for a unit\u003Cbr/\u003E\n- a record of title issued for a subdivision of a unit</data>
       </node>
       <node id="Term1155" labels=":Term">
          <data key="ID">Term1155</data>
@@ -1982,11 +1868,7 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
          <data key="ID">Term1167</data>
          <data key="Signifier">water body</data>
          <data key="Synonym">water body</data>
-         <data key="Definition">any of the following:
-- a bed of a river
-- a bed of a stream
-- a bed of a lake
-- a tidal area</data>
+         <data key="Definition">any of the following:\u003Cbr/\u003E\n- a bed of a river\u003Cbr/\u003E\n- a bed of a stream\u003Cbr/\u003E\n- a bed of a lake\u003Cbr/\u003E\n- a tidal area</data>
       </node>
       <node id="Term1073" labels=":Term">
          <data key="ID">Term1073</data>
@@ -2016,10 +1898,7 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
          <data key="ID">Term1421</data>
          <data key="Signifier">water or irregular boundary</data>
          <data key="Synonym">water or irregular boundary</data>
-         <data key="Definition">a boundary that is any of the following:
-- a water boundary
-- a water centre-line boundary
-- an irregular boundary</data>
+         <data key="Definition">a boundary that is any of the following:\u003Cbr/\u003E\n- a water boundary\u003Cbr/\u003E\n- a water centre-line boundary\u003Cbr/\u003E\n- an irregular boundary</data>
       </node>
       <node id="Term1429" labels=":Term">
          <data key="ID">Term1429</data>
@@ -2030,16 +1909,12 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1452" labels=":Rule">
          <data key="ID">Rule1452</data>
          <data key="Signifier">!!!!Survey diagram parcel polygon information</data>
-         <data key="Statement">A survey diagram must include a representation of each parcel in the CSD as a polygon or polyhedron if the parcel is not an existing centre-line easement for which all of the following are true:
-- the width of the centre-line easement is unknown
-- the width of the centre-line easement is accepted within a large rural parcel with accepted boundaries.</data>
+         <data key="Statement">A survey diagram must include a representation of each parcel in the CSD as a polygon or polyhedron if the parcel is not an existing centre-line easement for which all of the following are true:\u003Cbr/\u003E\n- the width of the centre-line easement is unknown\u003Cbr/\u003E\n- the width of the centre-line easement is accepted within a large rural parcel with accepted boundaries.</data>
       </node>
       <node id="Rule1063" labels=":Rule">
          <data key="ID">Rule1063</data>
          <data key="Signifier">A water boundary may be adopted</data>
-         <data key="Statement">An existing water boundary may be adopted when the margin of the water body has moved as a result of accretion only if all of the following are true:
-- the margin of the water body has not also moved as a result of erosion or the water boundary is an accepted boundary
-- the CSD does not have a survey purpose that is a claim for accretion.</data>
+         <data key="Statement">An existing water boundary may be adopted when the margin of the water body has moved as a result of accretion only if all of the following are true:\u003Cbr/\u003E\n- the margin of the water body has not also moved as a result of erosion or the water boundary is an accepted boundary\u003Cbr/\u003E\n- the CSD does not have a survey purpose that is a claim for accretion.</data>
       </node>
       <node id="Rule1068" labels=":Rule">
          <data key="ID">Rule1068</data>
@@ -2064,14 +1939,7 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1033" labels=":Rule">
          <data key="ID">Rule1033</data>
          <data key="Signifier">Acceptance of existing boundary 4</data>
-         <data key="Statement">A boundary that defines a primary parcel must not be an accepted boundary if all of the following are false:
-- the boundary is a right-line boundary that does not have a boundary bearing or have a boundary distance in an approved CSD
-- the boundary has a boundary bearing that is a magnetic bearing and the reorientation of the boundary bearing cannot be determined without measurement
-- the boundary defines a balance parcel that is included in a title that is to remain limited as to parcels and accuracy [relative] between boundary points included in the boundary does not meet class C accuracy
-- the boundary defines a balance parcel that is included in a title that is to remain a Hawkes Bay interim title and accuracy [relative] between boundary points included in the boundary does not meet class C accuracy
-- the boundary is a water boundary or a water centre-line boundary that defines a balance parcel that is included in a title that is to remain limited as to parcels 
-- the boundary is a water boundary or a water centre-line boundary that defines a balance parcel that is included in a title that is to remain Hawkes bay interim title
-- the boundary is an existing irregular boundary.</data>
+         <data key="Statement">A boundary that defines a primary parcel must not be an accepted boundary if all of the following are false:\u003Cbr/\u003E\n- the boundary is a right-line boundary that does not have a boundary bearing or have a boundary distance in an approved CSD\u003Cbr/\u003E\n- the boundary has a boundary bearing that is a magnetic bearing and the reorientation of the boundary bearing cannot be determined without measurement\u003Cbr/\u003E\n- the boundary defines a balance parcel that is included in a title that is to remain limited as to parcels and accuracy [relative] between boundary points included in the boundary does not meet class C accuracy\u003Cbr/\u003E\n- the boundary defines a balance parcel that is included in a title that is to remain a Hawkes Bay interim title and accuracy [relative] between boundary points included in the boundary does not meet class C accuracy\u003Cbr/\u003E\n- the boundary is a water boundary or a water centre-line boundary that defines a balance parcel that is included in a title that is to remain limited as to parcels \u003Cbr/\u003E\n- the boundary is a water boundary or a water centre-line boundary that defines a balance parcel that is included in a title that is to remain Hawkes bay interim title\u003Cbr/\u003E\n- the boundary is an existing irregular boundary.</data>
       </node>
       <node id="Rule1040" labels=":Rule">
          <data key="ID">Rule1040</data>
@@ -2086,26 +1954,17 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1286" labels=":Rule">
          <data key="ID">Rule1286</data>
          <data key="Signifier">Accepting existing water boundaries</data>
-         <data key="Statement">A new water boundary that defines a non-primary parcel coinciding with an existing water boundary that defines a primary parcel must be considered an accepted water boundary only if the non-primary parcel is over any of the following bodies of water:
-- a stream
-- a river
-- a lake
-- a common marine and coastal area.</data>
+         <data key="Statement">A new water boundary that defines a non-primary parcel coinciding with an existing water boundary that defines a primary parcel must be considered an accepted water boundary only if the non-primary parcel is over any of the following bodies of water:\u003Cbr/\u003E\n- a stream\u003Cbr/\u003E\n- a river\u003Cbr/\u003E\n- a lake\u003Cbr/\u003E\n- a common marine and coastal area.</data>
       </node>
       <node id="Rule1072" labels=":Rule">
          <data key="ID">Rule1072</data>
          <data key="Signifier">Accounting for erosion when water boundary not accepted</data>
-         <data key="Statement">An existing water boundary must be defined by survey if all of the following are true:
-- the margin of the water body has moved as a result of erosion
-- the water boundary is not an accepted boundary.</data>
+         <data key="Statement">An existing water boundary must be defined by survey if all of the following are true:\u003Cbr/\u003E\n- the margin of the water body has moved as a result of erosion\u003Cbr/\u003E\n- the water boundary is not an accepted boundary.</data>
       </node>
       <node id="Rule1083" labels=":Rule">
          <data key="ID">Rule1083</data>
          <data key="Signifier">Accretion, stream bed and adverse possesion area</data>
-         <data key="Statement">An area [quantity] must be assigned to a portion of land that has any of the following survey purpose:
-- a claim for accretion
-- a claim for a dry stream bed 
-- a claim for adverse possession.</data>
+         <data key="Statement">An area [quantity] must be assigned to a portion of land that has any of the following survey purpose:\u003Cbr/\u003E\n- a claim for accretion\u003Cbr/\u003E\n- a claim for a dry stream bed \u003Cbr/\u003E\n- a claim for adverse possession.</data>
       </node>
       <node id="Rule1458" labels=":Rule">
          <data key="ID">Rule1458</data>
@@ -2160,9 +2019,7 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1498" labels=":Rule">
          <data key="ID">Rule1498</data>
          <data key="Signifier">Adpoted information from source</data>
-         <data key="Statement">An adopted piece of information must be copied from the source of the information without change if the information is not any of the following:
-- the conversion of units of measure
-- a bearing adjustment.</data>
+         <data key="Statement">An adopted piece of information must be copied from the source of the information without change if the information is not any of the following:\u003Cbr/\u003E\n- the conversion of units of measure\u003Cbr/\u003E\n- a bearing adjustment.</data>
       </node>
       <node id="Rule1442" labels=":Rule">
          <data key="ID">Rule1442</data>
@@ -2177,25 +2034,12 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1108" labels=":Rule">
          <data key="ID">Rule1108</data>
          <data key="Signifier">Balance parcel constraint</data>
-         <data key="Statement">A balance parcel may be derived only from any of the following primary parcels: 
-- a railway parcel that is not in a record of title
-- a road parcel
-- a fixed marginal strip
-- the bed of a lake
-- the bed of a river
-- the bed of a stream
-- the bed of the sea
-- an access way that is not in a record of title
-- a service lane that is not in a record of title.</data>
+         <data key="Statement">A balance parcel may be derived only from any of the following primary parcels: \u003Cbr/\u003E\n- a railway parcel that is not in a record of title\u003Cbr/\u003E\n- a road parcel\u003Cbr/\u003E\n- a fixed marginal strip\u003Cbr/\u003E\n- the bed of a lake\u003Cbr/\u003E\n- the bed of a river\u003Cbr/\u003E\n- the bed of a stream\u003Cbr/\u003E\n- the bed of the sea\u003Cbr/\u003E\n- an access way that is not in a record of title\u003Cbr/\u003E\n- a service lane that is not in a record of title.</data>
       </node>
       <node id="Rule1416" labels=":Rule">
          <data key="ID">Rule1416</data>
          <data key="Signifier">Boundary class exceptions</data>
-         <data key="Statement">A water or irregular boundary must not be considered any of the following:
-- a class A boundary
-- a class B boundary
-- a class C boundary
-- a class D boundary.</data>
+         <data key="Statement">A water or irregular boundary must not be considered any of the following:\u003Cbr/\u003E\n- a class A boundary\u003Cbr/\u003E\n- a class B boundary\u003Cbr/\u003E\n- a class C boundary\u003Cbr/\u003E\n- a class D boundary.</data>
       </node>
       <node id="Rule1332" labels=":Rule">
          <data key="ID">Rule1332</data>
@@ -2220,38 +2064,17 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1251" labels=":Rule">
          <data key="ID">Rule1251</data>
          <data key="Signifier">Boundary mark on existing boundary point 1</data>
-         <data key="Statement">A mark must be placed at a boundary point that is included in an existing boundary that defines a new primary parcel if it is practicable for the mark to be placed at the boundary point and any of the following is true:
-- the boundary point is subject to conflict
-- the definition of the boundary in an approved CSD is not sufficient to determine the compliance of the boundary with the applicable accuracy standard
-- the boundary is only defined in a diagram on transfer
-- the boundary defines a parcel from which limitation as to parcels is being uplifted
-- the parcel is subject to a claim for adverse possession
-- the boundary point is recorded in a Maori Land CSD that is annotated "computed plan – areas and boundaries not defined by survey" 
-- the boundary is recorded in a Maori Land CSD that is annotated "computed plan – areas and boundaries not defined by survey"
-- the boundary point is an unmarked boundary point that was included in boundaries that defined only non-primary parcels.</data>
+         <data key="Statement">A mark must be placed at a boundary point that is included in an existing boundary that defines a new primary parcel if it is practicable for the mark to be placed at the boundary point and any of the following is true:\u003Cbr/\u003E\n- the boundary point is subject to conflict\u003Cbr/\u003E\n- the definition of the boundary in an approved CSD is not sufficient to determine the compliance of the boundary with the applicable accuracy standard\u003Cbr/\u003E\n- the boundary is only defined in a diagram on transfer\u003Cbr/\u003E\n- the boundary defines a parcel from which limitation as to parcels is being uplifted\u003Cbr/\u003E\n- the parcel is subject to a claim for adverse possession\u003Cbr/\u003E\n- the boundary point is recorded in a Maori Land CSD that is annotated "computed plan – areas and boundaries not defined by survey" \u003Cbr/\u003E\n- the boundary is recorded in a Maori Land CSD that is annotated "computed plan – areas and boundaries not defined by survey"\u003Cbr/\u003E\n- the boundary point is an unmarked boundary point that was included in boundaries that defined only non-primary parcels.</data>
       </node>
       <node id="Rule1420" labels=":Rule">
          <data key="ID">Rule1420</data>
          <data key="Signifier">Boundary mark on existing boundary point 2</data>
-         <data key="Statement">A mark must be placed at a boundary point that is included in an existing boundary that defines a new primary parcel if all of the following are true:
-- it is practicable for the mark to be placed at the boundary point
-- the boundary defines a parcel that is part of a Hawkes Bay interim title
-- one of the survey purposes is an application to make the Hawkes Bay interim title conclusive.</data>
+         <data key="Statement">A mark must be placed at a boundary point that is included in an existing boundary that defines a new primary parcel if all of the following are true:\u003Cbr/\u003E\n- it is practicable for the mark to be placed at the boundary point\u003Cbr/\u003E\n- the boundary defines a parcel that is part of a Hawkes Bay interim title\u003Cbr/\u003E\n- one of the survey purposes is an application to make the Hawkes Bay interim title conclusive.</data>
       </node>
       <node id="Rule1240" labels=":Rule">
          <data key="ID">Rule1240</data>
          <data key="Signifier">Boundary mark on new boundary point</data>
-         <data key="Statement">A mark need not be placed at a new boundary point that is included in a boundary that defines a new primary parcel if any the following are true:
-- all parcels that are adjacent to the boundary point are new parcels intended to be owned by the Crown
-- all parcels that are adjacent to the boundary point are new parcels intended to be owned by the same territorial authority
-- the Maori Land Court does not require a mark to be placed at a boundary point that is included in the boundary
-- all parcels that are adjacent to the boundary point are or will be held in common ownership
-- the parcels on each side of the boundary are or will be subject to a reciprocal right of way
-- the terrain, ground cover, or protected vegetation make it unlikely that the boundary point will need to be physically located
-- the boundary point results from an existing water or irregular boundary being converted to a right-line boundary that is a class B boundary 
-- the boundary point coincides with a water boundary
-- the boundary point coincides with a water centre-line boundary
-- it is not practicable for a mark to be placed at the boundary point.</data>
+         <data key="Statement">A mark need not be placed at a new boundary point that is included in a boundary that defines a new primary parcel if any the following are true:\u003Cbr/\u003E\n- all parcels that are adjacent to the boundary point are new parcels intended to be owned by the Crown\u003Cbr/\u003E\n- all parcels that are adjacent to the boundary point are new parcels intended to be owned by the same territorial authority\u003Cbr/\u003E\n- the Maori Land Court does not require a mark to be placed at a boundary point that is included in the boundary\u003Cbr/\u003E\n- all parcels that are adjacent to the boundary point are or will be held in common ownership\u003Cbr/\u003E\n- the parcels on each side of the boundary are or will be subject to a reciprocal right of way\u003Cbr/\u003E\n- the terrain, ground cover, or protected vegetation make it unlikely that the boundary point will need to be physically located\u003Cbr/\u003E\n- the boundary point results from an existing water or irregular boundary being converted to a right-line boundary that is a class B boundary \u003Cbr/\u003E\n- the boundary point coincides with a water boundary\u003Cbr/\u003E\n- the boundary point coincides with a water centre-line boundary\u003Cbr/\u003E\n- it is not practicable for a mark to be placed at the boundary point.</data>
       </node>
       <node id="Rule1252" labels=":Rule">
          <data key="ID">Rule1252</data>
@@ -2276,64 +2099,37 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1178" labels=":Rule">
          <data key="ID">Rule1178</data>
          <data key="Signifier">Boundary point reference to PRM Class A</data>
-         <data key="Statement">A class A boundary point must be less than or equal to 150 m from a permanent reference mark if any of the following is true:
-- the boundary point is a referenced boundary point
-- the boundary point is a referenced boundary mark 
-- the boundary point is a referenced height-limited boundary point
-- the boundary point is a boundary mark that is included in a boundary defining a non-primary parcel
-- the boundary point is included in a boundary that defines a non-primary parcel and is not accurately related to a boundary defining an underlying parcel
-- the boundary point is included in a boundary that defines a non-primary parcel that overlies a parcel that is the bed of a stream or the bed of a river or the bed of a lake.</data>
+         <data key="Statement">A class A boundary point must be less than or equal to 150 m from a permanent reference mark if any of the following is true:\u003Cbr/\u003E\n- the boundary point is a referenced boundary point\u003Cbr/\u003E\n- the boundary point is a referenced boundary mark \u003Cbr/\u003E\n- the boundary point is a referenced height-limited boundary point\u003Cbr/\u003E\n- the boundary point is a boundary mark that is included in a boundary defining a non-primary parcel\u003Cbr/\u003E\n- the boundary point is included in a boundary that defines a non-primary parcel and is not accurately related to a boundary defining an underlying parcel\u003Cbr/\u003E\n- the boundary point is included in a boundary that defines a non-primary parcel that overlies a parcel that is the bed of a stream or the bed of a river or the bed of a lake.</data>
       </node>
       <node id="Rule1179" labels=":Rule">
          <data key="ID">Rule1179</data>
          <data key="Signifier">Boundary point reference to PRM Class B</data>
-         <data key="Statement">A class B boundary point must be less than or equal to 500 m from a permanent reference mark if any of the following is true:
-- the boundary point is a referenced boundary point
-- the boundary point is a referenced boundary mark 
-- the boundary point is a referenced height-limited boundary point
-- the boundary point is a boundary mark that is included in a boundary defining a non-primary parcel
-- the boundary point is included in a boundary that defines a non-primary parcel and is not accurately related to a boundary defining an underlying parcel
-- the boundary point is included in a boundary that defines a non-primary parcel that overlies a parcel that is the bed of a stream or the bed of a river or the bed of a lake.</data>
+         <data key="Statement">A class B boundary point must be less than or equal to 500 m from a permanent reference mark if any of the following is true:\u003Cbr/\u003E\n- the boundary point is a referenced boundary point\u003Cbr/\u003E\n- the boundary point is a referenced boundary mark \u003Cbr/\u003E\n- the boundary point is a referenced height-limited boundary point\u003Cbr/\u003E\n- the boundary point is a boundary mark that is included in a boundary defining a non-primary parcel\u003Cbr/\u003E\n- the boundary point is included in a boundary that defines a non-primary parcel and is not accurately related to a boundary defining an underlying parcel\u003Cbr/\u003E\n- the boundary point is included in a boundary that defines a non-primary parcel that overlies a parcel that is the bed of a stream or the bed of a river or the bed of a lake.</data>
       </node>
       <node id="Rule1180" labels=":Rule">
          <data key="ID">Rule1180</data>
          <data key="Signifier">Boundary point reference to PRM Class C</data>
-         <data key="Statement">A class C boundary point must be less than or equal to 1000 m from a permanent reference mark if any of the following is true:
-- the boundary point is a referenced boundary point
-- the boundary point is a referenced boundary mark 
-- the boundary point is a referenced height-limited boundary point.</data>
+         <data key="Statement">A class C boundary point must be less than or equal to 1000 m from a permanent reference mark if any of the following is true:\u003Cbr/\u003E\n- the boundary point is a referenced boundary point\u003Cbr/\u003E\n- the boundary point is a referenced boundary mark \u003Cbr/\u003E\n- the boundary point is a referenced height-limited boundary point.</data>
       </node>
       <node id="Rule1091" labels=":Rule">
          <data key="ID">Rule1091</data>
          <data key="Signifier">Centre-line easement</data>
-         <data key="Statement">An existing centre-line easement parcel need not be represented as a polygon or polyhedron only if any of the following is true:
-- the width of the centre-line easement is unknown
-- the centre-line easement is an accepted boundary.</data>
+         <data key="Statement">An existing centre-line easement parcel need not be represented as a polygon or polyhedron only if any of the following is true:\u003Cbr/\u003E\n- the width of the centre-line easement is unknown\u003Cbr/\u003E\n- the centre-line easement is an accepted boundary.</data>
       </node>
       <node id="Rule1496" labels=":Rule">
          <data key="ID">Rule1496</data>
          <data key="Signifier">Certification of CSD</data>
-         <data key="Statement">A CSD must be certified and dated by a cadastral surveyor as follows:
-"I [name], being a licensed cadastral surveyor, certify that—
-(a) this dataset provided by me and its related survey are accurate, correct, and in accordance with the Cadastral Survey Act 2002 and the Cadastral Survey Rules 2020; and
-(b) the survey was undertaken by me or under my personal direction."</data>
+         <data key="Statement">A CSD must be certified and dated by a cadastral surveyor as follows:\u003Cbr/\u003E\n"I [name], being a licensed cadastral surveyor, certify that—\u003Cbr/\u003E\n(a) this dataset provided by me and its related survey are accurate, correct, and in accordance with the Cadastral Survey Act 2002 and the Cadastral Survey Rules 2020; and\u003Cbr/\u003E\n(b) the survey was undertaken by me or under my personal direction."</data>
       </node>
       <node id="Rule1128" labels=":Rule">
          <data key="ID">Rule1128</data>
          <data key="Signifier">Class A Accuracy</data>
-         <data key="Statement">An accuracy [relative] between a boundary point and another boundary point must be considered a class A accuracy only if all of the following are true:
-- The accuracy [relative] is less than or equal to 0.06 + (0.00015 * the horizontal distance between the boundary points)
-- The accuracy [relative] is less than or equal to 0.06 + (0.00015 * the slope distance between the boundary points).</data>
+         <data key="Statement">An accuracy [relative] between a boundary point and another boundary point must be considered a class A accuracy only if all of the following are true:\u003Cbr/\u003E\n- The accuracy [relative] is less than or equal to 0.06 + (0.00015 * the horizontal distance between the boundary points)\u003Cbr/\u003E\n- The accuracy [relative] is less than or equal to 0.06 + (0.00015 * the slope distance between the boundary points).</data>
       </node>
       <node id="Rule1343" labels=":Rule">
          <data key="ID">Rule1343</data>
          <data key="Signifier">Class A Boundary</data>
-         <data key="Statement">A boundary must be considered a class A boundary if any of the following are true:
-- the boundary is in an urban area
-- the boundary is adjoining an urban area
-- the boundary is intended as a result of a cadastral survey to be in an urban area
-- the boundary defines a parcel that is used intensively for commercial, industrial, or residential purposes
-- the boundary defines a parcel that is intended as a result of a cadastral survey to be used intensively for commercial, industrial, or residential purposes.</data>
+         <data key="Statement">A boundary must be considered a class A boundary if any of the following are true:\u003Cbr/\u003E\n- the boundary is in an urban area\u003Cbr/\u003E\n- the boundary is adjoining an urban area\u003Cbr/\u003E\n- the boundary is intended as a result of a cadastral survey to be in an urban area\u003Cbr/\u003E\n- the boundary defines a parcel that is used intensively for commercial, industrial, or residential purposes\u003Cbr/\u003E\n- the boundary defines a parcel that is intended as a result of a cadastral survey to be used intensively for commercial, industrial, or residential purposes.</data>
       </node>
       <node id="Rule1348" labels=":Rule">
          <data key="ID">Rule1348</data>
@@ -2343,69 +2139,47 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1131" labels=":Rule">
          <data key="ID">Rule1131</data>
          <data key="Signifier">Class B Accuracy</data>
-         <data key="Statement">An accuracy [relative] between a boundary point and another boundary point must be considered a class B accuracy only if all of the following are true:
-- The accuracy [relative] is less than or equal to 0.30 + (0.0006 * the horizontal distance between the boundary points)
-- The accuracy [relative] is less than or equal to 0.30 + (0.0006 * the slope distance between the boundary points).</data>
+         <data key="Statement">An accuracy [relative] between a boundary point and another boundary point must be considered a class B accuracy only if all of the following are true:\u003Cbr/\u003E\n- The accuracy [relative] is less than or equal to 0.30 + (0.0006 * the horizontal distance between the boundary points)\u003Cbr/\u003E\n- The accuracy [relative] is less than or equal to 0.30 + (0.0006 * the slope distance between the boundary points).</data>
       </node>
       <node id="Rule1344" labels=":Rule">
          <data key="ID">Rule1344</data>
          <data key="Signifier">Class B Boundary</data>
-         <data key="Statement">A boundary must be considered a class B boundary if the boundary is not any of the following:
-- a class A boundary 
-- a class C boundary
-- a class D boundary.</data>
+         <data key="Statement">A boundary must be considered a class B boundary if the boundary is not any of the following:\u003Cbr/\u003E\n- a class A boundary \u003Cbr/\u003E\n- a class C boundary\u003Cbr/\u003E\n- a class D boundary.</data>
       </node>
       <node id="Rule1349" labels=":Rule">
          <data key="ID">Rule1349</data>
          <data key="Signifier">Class B Boundary Point</data>
-         <data key="Statement">A boundary point must be considered a class B boundary point if all of the following are true:
-- the boundary point is not included in a class A boundary
-- the boundary point is included in a class B boundary.</data>
+         <data key="Statement">A boundary point must be considered a class B boundary point if all of the following are true:\u003Cbr/\u003E\n- the boundary point is not included in a class A boundary\u003Cbr/\u003E\n- the boundary point is included in a class B boundary.</data>
       </node>
       <node id="Rule1363" labels=":Rule">
          <data key="ID">Rule1363</data>
          <data key="Signifier">Class B non-primary parcel boundary permitted inaccurate relationship to underlying parcel</data>
-         <data key="Statement">A boundary that defines a non-primary parcel may be not accurately related to another boundary that defines a primary parcel that underlies the non-primary parcel in a cadastral survey only if the primary parcel is not created by that cadastral survey and any of the following are true:
-- the boundary is a class b boundary
-- the other boundary is a class b boundary
-- none of the boundaries that define the primary parcel are accurately defined boundaries.</data>
+         <data key="Statement">A boundary that defines a non-primary parcel may be not accurately related to another boundary that defines a primary parcel that underlies the non-primary parcel in a cadastral survey only if the primary parcel is not created by that cadastral survey and any of the following are true:\u003Cbr/\u003E\n- the boundary is a class b boundary\u003Cbr/\u003E\n- the other boundary is a class b boundary\u003Cbr/\u003E\n- none of the boundaries that define the primary parcel are accurately defined boundaries.</data>
       </node>
       <node id="Rule1133" labels=":Rule">
          <data key="ID">Rule1133</data>
          <data key="Signifier">Class C Accuracy</data>
-         <data key="Statement">An accuracy [relative] between a boundary point and another boundary point must be considered a class C accuracy only if all of the following are true:
-- The accuracy [relative] is less than or equal to 1.00 + (0.003 * the horizontal distance between the boundary points)
-- The accuracy [relative] is less than or equal to 1.00 + (0.003 * the slope distance between the boundary points).</data>
+         <data key="Statement">An accuracy [relative] between a boundary point and another boundary point must be considered a class C accuracy only if all of the following are true:\u003Cbr/\u003E\n- The accuracy [relative] is less than or equal to 1.00 + (0.003 * the horizontal distance between the boundary points)\u003Cbr/\u003E\n- The accuracy [relative] is less than or equal to 1.00 + (0.003 * the slope distance between the boundary points).</data>
       </node>
       <node id="Rule1345" labels=":Rule">
          <data key="ID">Rule1345</data>
          <data key="Signifier">Class C Boundary 1</data>
-         <data key="Statement">A boundary that defines a primary parcel must be a class C boundary only if all of the following are true:
-- the boundary is an adopted boundary
-- the boundary is not a class A boundary.</data>
+         <data key="Statement">A boundary that defines a primary parcel must be a class C boundary only if all of the following are true:\u003Cbr/\u003E\n- the boundary is an adopted boundary\u003Cbr/\u003E\n- the boundary is not a class A boundary.</data>
       </node>
       <node id="Rule1464" labels=":Rule">
          <data key="ID">Rule1464</data>
          <data key="Signifier">Class C Boundary 2</data>
-         <data key="Statement">A boundary must not be considered a class C boundary if all of the following are false:
-- the boundary defines a majority successor parcel
-- the boundary defines a new large rural parcel.</data>
+         <data key="Statement">A boundary must not be considered a class C boundary if all of the following are false:\u003Cbr/\u003E\n- the boundary defines a majority successor parcel\u003Cbr/\u003E\n- the boundary defines a new large rural parcel.</data>
       </node>
       <node id="Rule1463" labels=":Rule">
          <data key="ID">Rule1463</data>
          <data key="Signifier">Class C Boundary 3</data>
-         <data key="Statement">A boundary must not be considered a class C boundary if all of the following are false:
-- an accuracy [relative] between boundary points that are included in the boundary is not class B accuracy
-- the boundary defines a parcel that is included in a title that is to remain limited as to parcels
-- the boundary defines a parcel that is included in a title that is to remain a Hawkes Bay interim title.</data>
+         <data key="Statement">A boundary must not be considered a class C boundary if all of the following are false:\u003Cbr/\u003E\n- an accuracy [relative] between boundary points that are included in the boundary is not class B accuracy\u003Cbr/\u003E\n- the boundary defines a parcel that is included in a title that is to remain limited as to parcels\u003Cbr/\u003E\n- the boundary defines a parcel that is included in a title that is to remain a Hawkes Bay interim title.</data>
       </node>
       <node id="Rule1350" labels=":Rule">
          <data key="ID">Rule1350</data>
          <data key="Signifier">Class C Boundary Point</data>
-         <data key="Statement">A boundary point must be considered a class C boundary point if all of the following are true:
-- the boundary point is not included in a class A boundary
-- the boundary point is not included in a class B boundary
-- the boundary point is included in a class C boundary.</data>
+         <data key="Statement">A boundary point must be considered a class C boundary point if all of the following are true:\u003Cbr/\u003E\n- the boundary point is not included in a class A boundary\u003Cbr/\u003E\n- the boundary point is not included in a class B boundary\u003Cbr/\u003E\n- the boundary point is included in a class C boundary.</data>
       </node>
       <node id="Rule1285" labels=":Rule">
          <data key="ID">Rule1285</data>
@@ -2415,9 +2189,7 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1364" labels=":Rule">
          <data key="ID">Rule1364</data>
          <data key="Signifier">Class C non-primary parcel accuracy 1</data>
-         <data key="Statement">The relationship between a non-primary parcel and the underlying primary parcel may be inaccurately determined only if all of the following are true:
-- the non-primary parcel is an easement parcel or covenant parcel
-- the boundaries that define the non-primary parcel are class C boundaries.</data>
+         <data key="Statement">The relationship between a non-primary parcel and the underlying primary parcel may be inaccurately determined only if all of the following are true:\u003Cbr/\u003E\n- the non-primary parcel is an easement parcel or covenant parcel\u003Cbr/\u003E\n- the boundaries that define the non-primary parcel are class C boundaries.</data>
       </node>
       <node id="Rule1347" labels=":Rule">
          <data key="ID">Rule1347</data>
@@ -2427,11 +2199,7 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1351" labels=":Rule">
          <data key="ID">Rule1351</data>
          <data key="Signifier">Class D Boundary Point</data>
-         <data key="Statement">A boundary point must be considered a class D boundary point if all of the following are true:
-- the boundary point is not included in a class A boundary
-- the boundary point is not included in a class B boundary
-- the boundary point is not included in a class C boundary
-- the boundary point is included in a class D boundary.</data>
+         <data key="Statement">A boundary point must be considered a class D boundary point if all of the following are true:\u003Cbr/\u003E\n- the boundary point is not included in a class A boundary\u003Cbr/\u003E\n- the boundary point is not included in a class B boundary\u003Cbr/\u003E\n- the boundary point is not included in a class C boundary\u003Cbr/\u003E\n- the boundary point is included in a class D boundary.</data>
       </node>
       <node id="Rule1075" labels=":Rule">
          <data key="ID">Rule1075</data>
@@ -2441,27 +2209,17 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1239" labels=":Rule">
          <data key="ID">Rule1239</data>
          <data key="Signifier">Connection - horizontal datum 1</data>
-         <data key="Statement">A boundary point that is included in a boundary that defines a new primary parcel must be connected to a cadastral survey network mark that is less than and equal to 1,000m from the boundary point by a series of vectors that consists only of vectors that are adopted or measured if any of the following is true:
-- the boundary point is a new boundary point
-- the boundary point is a new boundary mark
-- the boundary point is a old boundary mark.</data>
+         <data key="Statement">A boundary point that is included in a boundary that defines a new primary parcel must be connected to a cadastral survey network mark that is less than and equal to 1,000m from the boundary point by a series of vectors that consists only of vectors that are adopted or measured if any of the following is true:\u003Cbr/\u003E\n- the boundary point is a new boundary point\u003Cbr/\u003E\n- the boundary point is a new boundary mark\u003Cbr/\u003E\n- the boundary point is a old boundary mark.</data>
       </node>
       <node id="Rule1123" labels=":Rule">
          <data key="ID">Rule1123</data>
          <data key="Signifier">Connection - horizontal datum 2</data>
-         <data key="Statement">A boundary point that is included in a boundary that defines a new primary parcel may be connected to only cadastral survey network marks that are more than 1,000m from the boundary point only if all of the following are true:
-- there are no existing cadastral survey network marks that are less than or equal to 1,000m from the boundary point
-- the boundary point is connected to the cadastral survey network marks by a series of vectors that consists only of vectors that are adopted or measured
-- the boundary point is a new boundary point or a new boundary mark or a old boundary mark.</data>
+         <data key="Statement">A boundary point that is included in a boundary that defines a new primary parcel may be connected to only cadastral survey network marks that are more than 1,000m from the boundary point only if all of the following are true:\u003Cbr/\u003E\n- there are no existing cadastral survey network marks that are less than or equal to 1,000m from the boundary point\u003Cbr/\u003E\n- the boundary point is connected to the cadastral survey network marks by a series of vectors that consists only of vectors that are adopted or measured\u003Cbr/\u003E\n- the boundary point is a new boundary point or a new boundary mark or a old boundary mark.</data>
       </node>
       <node id="Rule1107" labels=":Rule">
          <data key="ID">Rule1107</data>
          <data key="Signifier">Content of simple boundary reinstatement CSD</data>
-         <data key="Statement">A simple boundary reinstatement CSD must include all of the following:
-- a record of survey 
-- a survey report
-- a dataset description that includes the survey purpose and the legal description of the parcel whose boundary is being reinstated
-- a statement of certification.</data>
+         <data key="Statement">A simple boundary reinstatement CSD must include all of the following:\u003Cbr/\u003E\n- a record of survey \u003Cbr/\u003E\n- a survey report\u003Cbr/\u003E\n- a dataset description that includes the survey purpose and the legal description of the parcel whose boundary is being reinstated\u003Cbr/\u003E\n- a statement of certification.</data>
       </node>
       <node id="Rule1259" labels=":Rule">
          <data key="ID">Rule1259</data>
@@ -2471,11 +2229,7 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1497" labels=":Rule">
          <data key="ID">Rule1497</data>
          <data key="Signifier">Data compliance</data>
-         <data key="Statement">A CSD must comply with the cadastral survey rules when in providing data about the following:
-- a bearing
-- a distance
-- a reduced level
-- an area [quantity].</data>
+         <data key="Statement">A CSD must comply with the cadastral survey rules when in providing data about the following:\u003Cbr/\u003E\n- a bearing\u003Cbr/\u003E\n- a distance\u003Cbr/\u003E\n- a reduced level\u003Cbr/\u003E\n- an area [quantity].</data>
       </node>
       <node id="Rule1142" labels=":Rule">
          <data key="ID">Rule1142</data>
@@ -2485,15 +2239,7 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1143" labels=":Rule">
          <data key="ID">Rule1143</data>
          <data key="Signifier">Definition of existing boundary point required to be marked</data>
-         <data key="Statement">A boundary point that is included in an existing boundary that defines a new primary parcel must be defined by survey if any of the following are true:
-- the boundary point is subject to conflict
-- the boundary point is included in an existing boundary that is defined in an approved CSD where the definition of the existing boundary is insufficient for determining the compliance of the boundary with the applicable accuracy standard
-- the boundary point is included in an existing boundary that is only defined in a diagram on transfer 
-- the boundary point is included in an existing boundary that defines a parcel from which limitation as to parcels is being uplifted 
-- the boundary point is included in an existing boundary of a parcel from which the interim nature of the Hawkes Bay interim title is being removed
-- the boundary point is included in an existing boundary of a parcel that is subject to a claim for adverse possession
-- the boundary point is recorded in a Maori land CSD that is annotated "computed plan-areas and boundaries not defined by survey"
-- the boundary point was an unmarked boundary point that is included in a boundary defining a non-primary parcel.</data>
+         <data key="Statement">A boundary point that is included in an existing boundary that defines a new primary parcel must be defined by survey if any of the following are true:\u003Cbr/\u003E\n- the boundary point is subject to conflict\u003Cbr/\u003E\n- the boundary point is included in an existing boundary that is defined in an approved CSD where the definition of the existing boundary is insufficient for determining the compliance of the boundary with the applicable accuracy standard\u003Cbr/\u003E\n- the boundary point is included in an existing boundary that is only defined in a diagram on transfer \u003Cbr/\u003E\n- the boundary point is included in an existing boundary that defines a parcel from which limitation as to parcels is being uplifted \u003Cbr/\u003E\n- the boundary point is included in an existing boundary of a parcel from which the interim nature of the Hawkes Bay interim title is being removed\u003Cbr/\u003E\n- the boundary point is included in an existing boundary of a parcel that is subject to a claim for adverse possession\u003Cbr/\u003E\n- the boundary point is recorded in a Maori land CSD that is annotated "computed plan-areas and boundaries not defined by survey"\u003Cbr/\u003E\n- the boundary point was an unmarked boundary point that is included in a boundary defining a non-primary parcel.</data>
       </node>
       <node id="Rule1140" labels=":Rule">
          <data key="ID">Rule1140</data>
@@ -2528,11 +2274,7 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1144" labels=":Rule">
          <data key="ID">Rule1144</data>
          <data key="Signifier">Derivation of affected by ground movement</data>
-         <data key="Statement">A boundary must be considered to be affected by ground movement if all of the following are true:
-- ground movement has distorted land crossed by the boundary in excess of the tolerance for the accuracy class relevant to the boundary
-- the boundary has not been subsequently defined by survey and recorded in an approved CSD.
-
-- is it better to rename the concept to 'boundary affected by ground movement'</data>
+         <data key="Statement">A boundary must be considered to be affected by ground movement if all of the following are true:\u003Cbr/\u003E\n- ground movement has distorted land crossed by the boundary in excess of the tolerance for the accuracy class relevant to the boundary\u003Cbr/\u003E\n- the boundary has not been subsequently defined by survey and recorded in an approved CSD.\u003Cbr/\u003E\n\u003Cbr/\u003E\n- is it better to rename the concept to 'boundary affected by ground movement'</data>
       </node>
       <node id="Rule1379" labels=":Rule">
          <data key="ID">Rule1379</data>
@@ -2547,45 +2289,32 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1378" labels=":Rule">
          <data key="ID">Rule1378</data>
          <data key="Signifier">Derivation of class A boundary is subject to accuracy conflict with estate boundary</data>
-         <data key="Statement">A class A boundary that is recorded in an approved CSD must be considered a boundary subject to conflict if all of the following are true:
-- the accuracy [relative] between a boundary point that is included in the boundary and another boundary point that is included in an estate boundary that coincides with the boundary is not class A
-- the conflict is not resolved in another approved CSD.</data>
+         <data key="Statement">A class A boundary that is recorded in an approved CSD must be considered a boundary subject to conflict if all of the following are true:\u003Cbr/\u003E\n- the accuracy [relative] between a boundary point that is included in the boundary and another boundary point that is included in an estate boundary that coincides with the boundary is not class A\u003Cbr/\u003E\n- the conflict is not resolved in another approved CSD.</data>
       </node>
       <node id="Rule1430" labels=":Rule">
          <data key="ID">Rule1430</data>
          <data key="Signifier">Derivation of class A boundary is subject to position conflict with estate boundary</data>
-         <data key="Statement">A class A boundary recorded in an approved CSD must be considered a boundary subject to conflict if all of the following are true:
-- the accuracy [relative] between boundary points that are included in the boundary is not class A when other approved CSDs that record the boundary are taken into consideration
-- the conflict is not resolved in another approved CSD.</data>
+         <data key="Statement">A class A boundary recorded in an approved CSD must be considered a boundary subject to conflict if all of the following are true:\u003Cbr/\u003E\n- the accuracy [relative] between boundary points that are included in the boundary is not class A when other approved CSDs that record the boundary are taken into consideration\u003Cbr/\u003E\n- the conflict is not resolved in another approved CSD.</data>
       </node>
       <node id="Rule1466" labels=":Rule">
          <data key="ID">Rule1466</data>
          <data key="Signifier">Derivation of class B accurate relation of boundary points</data>
-         <data key="Statement">A class B boundary point must be considered a boundary point accurately related to another boundary point only if the accuracy [relative] between the boundary points is class B accuracy when the other boundary point is any of:
-- a class A boundary point
-- a class B boundary point.</data>
+         <data key="Statement">A class B boundary point must be considered a boundary point accurately related to another boundary point only if the accuracy [relative] between the boundary points is class B accuracy when the other boundary point is any of:\u003Cbr/\u003E\n- a class A boundary point\u003Cbr/\u003E\n- a class B boundary point.</data>
       </node>
       <node id="Rule1422" labels=":Rule">
          <data key="ID">Rule1422</data>
          <data key="Signifier">Derivation of class B boundary is subject to conflict with estate boundary</data>
-         <data key="Statement">A class B boundary must be considered a boundary subject to conflict if all of the following are true:
-- the boundary is an existing boundary
-- the accuracy [relative] between a boundary point that is included in the boundary and a boundary point that is included in an estate boundary that coincides with the boundary is not class B.</data>
+         <data key="Statement">A class B boundary must be considered a boundary subject to conflict if all of the following are true:\u003Cbr/\u003E\n- the boundary is an existing boundary\u003Cbr/\u003E\n- the accuracy [relative] between a boundary point that is included in the boundary and a boundary point that is included in an estate boundary that coincides with the boundary is not class B.</data>
       </node>
       <node id="Rule1467" labels=":Rule">
          <data key="ID">Rule1467</data>
          <data key="Signifier">Derivation of class C accurate relation of boundary points</data>
-         <data key="Statement">A class C boundary point must be considered a boundary point accurately related to another boundary point only if the accuracy [relative] between the boundary points is class C accuracy when the other boundary point is any of:
-- a class A boundary point
-- a class B boundary point
-- a class C boundary point.</data>
+         <data key="Statement">A class C boundary point must be considered a boundary point accurately related to another boundary point only if the accuracy [relative] between the boundary points is class C accuracy when the other boundary point is any of:\u003Cbr/\u003E\n- a class A boundary point\u003Cbr/\u003E\n- a class B boundary point\u003Cbr/\u003E\n- a class C boundary point.</data>
       </node>
       <node id="Rule1421" labels=":Rule">
          <data key="ID">Rule1421</data>
          <data key="Signifier">Derivation of class C boundary is subject to conflict with estate boundary</data>
-         <data key="Statement">A class C boundary must be considered a boundary subject to conflict if all of the following are true:
-- the boundary is an existing boundary
-- the accuracy [relative] between a boundary point that is included in the boundary and a boundary point that is included in an estate boundary that coincides with the boundary is not class C.</data>
+         <data key="Statement">A class C boundary must be considered a boundary subject to conflict if all of the following are true:\u003Cbr/\u003E\n- the boundary is an existing boundary\u003Cbr/\u003E\n- the accuracy [relative] between a boundary point that is included in the boundary and a boundary point that is included in an estate boundary that coincides with the boundary is not class C.</data>
       </node>
       <node id="Rule1468" labels=":Rule">
          <data key="ID">Rule1468</data>
@@ -2595,9 +2324,7 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1423" labels=":Rule">
          <data key="ID">Rule1423</data>
          <data key="Signifier">Derivation of class D boundary is subject to conflict with estate boundary</data>
-         <data key="Statement">A class D boundary must be considered a boundary subject to conflict if all of the following are true:
-- the boundary is an existing boundary
-- the accuracy [relative] between a boundary point that is included in the boundary and a boundary point that is included in an estate boundary that coincides with the boundary is not class D.</data>
+         <data key="Statement">A class D boundary must be considered a boundary subject to conflict if all of the following are true:\u003Cbr/\u003E\n- the boundary is an existing boundary\u003Cbr/\u003E\n- the accuracy [relative] between a boundary point that is included in the boundary and a boundary point that is included in an estate boundary that coincides with the boundary is not class D.</data>
       </node>
       <node id="Rule1003" labels=":Rule">
          <data key="ID">Rule1003</data>
@@ -2652,9 +2379,7 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1172" labels=":Rule">
          <data key="ID">Rule1172</data>
          <data key="Signifier">Derivation of extinguished parcel</data>
-         <data key="Statement">An existing parcel must be considered an extinguished parcel if any of the following is true:
-- the existing parcel has been replaced by at least one new parcel
-- the existing parcel has expired.</data>
+         <data key="Statement">An existing parcel must be considered an extinguished parcel if any of the following is true:\u003Cbr/\u003E\n- the existing parcel has been replaced by at least one new parcel\u003Cbr/\u003E\n- the existing parcel has expired.</data>
       </node>
       <node id="Rule1405" labels=":Rule">
          <data key="ID">Rule1405</data>
@@ -2684,9 +2409,7 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1399" labels=":Rule">
          <data key="ID">Rule1399</data>
          <data key="Signifier">Destroyed or not found survey mark</data>
-         <data key="Statement">A record of survey must identify whether a survey mark is any of the following:
-- searched for and not found
-- destroyed.</data>
+         <data key="Statement">A record of survey must identify whether a survey mark is any of the following:\u003Cbr/\u003E\n- searched for and not found\u003Cbr/\u003E\n- destroyed.</data>
       </node>
       <node id="Rule1243" labels=":Rule">
          <data key="ID">Rule1243</data>
@@ -2706,16 +2429,12 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1376" labels=":Rule">
          <data key="ID">Rule1376</data>
          <data key="Signifier">Easement or covenant accuracy between boundary point and adopted CSNM</data>
-         <data key="Statement">The accuracy [relative] between a boundary point that defines a boundary of a non-primary parcel and a cadastral survey network mark must be less than or equal to 0.6 m if all of the following are true:
-- the non-primary parcel is an easement parcel or a covenant parcel
-- the boundary is not a class D boundary.</data>
+         <data key="Statement">The accuracy [relative] between a boundary point that defines a boundary of a non-primary parcel and a cadastral survey network mark must be less than or equal to 0.6 m if all of the following are true:\u003Cbr/\u003E\n- the non-primary parcel is an easement parcel or a covenant parcel\u003Cbr/\u003E\n- the boundary is not a class D boundary.</data>
       </node>
       <node id="Rule1375" labels=":Rule">
          <data key="ID">Rule1375</data>
          <data key="Signifier">Easement or covenant connected by vectors to CSNM</data>
-         <data key="Statement">A boundary point that defines a boundary of a non-primary parcel must be connected by vectors to at least 1 cadastral survey network mark if all of the following are true:
-- the non-primary parcel is an easement parcel or a covenant parcel
-- the boundary is not a class D boundary.</data>
+         <data key="Statement">A boundary point that defines a boundary of a non-primary parcel must be connected by vectors to at least 1 cadastral survey network mark if all of the following are true:\u003Cbr/\u003E\n- the non-primary parcel is an easement parcel or a covenant parcel\u003Cbr/\u003E\n- the boundary is not a class D boundary.</data>
       </node>
       <node id="Rule1041" labels=":Rule">
          <data key="ID">Rule1041</data>
@@ -2730,11 +2449,7 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1061" labels=":Rule">
          <data key="ID">Rule1061</data>
          <data key="Signifier">Existing irregular boundary on a new primary parcel</data>
-         <data key="Statement">A new primary parcel may be defined by an existing irregular boundary only if any of the following are true:
-- the irregular boundary is an accepted boundary
-- the primary parcel is a majority successor parcel
-- the primary parcel is a large rural parcel
-- the irregular boundary was previously a water boundary.</data>
+         <data key="Statement">A new primary parcel may be defined by an existing irregular boundary only if any of the following are true:\u003Cbr/\u003E\n- the irregular boundary is an accepted boundary\u003Cbr/\u003E\n- the primary parcel is a majority successor parcel\u003Cbr/\u003E\n- the primary parcel is a large rural parcel\u003Cbr/\u003E\n- the irregular boundary was previously a water boundary.</data>
       </node>
       <node id="Rule1352" labels=":Rule">
          <data key="ID">Rule1352</data>
@@ -2749,34 +2464,22 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1257" labels=":Rule">
          <data key="ID">Rule1257</data>
          <data key="Signifier">Existing unit and lease boundaries accepted</data>
-         <data key="Statement">The boundaries of an existing unit parcel may be accepted only if all of the following are true:
-- the existing parcel is included in an approved CSD
-- no change is made to any parcel boundary
-- no change is made to the record of title of the parcel.</data>
+         <data key="Statement">The boundaries of an existing unit parcel may be accepted only if all of the following are true:\u003Cbr/\u003E\n- the existing parcel is included in an approved CSD\u003Cbr/\u003E\n- no change is made to any parcel boundary\u003Cbr/\u003E\n- no change is made to the record of title of the parcel.</data>
       </node>
       <node id="Rule1266" labels=":Rule">
          <data key="ID">Rule1266</data>
          <data key="Signifier">Existing unit and lease boundaries accepted 2</data>
-         <data key="Statement">The boundaries of an existing company lease parcel may be accepted only if all of the following are true:
-- the existing parcel is included in an approved CSD
-- no change is made to any parcel boundary
-- no change is made to the record of title of the parcel.</data>
+         <data key="Statement">The boundaries of an existing company lease parcel may be accepted only if all of the following are true:\u003Cbr/\u003E\n- the existing parcel is included in an approved CSD\u003Cbr/\u003E\n- no change is made to any parcel boundary\u003Cbr/\u003E\n- no change is made to the record of title of the parcel.</data>
       </node>
       <node id="Rule1267" labels=":Rule">
          <data key="ID">Rule1267</data>
          <data key="Signifier">Existing unit and lease boundaries accepted 3</data>
-         <data key="Statement">The boundaries of an existing cross lease parcel may be accepted only if all of the following are true:
-- the existing parcel is included in an approved CSD
-- no change is made to any parcel boundary
-- no change is made to the record of title of the parcel.</data>
+         <data key="Statement">The boundaries of an existing cross lease parcel may be accepted only if all of the following are true:\u003Cbr/\u003E\n- the existing parcel is included in an approved CSD\u003Cbr/\u003E\n- no change is made to any parcel boundary\u003Cbr/\u003E\n- no change is made to the record of title of the parcel.</data>
       </node>
       <node id="Rule1258" labels=":Rule">
          <data key="ID">Rule1258</data>
          <data key="Signifier">Existing unit and lease boundary parcel appellation</data>
-         <data key="Statement">The existing parcel appellation of all of the following must be retained if the boundaries of the parcel are accepted:
-- an existing unit parcel
-- an existing company lease parcel 
-- an existing cross lease parcel.</data>
+         <data key="Statement">The existing parcel appellation of all of the following must be retained if the boundaries of the parcel are accepted:\u003Cbr/\u003E\n- an existing unit parcel\u003Cbr/\u003E\n- an existing company lease parcel \u003Cbr/\u003E\n- an existing cross lease parcel.</data>
       </node>
       <node id="Rule1102" labels=":Rule">
          <data key="ID">Rule1102</data>
@@ -2811,16 +2514,12 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1281" labels=":Rule">
          <data key="ID">Rule1281</data>
          <data key="Signifier">Height limited boundary points on unit development 2</data>
-         <data key="Statement">A vertical control mark that is less than or equal to 1,000 m from a new height limited boundary point in a unit title development must be provided with a reduced level in terms of the unit title development if all of the following are true:
-- there is at least one vertical control mark less than or equal to 1,000 m from the boundary point
-- an unofficial datum is used in a cadastral survey for the unit title development.</data>
+         <data key="Statement">A vertical control mark that is less than or equal to 1,000 m from a new height limited boundary point in a unit title development must be provided with a reduced level in terms of the unit title development if all of the following are true:\u003Cbr/\u003E\n- there is at least one vertical control mark less than or equal to 1,000 m from the boundary point\u003Cbr/\u003E\n- an unofficial datum is used in a cadastral survey for the unit title development.</data>
       </node>
       <node id="Rule1293" labels=":Rule">
          <data key="ID">Rule1293</data>
          <data key="Signifier">Height limited boundary points on unit development 3</data>
-         <data key="Statement">A vertical control mark that is more than 1,000 m from a new height limited boundary point in a unit title development must be provided with a reduced level in terms of a unit title development if all of the following are true:
-- there are no vertical control marks that are less than or equal to 1,000 m from the boundary point
-- an unofficial datum is used in a cadastral survey for the unit title development.</data>
+         <data key="Statement">A vertical control mark that is more than 1,000 m from a new height limited boundary point in a unit title development must be provided with a reduced level in terms of a unit title development if all of the following are true:\u003Cbr/\u003E\n- there are no vertical control marks that are less than or equal to 1,000 m from the boundary point\u003Cbr/\u003E\n- an unofficial datum is used in a cadastral survey for the unit title development.</data>
       </node>
       <node id="Rule1125" labels=":Rule">
          <data key="ID">Rule1125</data>
@@ -2870,19 +2569,12 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1057" labels=":Rule">
          <data key="ID">Rule1057</data>
          <data key="Signifier">Horizontal extent of a primary parcel</data>
-         <data key="Statement">The horizontal extent of a primary parcel must be defined by only the following:
-- a right-line boundary
-- an arc boundary
-- a water or irregular boundary.</data>
+         <data key="Statement">The horizontal extent of a primary parcel must be defined by only the following:\u003Cbr/\u003E\n- a right-line boundary\u003Cbr/\u003E\n- an arc boundary\u003Cbr/\u003E\n- a water or irregular boundary.</data>
       </node>
       <node id="Rule1035" labels=":Rule">
          <data key="ID">Rule1035</data>
          <data key="Signifier">Horizontal extent of non-primary parcel</data>
-         <data key="Statement">The horizontal extent of a non-primary parcel must be defined by only the following:
-- a right-line boundary
-- an arc boundary
-- a water or irregular boundary 
-- a permanent structure boundary.</data>
+         <data key="Statement">The horizontal extent of a non-primary parcel must be defined by only the following:\u003Cbr/\u003E\n- a right-line boundary\u003Cbr/\u003E\n- an arc boundary\u003Cbr/\u003E\n- a water or irregular boundary \u003Cbr/\u003E\n- a permanent structure boundary.</data>
       </node>
       <node id="Rule1400" labels=":Rule">
          <data key="ID">Rule1400</data>
@@ -2892,12 +2584,7 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1310" labels=":Rule">
          <data key="ID">Rule1310</data>
          <data key="Signifier">Information in Record of Survey 1</data>
-         <data key="Statement">A record of survey must include all of the following:
-- a survey diagram
-- a list of all CSDs used in the survey
-- the identity of any parcel that is to be extinguished.
-- the dataset description
-- a statement of certification.</data>
+         <data key="Statement">A record of survey must include all of the following:\u003Cbr/\u003E\n- a survey diagram\u003Cbr/\u003E\n- a list of all CSDs used in the survey\u003Cbr/\u003E\n- the identity of any parcel that is to be extinguished.\u003Cbr/\u003E\n- the dataset description\u003Cbr/\u003E\n- a statement of certification.</data>
       </node>
       <node id="Rule1311" labels=":Rule">
          <data key="ID">Rule1311</data>
@@ -2912,10 +2599,7 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1313" labels=":Rule">
          <data key="ID">Rule1313</data>
          <data key="Signifier">Information in Record of Survey 4</data>
-         <data key="Statement">A record of survey must include all of the following on every sheet of the record of survey:
-- the CSD number
-- the sheet number
-- the total number of sheets in the record of survey.</data>
+         <data key="Statement">A record of survey must include all of the following on every sheet of the record of survey:\u003Cbr/\u003E\n- the CSD number\u003Cbr/\u003E\n- the sheet number\u003Cbr/\u003E\n- the total number of sheets in the record of survey.</data>
       </node>
       <node id="Rule1255" labels=":Rule">
          <data key="ID">Rule1255</data>
@@ -2935,14 +2619,7 @@ as national parks for their intrinsic worth and for the benefit, use, and enjoym
       <node id="Rule1047" labels=":Rule">
          <data key="ID">Rule1047</data>
          <data key="Signifier">Labeling a new parcel of land</data>
-         <data key="Statement">A parcel ID of a new parcel in a CSD must consist of the following components in the listed sequence:
-- a parcel type component
-- a unique parcel identifier
-- the CSD number
-if the parcel is not any of the following:
-- a new parcel described as a Maori freehold land
-- a balance parcel
-- a residue parcel.</data>
+         <data key="Statement">A parcel ID of a new parcel in a CSD must consist of the following components in the listed sequence:\u003Cbr/\u003E\n- a parcel type component\u003Cbr/\u003E\n- a unique parcel identifier\u003Cbr/\u003E\n- the CSD number\u003Cbr/\u003E\nif the parcel is not any of the following:\u003Cbr/\u003E\n- a new parcel described as a Maori freehold land\u003Cbr/\u003E\n- a balance parcel\u003Cbr/\u003E\n- a residue parcel.</data>
       </node>
       <node id="Rule1397" labels=":Rule">
          <data key="ID">Rule1397</data>
@@ -2952,25 +2629,17 @@ if the parcel is not any of the following:
       <node id="Rule1049" labels=":Rule">
          <data key="ID">Rule1049</data>
          <data key="Signifier">Labeling a residue parcel in a CSD</data>
-         <data key="Statement">A parcel ID of a residue parcel in a CSD must consist of the prefix "Part" added to the parcel ID of the existing parcel if the other portion of the existing parcel has been described as any of the following:
-- the bed of a lake
-- the bed of a river
-- part of the common marine and coastal area.</data>
+         <data key="Statement">A parcel ID of a residue parcel in a CSD must consist of the prefix "Part" added to the parcel ID of the existing parcel if the other portion of the existing parcel has been described as any of the following:\u003Cbr/\u003E\n- the bed of a lake\u003Cbr/\u003E\n- the bed of a river\u003Cbr/\u003E\n- part of the common marine and coastal area.</data>
       </node>
       <node id="Rule1042" labels=":Rule">
          <data key="ID">Rule1042</data>
          <data key="Signifier">Labelling a new parcel of Maori land</data>
-         <data key="Statement">A parcel ID for a new parcel described as a Maori freehold land in a CSD must consist of the following components in the listed sequence:
-- a block name or an alternative legal description confirmed by the Maori Land Court
-- a unique parcel identifier or an alternative legal description confirmed by the Maori Land Court
-- the CSD number.</data>
+         <data key="Statement">A parcel ID for a new parcel described as a Maori freehold land in a CSD must consist of the following components in the listed sequence:\u003Cbr/\u003E\n- a block name or an alternative legal description confirmed by the Maori Land Court\u003Cbr/\u003E\n- a unique parcel identifier or an alternative legal description confirmed by the Maori Land Court\u003Cbr/\u003E\n- the CSD number.</data>
       </node>
       <node id="Rule1448" labels=":Rule">
          <data key="ID">Rule1448</data>
          <data key="Signifier">Land value and water or irregular boundaries</data>
-         <data key="Statement">A water or irregular boundary that is not an accepted boundary must have its position determined to a level of accuracy [positional] that takes into account for each parcel that is defined by the boundary all of the following:
-- the value of the land
-- the intensity of the land use.</data>
+         <data key="Statement">A water or irregular boundary that is not an accepted boundary must have its position determined to a level of accuracy [positional] that takes into account for each parcel that is defined by the boundary all of the following:\u003Cbr/\u003E\n- the value of the land\u003Cbr/\u003E\n- the intensity of the land use.</data>
       </node>
       <node id="Rule1101" labels=":Rule">
          <data key="ID">Rule1101</data>
@@ -2980,30 +2649,17 @@ if the parcel is not any of the following:
       <node id="Rule1417" labels=":Rule">
          <data key="ID">Rule1417</data>
          <data key="Signifier">Minimum PRMs in a cadastral survey</data>
-         <data key="Statement">A cadastral survey must include at least 3 permanent reference marks.
-
-========================
-
-A cadastral survey must include at least 3 permanent reference marks for which any of the following is true:
-- the permanent reference mark is not more than 150 m from a referenced point that is a class a boundary point
-- the permanent reference mark is not more than 500 m from a referenced point that is a class b boundary point
-- the permanent reference mark is not more than 1000m from a referenced point that is a class c boundary point.</data>
+         <data key="Statement">A cadastral survey must include at least 3 permanent reference marks.\u003Cbr/\u003E\n\u003Cbr/\u003E\n========================\u003Cbr/\u003E\n\u003Cbr/\u003E\nA cadastral survey must include at least 3 permanent reference marks for which any of the following is true:\u003Cbr/\u003E\n- the permanent reference mark is not more than 150 m from a referenced point that is a class a boundary point\u003Cbr/\u003E\n- the permanent reference mark is not more than 500 m from a referenced point that is a class b boundary point\u003Cbr/\u003E\n- the permanent reference mark is not more than 1000m from a referenced point that is a class c boundary point.</data>
       </node>
       <node id="Rule1174" labels=":Rule">
          <data key="ID">Rule1174</data>
          <data key="Signifier">Minimum width of a new primary parcel with class A boundaries</data>
-         <data key="Statement">A new primary parcel must be greater than or equal to 0.1 m wide if all of the following are true:
-- the boundaries that define the primary parcel are class A boundaries
-- the primary parcel is not a balance parcel 
-- the primary parcel is not a residue parcel.</data>
+         <data key="Statement">A new primary parcel must be greater than or equal to 0.1 m wide if all of the following are true:\u003Cbr/\u003E\n- the boundaries that define the primary parcel are class A boundaries\u003Cbr/\u003E\n- the primary parcel is not a balance parcel \u003Cbr/\u003E\n- the primary parcel is not a residue parcel.</data>
       </node>
       <node id="Rule1391" labels=":Rule">
          <data key="ID">Rule1391</data>
          <data key="Signifier">Minimum width of a new primary parcel with class B, C or D boundaries</data>
-         <data key="Statement">A new primary parcel must be greater than or equal to 0.2 m wide if all of the following are true:
-- the boundaries that define the primary parcel are not class A boundaries
-- the primary parcel is not a balance parcel 
-- the primary parcel is not a residue parcel.</data>
+         <data key="Statement">A new primary parcel must be greater than or equal to 0.2 m wide if all of the following are true:\u003Cbr/\u003E\n- the boundaries that define the primary parcel are not class A boundaries\u003Cbr/\u003E\n- the primary parcel is not a balance parcel \u003Cbr/\u003E\n- the primary parcel is not a residue parcel.</data>
       </node>
       <node id="Rule1446" labels=":Rule">
          <data key="ID">Rule1446</data>
@@ -3018,36 +2674,22 @@ A cadastral survey must include at least 3 permanent reference marks for which a
       <node id="Rule1402" labels=":Rule">
          <data key="ID">Rule1402</data>
          <data key="Signifier">Naming a survey mark 2</data>
-         <data key="Statement">A new survey point in a CSD that is unmarked must have a name that consists of all the following components in the listed sequence:
-- the abbreviation 'UNMK'
-- a unique alphanumeric identifier
-- the CSD number.</data>
+         <data key="Statement">A new survey point in a CSD that is unmarked must have a name that consists of all the following components in the listed sequence:\u003Cbr/\u003E\n- the abbreviation 'UNMK'\u003Cbr/\u003E\n- a unique alphanumeric identifier\u003Cbr/\u003E\n- the CSD number.</data>
       </node>
       <node id="Rule1054" labels=":Rule">
          <data key="ID">Rule1054</data>
          <data key="Signifier">Naming a survey mark1</data>
-         <data key="Statement">A new survey mark in a CSD must have a mark name that consists of all the following components in the listed sequence:
-- an abbreviation describing the physical mark type
-- a unique alphanumeric identifier
-- the CSD number.</data>
+         <data key="Statement">A new survey mark in a CSD must have a mark name that consists of all the following components in the listed sequence:\u003Cbr/\u003E\n- an abbreviation describing the physical mark type\u003Cbr/\u003E\n- a unique alphanumeric identifier\u003Cbr/\u003E\n- the CSD number.</data>
       </node>
       <node id="Rule1241" labels=":Rule">
          <data key="ID">Rule1241</data>
          <data key="Signifier">New boundary mark physical properties 1</data>
-         <data key="Statement">A new boundary mark must be one of the following if practicable:
-- a wooden peg that is chamfered at the top and has a minimum width of 45 mm and is at least 3000 square mm in cross-section
-- a type of peg that is not a wooden peg and is clearly labelled as a boundary mark
-- a post
-- a mark in a post which is clearly labelled as a boundary mark.</data>
+         <data key="Statement">A new boundary mark must be one of the following if practicable:\u003Cbr/\u003E\n- a wooden peg that is chamfered at the top and has a minimum width of 45 mm and is at least 3000 square mm in cross-section\u003Cbr/\u003E\n- a type of peg that is not a wooden peg and is clearly labelled as a boundary mark\u003Cbr/\u003E\n- a post\u003Cbr/\u003E\n- a mark in a post which is clearly labelled as a boundary mark.</data>
       </node>
       <node id="Rule1269" labels=":Rule">
          <data key="ID">Rule1269</data>
          <data key="Signifier">New boundary mark physical properties 2</data>
-         <data key="Statement">A new boundary mark must be any other type of mark clearly labeled as a boundary mark if it is not practicable to be any of the following:
-- a wooden peg that is chamfered at the top and has a minimum width of 45 mm and is at least 3000 square mm in cross-section
-- a type of peg that is not a wooden peg and is clearly labelled as a boundary mark
-- a post
-- a mark in a post which is clearly labelled as a boundary mark.</data>
+         <data key="Statement">A new boundary mark must be any other type of mark clearly labeled as a boundary mark if it is not practicable to be any of the following:\u003Cbr/\u003E\n- a wooden peg that is chamfered at the top and has a minimum width of 45 mm and is at least 3000 square mm in cross-section\u003Cbr/\u003E\n- a type of peg that is not a wooden peg and is clearly labelled as a boundary mark\u003Cbr/\u003E\n- a post\u003Cbr/\u003E\n- a mark in a post which is clearly labelled as a boundary mark.</data>
       </node>
       <node id="Rule1242" labels=":Rule">
          <data key="ID">Rule1242</data>
@@ -3067,26 +2709,17 @@ A cadastral survey must include at least 3 permanent reference marks for which a
       <node id="Rule1161" labels=":Rule">
          <data key="ID">Rule1161</data>
          <data key="Signifier">New primary parcel created in a CSD 1</data>
-         <data key="Statement">An existing primary parcel being extinguished by a new primary parcel must have all land in the existing primary parcel included in at least one of the following:
-- one or more new primary parcels
-- a residue parcel
-- a balance parcel.</data>
+         <data key="Statement">An existing primary parcel being extinguished by a new primary parcel must have all land in the existing primary parcel included in at least one of the following:\u003Cbr/\u003E\n- one or more new primary parcels\u003Cbr/\u003E\n- a residue parcel\u003Cbr/\u003E\n- a balance parcel.</data>
       </node>
       <node id="Rule1162" labels=":Rule">
          <data key="ID">Rule1162</data>
          <data key="Signifier">New primary parcel created in a CSD 2</data>
-         <data key="Statement">An existing primary parcel being extinguished by a new primary parcel that is defined by a height limited boundary must have all space occupied by the existing primary parcel included in at least one of the following:
-- one or more new primary parcels
-- a residue parcel
-- a balance parcel.</data>
+         <data key="Statement">An existing primary parcel being extinguished by a new primary parcel that is defined by a height limited boundary must have all space occupied by the existing primary parcel included in at least one of the following:\u003Cbr/\u003E\n- one or more new primary parcels\u003Cbr/\u003E\n- a residue parcel\u003Cbr/\u003E\n- a balance parcel.</data>
       </node>
       <node id="Rule1398" labels=":Rule">
          <data key="ID">Rule1398</data>
          <data key="Signifier">Non-primary parcel accepted boundaries</data>
-         <data key="Statement">A boundary that defines a non-primary parcel and coincides with another boundary defining an underlying parcel must be an accepted boundary if any of the following is true:
-- the boundary is not accurately related to the other boundary
-- the underlying parcel is the bed of a stream or the bed of a river or the bed of a lake
-- the boundary is a class c boundary.</data>
+         <data key="Statement">A boundary that defines a non-primary parcel and coincides with another boundary defining an underlying parcel must be an accepted boundary if any of the following is true:\u003Cbr/\u003E\n- the boundary is not accurately related to the other boundary\u003Cbr/\u003E\n- the underlying parcel is the bed of a stream or the bed of a river or the bed of a lake\u003Cbr/\u003E\n- the boundary is a class c boundary.</data>
       </node>
       <node id="Rule1053" labels=":Rule">
          <data key="ID">Rule1053</data>
@@ -3101,10 +2734,7 @@ A cadastral survey must include at least 3 permanent reference marks for which a
       <node id="Rule1365" labels=":Rule">
          <data key="ID">Rule1365</data>
          <data key="Signifier">Non-primary parcel class D boundaries 1</data>
-         <data key="Statement">A boundary that defines a non-primary parcel and intersects with another boundary defining an underlying parcel must be a class D boundary if any of the following is true:
-- the boundary is not accurately related to the other boundary
-- the underlying parcel is the bed of a stream or the bed of a river or the bed of a lake
-- the boundary is a class c boundary.</data>
+         <data key="Statement">A boundary that defines a non-primary parcel and intersects with another boundary defining an underlying parcel must be a class D boundary if any of the following is true:\u003Cbr/\u003E\n- the boundary is not accurately related to the other boundary\u003Cbr/\u003E\n- the underlying parcel is the bed of a stream or the bed of a river or the bed of a lake\u003Cbr/\u003E\n- the boundary is a class c boundary.</data>
       </node>
       <node id="Rule1461" labels=":Rule">
          <data key="ID">Rule1461</data>
@@ -3114,32 +2744,22 @@ A cadastral survey must include at least 3 permanent reference marks for which a
       <node id="Rule1367" labels=":Rule">
          <data key="ID">Rule1367</data>
          <data key="Signifier">Non-primary parcel class D boundaries 4</data>
-         <data key="Statement">A non-primary parcel boundary must be a class D boundary and the accuracy [relative] of the boundary points must be class D if all of the following are true: 
-- the relationship of the non-primary parcel boundary points are not accurately determined
-- the underlying parcel is a new parcel
-- the non-primary parcel boundary intersects or the non-primary parcel boundary coincides with an accepted boundary of the underlying parcel.</data>
+         <data key="Statement">A non-primary parcel boundary must be a class D boundary and the accuracy [relative] of the boundary points must be class D if all of the following are true: \u003Cbr/\u003E\n- the relationship of the non-primary parcel boundary points are not accurately determined\u003Cbr/\u003E\n- the underlying parcel is a new parcel\u003Cbr/\u003E\n- the non-primary parcel boundary intersects or the non-primary parcel boundary coincides with an accepted boundary of the underlying parcel.</data>
       </node>
       <node id="Rule1377" labels=":Rule">
          <data key="ID">Rule1377</data>
          <data key="Signifier">Non-primary parcel reference to PRM</data>
-         <data key="Statement">A boundary point must be referenced by a permanent reference mark if the boundary point is included in a boundary that defines a non-primary parcel and any of the following is true:
-- the boundary is not a class D boundary and the boundary is not accurately related to a boundary defining an underlying parcel
-- the non-primary parcel overlies a parcel that is the bed of a stream or the bed of a river or the bed of a lake.</data>
+         <data key="Statement">A boundary point must be referenced by a permanent reference mark if the boundary point is included in a boundary that defines a non-primary parcel and any of the following is true:\u003Cbr/\u003E\n- the boundary is not a class D boundary and the boundary is not accurately related to a boundary defining an underlying parcel\u003Cbr/\u003E\n- the non-primary parcel overlies a parcel that is the bed of a stream or the bed of a river or the bed of a lake.</data>
       </node>
       <node id="Rule1372" labels=":Rule">
          <data key="ID">Rule1372</data>
          <data key="Signifier">Non-primary parcel survey bearings</data>
-         <data key="Statement">The horizontal projection used in a cadastral survey must be an official geodetic projection applicable to the area that the cadastral survey is carried out in if the cadastral survey includes a boundary that defines a non-primary parcel and any of the following is true:
-- the boundary is not accurately related to a boundary defining an underlying parcel.
-- the non-primary parcel overlies a parcel that is the bed of a stream or the bed of a river or the bed of a lake
-- the boundary is a class c boundary.</data>
+         <data key="Statement">The horizontal projection used in a cadastral survey must be an official geodetic projection applicable to the area that the cadastral survey is carried out in if the cadastral survey includes a boundary that defines a non-primary parcel and any of the following is true:\u003Cbr/\u003E\n- the boundary is not accurately related to a boundary defining an underlying parcel.\u003Cbr/\u003E\n- the non-primary parcel overlies a parcel that is the bed of a stream or the bed of a river or the bed of a lake\u003Cbr/\u003E\n- the boundary is a class c boundary.</data>
       </node>
       <node id="Rule1366" labels=":Rule">
          <data key="ID">Rule1366</data>
          <data key="Signifier">Non-primary parcel with inaccurate relationship to new primary parcel</data>
-         <data key="Statement">The accuracy [positional] of a non-primary parcel boundary point may be inaccurately determined only if the underlying parcel is a new parcel and any of the following are true:
-- the non-primary parcel boundary intersects with an accepted boundary of the underlying parcel
-- the non-primary parcel boundary coincides with an accepted boundary of the underlying parcel.</data>
+         <data key="Statement">The accuracy [positional] of a non-primary parcel boundary point may be inaccurately determined only if the underlying parcel is a new parcel and any of the following are true:\u003Cbr/\u003E\n- the non-primary parcel boundary intersects with an accepted boundary of the underlying parcel\u003Cbr/\u003E\n- the non-primary parcel boundary coincides with an accepted boundary of the underlying parcel.</data>
       </node>
       <node id="Rule1089" labels=":Rule">
          <data key="ID">Rule1089</data>
@@ -3149,63 +2769,17 @@ A cadastral survey must include at least 3 permanent reference marks for which a
       <node id="Rule1301" labels=":Rule">
          <data key="ID">Rule1301</data>
          <data key="Signifier">Official geodetic projections</data>
-         <data key="Statement">A geodetic projection must be considered an official geodetic projection if it is any of the following NZGD2000 Transverse Mercator 2000 meridional circuit projections:
-- Mount Eden 2000
-- Bay of Plenty 2000
-- Poverty Bay 2000
-- Hawkes Bay 2000
-- Taranaki 2000
-- Tuhirangi 2000
-- Wanganui 2000
-- Wairarapa 2000
-- Wellington 2000
-- Collingwood 2000
-- Nelson 2000
-- Karamea 2000
-- Buller 2000
-- Grey 2000
-- Amuri 2000
-- Marlborough 2000
-- Hokitika 2000
-- Okarito 2000
-- Jacksons Bay 2000
-- Mount Pleasant 2000
-- Gawler 2000
-- Timaru 2000
-- Lindis Peak 2000
-- Mount Nicholas 2000
-- Mount York 2000
-- Observation Point 2000
-- North Taieri 2000
-- Bluff 2000.</data>
+         <data key="Statement">A geodetic projection must be considered an official geodetic projection if it is any of the following NZGD2000 Transverse Mercator 2000 meridional circuit projections:\u003Cbr/\u003E\n- Mount Eden 2000\u003Cbr/\u003E\n- Bay of Plenty 2000\u003Cbr/\u003E\n- Poverty Bay 2000\u003Cbr/\u003E\n- Hawkes Bay 2000\u003Cbr/\u003E\n- Taranaki 2000\u003Cbr/\u003E\n- Tuhirangi 2000\u003Cbr/\u003E\n- Wanganui 2000\u003Cbr/\u003E\n- Wairarapa 2000\u003Cbr/\u003E\n- Wellington 2000\u003Cbr/\u003E\n- Collingwood 2000\u003Cbr/\u003E\n- Nelson 2000\u003Cbr/\u003E\n- Karamea 2000\u003Cbr/\u003E\n- Buller 2000\u003Cbr/\u003E\n- Grey 2000\u003Cbr/\u003E\n- Amuri 2000\u003Cbr/\u003E\n- Marlborough 2000\u003Cbr/\u003E\n- Hokitika 2000\u003Cbr/\u003E\n- Okarito 2000\u003Cbr/\u003E\n- Jacksons Bay 2000\u003Cbr/\u003E\n- Mount Pleasant 2000\u003Cbr/\u003E\n- Gawler 2000\u003Cbr/\u003E\n- Timaru 2000\u003Cbr/\u003E\n- Lindis Peak 2000\u003Cbr/\u003E\n- Mount Nicholas 2000\u003Cbr/\u003E\n- Mount York 2000\u003Cbr/\u003E\n- Observation Point 2000\u003Cbr/\u003E\n- North Taieri 2000\u003Cbr/\u003E\n- Bluff 2000.</data>
       </node>
       <node id="Rule1294" labels=":Rule">
          <data key="ID">Rule1294</data>
          <data key="Signifier">Official vertical datums</data>
-         <data key="Statement">A official vertical datum must be any of the following:
-- New Zealand Vertical Datum 2016 or NZVD2016
-- One Tree Point 1964
-- Auckland 1946
-- Moturiki 1953
-- Gisborne 1926
-- Napier 1962
-- Taranaki 1970
-- Wellington 1953
-- Nelson 1955
-- Lyttelton 1937
-- Dunedin 1958
-- Dunedin – Bluff 1960
-- Bluff 1955
-- Stewart Island 1977.</data>
+         <data key="Statement">A official vertical datum must be any of the following:\u003Cbr/\u003E\n- New Zealand Vertical Datum 2016 or NZVD2016\u003Cbr/\u003E\n- One Tree Point 1964\u003Cbr/\u003E\n- Auckland 1946\u003Cbr/\u003E\n- Moturiki 1953\u003Cbr/\u003E\n- Gisborne 1926\u003Cbr/\u003E\n- Napier 1962\u003Cbr/\u003E\n- Taranaki 1970\u003Cbr/\u003E\n- Wellington 1953\u003Cbr/\u003E\n- Nelson 1955\u003Cbr/\u003E\n- Lyttelton 1937\u003Cbr/\u003E\n- Dunedin 1958\u003Cbr/\u003E\n- Dunedin – Bluff 1960\u003Cbr/\u003E\n- Bluff 1955\u003Cbr/\u003E\n- Stewart Island 1977.</data>
       </node>
       <node id="Rule1287" labels=":Rule">
          <data key="ID">Rule1287</data>
          <data key="Signifier">Offset water boundary</data>
-         <data key="Statement">A new water boundary that defines a non-primary parcel may be offset from an accepted water boundary only when the new water boundary is at MHWS or MLWS and the non-primary parcel is over any of the following bodies of water:
-- a stream
-- a river
-- a lake
-- a common marine and coastal area.</data>
+         <data key="Statement">A new water boundary that defines a non-primary parcel may be offset from an accepted water boundary only when the new water boundary is at MHWS or MLWS and the non-primary parcel is over any of the following bodies of water:\u003Cbr/\u003E\n- a stream\u003Cbr/\u003E\n- a river\u003Cbr/\u003E\n- a lake\u003Cbr/\u003E\n- a common marine and coastal area.</data>
       </node>
       <node id="Rule1122" labels=":Rule">
          <data key="ID">Rule1122</data>
@@ -3215,9 +2789,7 @@ A cadastral survey must include at least 3 permanent reference marks for which a
       <node id="Rule1121" labels=":Rule">
          <data key="ID">Rule1121</data>
          <data key="Signifier">Orientation - horizontal datum 2</data>
-         <data key="Statement">The horizontal projection used in a cadastral survey must be an official geodetic projection applicable to the area that the cadastral survey is carried out in if all of the following are true:
-- the cadastral survey defines or marks a new boundary point that is included in a boundary that defines a primary parcel
-- the cadastral survey makes a new field measurement.</data>
+         <data key="Statement">The horizontal projection used in a cadastral survey must be an official geodetic projection applicable to the area that the cadastral survey is carried out in if all of the following are true:\u003Cbr/\u003E\n- the cadastral survey defines or marks a new boundary point that is included in a boundary that defines a primary parcel\u003Cbr/\u003E\n- the cadastral survey makes a new field measurement.</data>
       </node>
       <node id="Rule1082" labels=":Rule">
          <data key="ID">Rule1082</data>
@@ -3272,17 +2844,12 @@ A cadastral survey must include at least 3 permanent reference marks for which a
       <node id="Rule1432" labels=":Rule">
          <data key="ID">Rule1432</data>
          <data key="Signifier">Permanent structure boundary accuracy B</data>
-         <data key="Statement">A permanent structure boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each boundary point that is included in a boundary that defines the same parcel that the permanent structure is on is class B accuracy when one of the boundary points is a class B boundary point and the other is any of:
-- a class A boundary point
-- a class B boundary point.</data>
+         <data key="Statement">A permanent structure boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each boundary point that is included in a boundary that defines the same parcel that the permanent structure is on is class B accuracy when one of the boundary points is a class B boundary point and the other is any of:\u003Cbr/\u003E\n- a class A boundary point\u003Cbr/\u003E\n- a class B boundary point.</data>
       </node>
       <node id="Rule1433" labels=":Rule">
          <data key="ID">Rule1433</data>
          <data key="Signifier">Permanent structure boundary accuracy C</data>
-         <data key="Statement">A permanent structure boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each boundary point that is included in a boundary that defines the same parcel that the permanent structure is on is class C accuracy when one of the boundary points is a class C boundary point and the other is any of:
-- a class A boundary point
-- a class B boundary point
-- a class C boundary point.</data>
+         <data key="Statement">A permanent structure boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each boundary point that is included in a boundary that defines the same parcel that the permanent structure is on is class C accuracy when one of the boundary points is a class C boundary point and the other is any of:\u003Cbr/\u003E\n- a class A boundary point\u003Cbr/\u003E\n- a class B boundary point\u003Cbr/\u003E\n- a class C boundary point.</data>
       </node>
       <node id="Rule1469" labels=":Rule">
          <data key="ID">Rule1469</data>
@@ -3297,23 +2864,17 @@ A cadastral survey must include at least 3 permanent reference marks for which a
       <node id="Rule1262" labels=":Rule">
          <data key="ID">Rule1262</data>
          <data key="Signifier">Permanent structure boundary parcel intention 2</data>
-         <data key="Statement">A permanent structure boundary may define a parcel intended for a lease for which the boundary is located by reference to the permanent structure only if any of the parcels underlying the lease and any part the permanent structure are the same irrelevant of the permanent structure encroaching onto an adjoining parcel.
-
-A permanent structure boundary may define a parcel intended for a lease only if any part of the permanent structure that locates by reference the boundary is located on the same parcel that underlies that lease.</data>
+         <data key="Statement">A permanent structure boundary may define a parcel intended for a lease for which the boundary is located by reference to the permanent structure only if any of the parcels underlying the lease and any part the permanent structure are the same irrelevant of the permanent structure encroaching onto an adjoining parcel.\u003Cbr/\u003E\n\u003Cbr/\u003E\nA permanent structure boundary may define a parcel intended for a lease only if any part of the permanent structure that locates by reference the boundary is located on the same parcel that underlies that lease.</data>
       </node>
       <node id="Rule1263" labels=":Rule">
          <data key="ID">Rule1263</data>
          <data key="Signifier">Permanent structure boundary parcel intention 3</data>
-         <data key="Statement">A permanent structure boundary may define a parcel intended for a right over or an appurtenant to a base right under the Unit Titles Act 2010 or a base lease for which the boundary is located by reference to the permanent structure only if all of the following are true:
-- the right will expire before or at the same time as the base right or base lease
-- any of the parcels underlying the base right or the base lease and any part the permanent structure are the same.</data>
+         <data key="Statement">A permanent structure boundary may define a parcel intended for a right over or an appurtenant to a base right under the Unit Titles Act 2010 or a base lease for which the boundary is located by reference to the permanent structure only if all of the following are true:\u003Cbr/\u003E\n- the right will expire before or at the same time as the base right or base lease\u003Cbr/\u003E\n- any of the parcels underlying the base right or the base lease and any part the permanent structure are the same.</data>
       </node>
       <node id="Rule1264" labels=":Rule">
          <data key="ID">Rule1264</data>
          <data key="Signifier">Permanent structure boundary parcel intention 4</data>
-         <data key="Statement">A permanent structure boundary may define an easement parcel or a covenant parcel only if all of the following are true:
-- the use of the easement parcel or covenant parcel is directly related to the permanent structure
-- the easement or covenant is expected to become redundant once the permanent structure ceases to exist.</data>
+         <data key="Statement">A permanent structure boundary may define an easement parcel or a covenant parcel only if all of the following are true:\u003Cbr/\u003E\n- the use of the easement parcel or covenant parcel is directly related to the permanent structure\u003Cbr/\u003E\n- the easement or covenant is expected to become redundant once the permanent structure ceases to exist.</data>
       </node>
       <node id="Rule1428" labels=":Rule">
          <data key="ID">Rule1428</data>
@@ -3353,9 +2914,7 @@ A permanent structure boundary may define a parcel intended for a lease only if 
       <node id="Rule1081" labels=":Rule">
          <data key="ID">Rule1081</data>
          <data key="Signifier">Primary parcel area</data>
-         <data key="Statement">An area [quantity] must be assigned to a primary parcel if the primary parcel is not any of the following:
-- a residue parcel
-- a balance parcel.</data>
+         <data key="Statement">An area [quantity] must be assigned to a primary parcel if the primary parcel is not any of the following:\u003Cbr/\u003E\n- a residue parcel\u003Cbr/\u003E\n- a balance parcel.</data>
       </node>
       <node id="Rule1186" labels=":Rule">
          <data key="ID">Rule1186</data>
@@ -3375,10 +2934,7 @@ A permanent structure boundary may define a parcel intended for a lease only if 
       <node id="Rule1321" labels=":Rule">
          <data key="ID">Rule1321</data>
          <data key="Signifier">Record of Survey Boundary Information 1</data>
-         <data key="Statement">A record of survey must include the accuracy class of all of the following included in the record of survey:
-- a right-line boundary
-- an arc boundary
-- a height limited boundary.</data>
+         <data key="Statement">A record of survey must include the accuracy class of all of the following included in the record of survey:\u003Cbr/\u003E\n- a right-line boundary\u003Cbr/\u003E\n- an arc boundary\u003Cbr/\u003E\n- a height limited boundary.</data>
       </node>
       <node id="Rule1314" labels=":Rule">
          <data key="ID">Rule1314</data>
@@ -3393,60 +2949,32 @@ A permanent structure boundary may define a parcel intended for a lease only if 
       <node id="Rule1104" labels=":Rule">
          <data key="ID">Rule1104</data>
          <data key="Signifier">Record of survey for simple boundary reinstatement CSD</data>
-         <data key="Statement">A record of survey for a simple boundary reinstatement survey must include all of the following:
-- a reinstatement diagram 
-- a list of CSDs used and, if a CSD number is not unique, the land district of the CSD 
-- the date the cadastral survey was completed
-- datum information in accordance with rule 76
-- vector information in accordance with rule 77
-- the accuracy class of each boundary point
-- occupation information in accordance with rule 79
-- survey mark and point information in accordance with rule 80
-- at least 1 measured vector to every new or old survey mark
-- measured vectors to at least 2 other non-boundary marks for every new non-boundary mark
-- the adopted vectors or calculated vectors used for the purpose of boundary definition
-- a dataset description</data>
+         <data key="Statement">A record of survey for a simple boundary reinstatement survey must include all of the following:\u003Cbr/\u003E\n- a reinstatement diagram \u003Cbr/\u003E\n- a list of CSDs used and, if a CSD number is not unique, the land district of the CSD \u003Cbr/\u003E\n- the date the cadastral survey was completed\u003Cbr/\u003E\n- datum information in accordance with rule 76\u003Cbr/\u003E\n- vector information in accordance with rule 77\u003Cbr/\u003E\n- the accuracy class of each boundary point\u003Cbr/\u003E\n- occupation information in accordance with rule 79\u003Cbr/\u003E\n- survey mark and point information in accordance with rule 80\u003Cbr/\u003E\n- at least 1 measured vector to every new or old survey mark\u003Cbr/\u003E\n- measured vectors to at least 2 other non-boundary marks for every new non-boundary mark\u003Cbr/\u003E\n- the adopted vectors or calculated vectors used for the purpose of boundary definition\u003Cbr/\u003E\n- a dataset description</data>
       </node>
       <node id="Rule1323" labels=":Rule">
          <data key="ID">Rule1323</data>
          <data key="Signifier">Record of Survey Occupation Information 1</data>
-         <data key="Statement">A record of survey must include all of the following information about an occupation in graphic form:
-- the nature of the physical feature
-- the age of the physical feature
-- the relationship between the occupation and the boundary or boundary position.</data>
+         <data key="Statement">A record of survey must include all of the following information about an occupation in graphic form:\u003Cbr/\u003E\n- the nature of the physical feature\u003Cbr/\u003E\n- the age of the physical feature\u003Cbr/\u003E\n- the relationship between the occupation and the boundary or boundary position.</data>
       </node>
       <node id="Rule1331" labels=":Rule">
          <data key="ID">Rule1331</data>
          <data key="Signifier">Record of Survey Occupation Information 2</data>
-         <data key="Statement">A record of survey must include the relationship between an occupation and a boundary or boundary position in graphic form by any of the following:
-- by vector
-- by distance
-- by description.</data>
+         <data key="Statement">A record of survey must include the relationship between an occupation and a boundary or boundary position in graphic form by any of the following:\u003Cbr/\u003E\n- by vector\u003Cbr/\u003E\n- by distance\u003Cbr/\u003E\n- by description.</data>
       </node>
       <node id="Rule1327" labels=":Rule">
          <data key="ID">Rule1327</data>
          <data key="Signifier">Record of Survey Occupation Information 3</data>
-         <data key="Statement">A record of survey must record occupation information for each of the following:
-- a new boundary point on a primary parcel
-- an existing boundary point that is being marked
-- an existing boundary point that is required to be marked.</data>
+         <data key="Statement">A record of survey must record occupation information for each of the following:\u003Cbr/\u003E\n- a new boundary point on a primary parcel\u003Cbr/\u003E\n- an existing boundary point that is being marked\u003Cbr/\u003E\n- an existing boundary point that is required to be marked.</data>
       </node>
       <node id="Rule1325" labels=":Rule">
          <data key="ID">Rule1325</data>
          <data key="Signifier">Record of Survey Occupation Information 4</data>
-         <data key="Statement">A record of survey must record a "no occupation" annotation against a boundary point and related boundaries if there is no occupation and the record of survey includes information about any of the following:
-- a new boundary point on a primary parcel
-- an existing boundary point that is being marked
-- an existing boundary point that is required to be marked.</data>
+         <data key="Statement">A record of survey must record a "no occupation" annotation against a boundary point and related boundaries if there is no occupation and the record of survey includes information about any of the following:\u003Cbr/\u003E\n- a new boundary point on a primary parcel\u003Cbr/\u003E\n- an existing boundary point that is being marked\u003Cbr/\u003E\n- an existing boundary point that is required to be marked.</data>
       </node>
       <node id="Rule1316" labels=":Rule">
          <data key="ID">Rule1316</data>
          <data key="Signifier">Record of Survey Vector Information 1</data>
-         <data key="Statement">A record of survey must include the source CSD reference for all of the following:
-- each adopted vector
-- each adopted distance
-- each adopted bearing
-- each adopted arc.</data>
+         <data key="Statement">A record of survey must include the source CSD reference for all of the following:\u003Cbr/\u003E\n- each adopted vector\u003Cbr/\u003E\n- each adopted distance\u003Cbr/\u003E\n- each adopted bearing\u003Cbr/\u003E\n- each adopted arc.</data>
       </node>
       <node id="Rule1317" labels=":Rule">
          <data key="ID">Rule1317</data>
@@ -3456,26 +2984,17 @@ A permanent structure boundary may define a parcel intended for a lease only if 
       <node id="Rule1318" labels=":Rule">
          <data key="ID">Rule1318</data>
          <data key="Signifier">Record of Survey Vector Information 3</data>
-         <data key="Statement">A record of survey must include information identifying if any bearing included in the record of survey is any of the following:
-- a calculated bearing
-- a measured bearing
-- an adopted bearing.</data>
+         <data key="Statement">A record of survey must include information identifying if any bearing included in the record of survey is any of the following:\u003Cbr/\u003E\n- a calculated bearing\u003Cbr/\u003E\n- a measured bearing\u003Cbr/\u003E\n- an adopted bearing.</data>
       </node>
       <node id="Rule1319" labels=":Rule">
          <data key="ID">Rule1319</data>
          <data key="Signifier">Record of Survey Vector Information 4</data>
-         <data key="Statement">A record of survey must include information identifying if any distance included in the record of survey is any of the following:
-- a calculated distance
-- a measured distance
-- an adopted distance.</data>
+         <data key="Statement">A record of survey must include information identifying if any distance included in the record of survey is any of the following:\u003Cbr/\u003E\n- a calculated distance\u003Cbr/\u003E\n- a measured distance\u003Cbr/\u003E\n- an adopted distance.</data>
       </node>
       <node id="Rule1320" labels=":Rule">
          <data key="ID">Rule1320</data>
          <data key="Signifier">Record of Survey Vector Information 5</data>
-         <data key="Statement">A record of survey must include information identifying if any arc included in the record of survey is any of the following:
-- a calculated arc
-- a measured arc
-- an adopted arc.</data>
+         <data key="Statement">A record of survey must include information identifying if any arc included in the record of survey is any of the following:\u003Cbr/\u003E\n- a calculated arc\u003Cbr/\u003E\n- a measured arc\u003Cbr/\u003E\n- an adopted arc.</data>
       </node>
       <node id="Rule1185" labels=":Rule">
          <data key="ID">Rule1185</data>
@@ -3490,10 +3009,7 @@ A permanent structure boundary may define a parcel intended for a lease only if 
       <node id="Rule1279" labels=":Rule">
          <data key="ID">Rule1279</data>
          <data key="Signifier">Referencing height limited boundary point 2</data>
-         <data key="Statement">A new height limited boundary point on a parcel need not be referenced by a permanent reference mark only if the parcel is any of the following:
-- an easement parcel
-- a lease
-- a covenant parcel.</data>
+         <data key="Statement">A new height limited boundary point on a parcel need not be referenced by a permanent reference mark only if the parcel is any of the following:\u003Cbr/\u003E\n- an easement parcel\u003Cbr/\u003E\n- a lease\u003Cbr/\u003E\n- a covenant parcel.</data>
       </node>
       <node id="Rule1278" labels=":Rule">
          <data key="ID">Rule1278</data>
@@ -3523,12 +3039,7 @@ A permanent structure boundary may define a parcel intended for a lease only if 
       <node id="Rule1105" labels=":Rule">
          <data key="ID">Rule1105</data>
          <data key="Signifier">Reinstatement diagram</data>
-         <data key="Statement">A reinstatement diagram for a simple boundary reinstatement CSD must include the following:
-- a depiction of all survey marks and their unique names (which may be in abbreviated form)
-- a depiction of all measured vectors between all survey marks, but is not required to show the bearings and distances
-- a depiction of the primary parcel boundaries being reinstated
-- the appellation of the parcel whose boundary is being reinstated
-- the name or (if no name is available) a simple description of any road, railway, or water body that abuts the boundaries being reinstated.</data>
+         <data key="Statement">A reinstatement diagram for a simple boundary reinstatement CSD must include the following:\u003Cbr/\u003E\n- a depiction of all survey marks and their unique names (which may be in abbreviated form)\u003Cbr/\u003E\n- a depiction of all measured vectors between all survey marks, but is not required to show the bearings and distances\u003Cbr/\u003E\n- a depiction of the primary parcel boundaries being reinstated\u003Cbr/\u003E\n- the appellation of the parcel whose boundary is being reinstated\u003Cbr/\u003E\n- the name or (if no name is available) a simple description of any road, railway, or water body that abuts the boundaries being reinstated.</data>
       </node>
       <node id="Rule1103" labels=":Rule">
          <data key="ID">Rule1103</data>
@@ -3548,33 +3059,22 @@ A permanent structure boundary may define a parcel intended for a lease only if 
       <node id="Rule1424" labels=":Rule">
          <data key="ID">Rule1424</data>
          <data key="Signifier">Rule 10001 (copy of Derivation of class A boundary is subject to conflict 1)</data>
-         <data key="Statement">A boundary must be considered a boundary subject to conflict if all of the following are true:
-- the boundary is an existing boundary
-- the accuracy [relative] between a boundary point that is included in the boundary and a boundary point that is included in an estate boundary that coincides with the boundary is not class A.</data>
+         <data key="Statement">A boundary must be considered a boundary subject to conflict if all of the following are true:\u003Cbr/\u003E\n- the boundary is an existing boundary\u003Cbr/\u003E\n- the accuracy [relative] between a boundary point that is included in the boundary and a boundary point that is included in an estate boundary that coincides with the boundary is not class A.</data>
       </node>
       <node id="Rule1501" labels=":Rule">
          <data key="ID">Rule1501</data>
          <data key="Signifier">Rule 10001 (copy of Minimum PRMs in a cadastral survey)</data>
-         <data key="Statement">A cadastral survey that includes a boundary that defines a non-primary parcel and not accurately related to a boundary defining an underlying parcel must include at least 3 permanent reference marks for which any of the following is true:
-- the permanent reference mark is not more than 150 m from a class a boundary point that is included in a boundary defining a non-primary parcel and not accurately related to a boundary defining an underlying parcel 
-- the permanent reference mark is not more than 500 m from a class b boundary point that is included in a boundary defining a non-primary parcel and not accurately related to a boundary defining an underlying parcel.</data>
+         <data key="Statement">A cadastral survey that includes a boundary that defines a non-primary parcel and not accurately related to a boundary defining an underlying parcel must include at least 3 permanent reference marks for which any of the following is true:\u003Cbr/\u003E\n- the permanent reference mark is not more than 150 m from a class a boundary point that is included in a boundary defining a non-primary parcel and not accurately related to a boundary defining an underlying parcel \u003Cbr/\u003E\n- the permanent reference mark is not more than 500 m from a class b boundary point that is included in a boundary defining a non-primary parcel and not accurately related to a boundary defining an underlying parcel.</data>
       </node>
       <node id="Rule1380" labels=":Rule">
          <data key="ID">Rule1380</data>
          <data key="Signifier">Rule 10001 (copy of Rule 10001 (copy of Derivation of boundary is subject to conflict))</data>
-         <data key="Statement">copy of copy of A boundary must be considered to be a boundary that is subject to conflict when all of the following are true:
-- there is a difference that exceeds the applicable accuracy standards between any of the following:
-- - an estate boundary and the coinciding boundary recorded in an approved CSD
-- - the same boundary as recorded in different approved CSDs
-- - the same boundary as recorded in an approved CSD and other evidence, including field evidence
-- the difference has not been resolved by 1 or more approved CSDs.</data>
+         <data key="Statement">copy of copy of A boundary must be considered to be a boundary that is subject to conflict when all of the following are true:\u003Cbr/\u003E\n- there is a difference that exceeds the applicable accuracy standards between any of the following:\u003Cbr/\u003E\n- - an estate boundary and the coinciding boundary recorded in an approved CSD\u003Cbr/\u003E\n- - the same boundary as recorded in different approved CSDs\u003Cbr/\u003E\n- - the same boundary as recorded in an approved CSD and other evidence, including field evidence\u003Cbr/\u003E\n- the difference has not been resolved by 1 or more approved CSDs.</data>
       </node>
       <node id="Rule1502" labels=":Rule">
          <data key="ID">Rule1502</data>
          <data key="Signifier">Rule 10001 (copy of Rule 10001 (copy of Minimum PRMs in a cadastral survey))</data>
-         <data key="Statement">A cadastral survey that includes a boundary that defines a non-primary parcel that overlies a parcel that is the bed of a stream or the bed of a river or the bed of a lake must include at least 3 permanent reference marks for which any of the following is true:
-- the permanent reference mark is not more than 150 m from a class a boundary point that is included in a boundary that defines a non-primary parcel that overlies a parcel that is the bed of a stream or the bed of a river or the bed of a lake
-- the permanent reference mark is not more than 500 m from a class b boundary point that is included in a boundary that defines a non-primary parcel that overlies a parcel that is the bed of a stream or the bed of a river or the bed of a lake.</data>
+         <data key="Statement">A cadastral survey that includes a boundary that defines a non-primary parcel that overlies a parcel that is the bed of a stream or the bed of a river or the bed of a lake must include at least 3 permanent reference marks for which any of the following is true:\u003Cbr/\u003E\n- the permanent reference mark is not more than 150 m from a class a boundary point that is included in a boundary that defines a non-primary parcel that overlies a parcel that is the bed of a stream or the bed of a river or the bed of a lake\u003Cbr/\u003E\n- the permanent reference mark is not more than 500 m from a class b boundary point that is included in a boundary that defines a non-primary parcel that overlies a parcel that is the bed of a stream or the bed of a river or the bed of a lake.</data>
       </node>
       <node id="Rule1499" labels=":Rule">
          <data key="ID">Rule1499</data>
@@ -3604,20 +3104,12 @@ A permanent structure boundary may define a parcel intended for a lease only if 
       <node id="Rule1374" labels=":Rule">
          <data key="ID">Rule1374</data>
          <data key="Signifier">Surevy report - ground marking 1</data>
-         <data key="Statement">A survey report included in a CSD must contain the following reasons about marks where applicable:
-- reasons why it was impracticable for a mark to be placed at a new boundary point that is included in a boundary that defines a new primary parcel 
-- reasons why it was impracticable for a mark to be placed at a boundary point that is included in an existing boundary that defines a new primary parcel.</data>
+         <data key="Statement">A survey report included in a CSD must contain the following reasons about marks where applicable:\u003Cbr/\u003E\n- reasons why it was impracticable for a mark to be placed at a new boundary point that is included in a boundary that defines a new primary parcel \u003Cbr/\u003E\n- reasons why it was impracticable for a mark to be placed at a boundary point that is included in an existing boundary that defines a new primary parcel.</data>
       </node>
       <node id="Rule1388" labels=":Rule">
          <data key="ID">Rule1388</data>
          <data key="Signifier">Surevy report - ground marking 2</data>
-         <data key="Statement">A survey report included in a CSD must contain details to support the exemption of a mark to be placed at a new boundary point that is included in a boundary that defines a new primary parcel in the following circumstances:
-- all parcels that are adjacent to the boundary point are new parcels intended to be owned by the Crown
-- all parcels that are adjacent to the boundary point are new parcels intended to be owned by the same territorial authority
-- the Maori Land Court does not require a mark to be placed at a boundary point that is included in the boundary
-- all parcels that are adjacent to the boundary point are or will be held in common ownership
-- the parcels on each side of the boundary are or will be subject to a reciprocal right of way
-- the terrain, ground cover, or protected vegetation make it unlikely that the boundary point will need to be physically located.</data>
+         <data key="Statement">A survey report included in a CSD must contain details to support the exemption of a mark to be placed at a new boundary point that is included in a boundary that defines a new primary parcel in the following circumstances:\u003Cbr/\u003E\n- all parcels that are adjacent to the boundary point are new parcels intended to be owned by the Crown\u003Cbr/\u003E\n- all parcels that are adjacent to the boundary point are new parcels intended to be owned by the same territorial authority\u003Cbr/\u003E\n- the Maori Land Court does not require a mark to be placed at a boundary point that is included in the boundary\u003Cbr/\u003E\n- all parcels that are adjacent to the boundary point are or will be held in common ownership\u003Cbr/\u003E\n- the parcels on each side of the boundary are or will be subject to a reciprocal right of way\u003Cbr/\u003E\n- the terrain, ground cover, or protected vegetation make it unlikely that the boundary point will need to be physically located.</data>
       </node>
       <node id="Rule1090" labels=":Rule">
          <data key="ID">Rule1090</data>
@@ -3647,9 +3139,7 @@ A permanent structure boundary may define a parcel intended for a lease only if 
       <node id="Rule1112" labels=":Rule">
          <data key="ID">Rule1112</data>
          <data key="Signifier">Survey diagram irregular boundary information</data>
-         <data key="Statement">A survey diagram must depict a water or irregular boundary at a scale that clearly shows all of the following:
-- the shape of the boundary
-- the relationship of the boundary to other boundaries.</data>
+         <data key="Statement">A survey diagram must depict a water or irregular boundary at a scale that clearly shows all of the following:\u003Cbr/\u003E\n- the shape of the boundary\u003Cbr/\u003E\n- the relationship of the boundary to other boundaries.</data>
       </node>
       <node id="Rule1110" labels=":Rule">
          <data key="ID">Rule1110</data>
@@ -3679,18 +3169,12 @@ A permanent structure boundary may define a parcel intended for a lease only if 
       <node id="Rule1385" labels=":Rule">
          <data key="ID">Rule1385</data>
          <data key="Signifier">Survey diagram presentation of information</data>
-         <data key="Statement">The information included in a survey diagram must be all of the following:
-- clear
-- unambiguous
-- legible when printed at A3 size.</data>
+         <data key="Statement">The information included in a survey diagram must be all of the following:\u003Cbr/\u003E\n- clear\u003Cbr/\u003E\n- unambiguous\u003Cbr/\u003E\n- legible when printed at A3 size.</data>
       </node>
       <node id="Rule1384" labels=":Rule">
          <data key="ID">Rule1384</data>
          <data key="Signifier">Survey diagram symbols</data>
-         <data key="Statement">The diagram plan symbols and text information on a survey diagram must conform to all of the following requirements specified in the symbols for survey marks table:
-- symbol requirements
-- line style requirements
-- text requirements.</data>
+         <data key="Statement">The diagram plan symbols and text information on a survey diagram must conform to all of the following requirements specified in the symbols for survey marks table:\u003Cbr/\u003E\n- symbol requirements\u003Cbr/\u003E\n- line style requirements\u003Cbr/\u003E\n- text requirements.</data>
       </node>
       <node id="Rule1456" labels=":Rule">
          <data key="ID">Rule1456</data>
@@ -3700,13 +3184,7 @@ A permanent structure boundary may define a parcel intended for a lease only if 
       <node id="Rule1383" labels=":Rule">
          <data key="ID">Rule1383</data>
          <data key="Signifier">Survey diagram vectors</data>
-         <data key="Statement">A survey diagram must include:
-- at least 1 measured vector to every survey mark
-- measured vectors to at least 2 other non-boundary marks for every new non-boundary mark that is not disturbed
-- measured vectors between each boundary mark and a permanent reference mark 
-- the adopted or calculated vectors used for the purpose of boundary definition
-- at least 1 vector to each boundary point that is included in a water or irregular boundary 
-- any vector required to connect the survey to cadastral survey network marks</data>
+         <data key="Statement">A survey diagram must include:\u003Cbr/\u003E\n- at least 1 measured vector to every survey mark\u003Cbr/\u003E\n- measured vectors to at least 2 other non-boundary marks for every new non-boundary mark that is not disturbed\u003Cbr/\u003E\n- measured vectors between each boundary mark and a permanent reference mark \u003Cbr/\u003E\n- the adopted or calculated vectors used for the purpose of boundary definition\u003Cbr/\u003E\n- at least 1 vector to each boundary point that is included in a water or irregular boundary \u003Cbr/\u003E\n- any vector required to connect the survey to cadastral survey network marks</data>
       </node>
       <node id="Rule1425" labels=":Rule">
          <data key="ID">Rule1425</data>
@@ -3726,19 +3204,12 @@ A permanent structure boundary may define a parcel intended for a lease only if 
       <node id="Rule1109" labels=":Rule">
          <data key="ID">Rule1109</data>
          <data key="Signifier">Survey mark and point information on survey diagram 1</data>
-         <data key="Statement">A survey diagram must include all of the following:
-- a depiction of each mark used for the purposes of the cadastral survey
-- a depiction of each point used for the purposes of the cadastral survey
-- the reduced level of any permanent reference mark required to have a reduced level
-- the reduced level of any vertical control mark.</data>
+         <data key="Statement">A survey diagram must include all of the following:\u003Cbr/\u003E\n- a depiction of each mark used for the purposes of the cadastral survey\u003Cbr/\u003E\n- a depiction of each point used for the purposes of the cadastral survey\u003Cbr/\u003E\n- the reduced level of any permanent reference mark required to have a reduced level\u003Cbr/\u003E\n- the reduced level of any vertical control mark.</data>
       </node>
       <node id="Rule1419" labels=":Rule">
          <data key="ID">Rule1419</data>
          <data key="Signifier">Survey mark and point information on survey diagram 2</data>
-         <data key="Statement">A survey diagram must include a depiction of the components of a mark name consisting of all of the following:
-- an abbreviation that describes the physical mark type for each mark that is not a peg and is not a post
-- the identifier for each mark and each point
-- the CSD number for each mark and each point</data>
+         <data key="Statement">A survey diagram must include a depiction of the components of a mark name consisting of all of the following:\u003Cbr/\u003E\n- an abbreviation that describes the physical mark type for each mark that is not a peg and is not a post\u003Cbr/\u003E\n- the identifier for each mark and each point\u003Cbr/\u003E\n- the CSD number for each mark and each point</data>
       </node>
       <node id="Rule1418" labels=":Rule">
          <data key="ID">Rule1418</data>
@@ -3763,10 +3234,7 @@ A permanent structure boundary may define a parcel intended for a lease only if 
       <node id="Rule1309" labels=":Rule">
          <data key="ID">Rule1309</data>
          <data key="Signifier">Survey mark name retention</data>
-         <data key="Statement">A mark with a unique name must retain that name in a record of survey if the mark is any of the following:
-- an undisturbed old mark
-- a removed mark
-- an adopted mark.</data>
+         <data key="Statement">A mark with a unique name must retain that name in a record of survey if the mark is any of the following:\u003Cbr/\u003E\n- an undisturbed old mark\u003Cbr/\u003E\n- a removed mark\u003Cbr/\u003E\n- an adopted mark.</data>
       </node>
       <node id="Rule1403" labels=":Rule">
          <data key="ID">Rule1403</data>
@@ -3776,53 +3244,32 @@ A permanent structure boundary may define a parcel intended for a lease only if 
       <node id="Rule1026" labels=":Rule">
          <data key="ID">Rule1026</data>
          <data key="Signifier">Survey mark state</data>
-         <data key="Statement">A record of survey must identify if a survey mark is any of the following:
-- a disturbed survey mark
-- a renewed survey mark
-- a removed survey mark.</data>
+         <data key="Statement">A record of survey must identify if a survey mark is any of the following:\u003Cbr/\u003E\n- a disturbed survey mark\u003Cbr/\u003E\n- a renewed survey mark\u003Cbr/\u003E\n- a removed survey mark.</data>
       </node>
       <node id="Rule1029" labels=":Rule">
          <data key="ID">Rule1029</data>
          <data key="Signifier">Survey marks in record of survey</data>
-         <data key="Statement">A record of survey must include all of the following used for the purposes of the cadastral survey:
-- survey marks 
-- points.</data>
+         <data key="Statement">A record of survey must include all of the following used for the purposes of the cadastral survey:\u003Cbr/\u003E\n- survey marks \u003Cbr/\u003E\n- points.</data>
       </node>
       <node id="Rule1494" labels=":Rule">
          <data key="ID">Rule1494</data>
          <data key="Signifier">Survey report - basis for bearing adjustments</data>
-         <data key="Statement">A survey report included in a CSD must provide for the basis for any bearing adjustment applied to an adopted bearing through the conduct of any of the following:
-- a direct comparison of control vectors that are common to the new cadastral survey and the comparison approved CSD 
-- re-observation of several vectors from a previously approved CSD
-- a ray trace analysis.</data>
+         <data key="Statement">A survey report included in a CSD must provide for the basis for any bearing adjustment applied to an adopted bearing through the conduct of any of the following:\u003Cbr/\u003E\n- a direct comparison of control vectors that are common to the new cadastral survey and the comparison approved CSD \u003Cbr/\u003E\n- re-observation of several vectors from a previously approved CSD\u003Cbr/\u003E\n- a ray trace analysis.</data>
       </node>
       <node id="Rule1370" labels=":Rule">
          <data key="ID">Rule1370</data>
          <data key="Signifier">Survey report - bearings and levels</data>
-         <data key="Statement">A survey report included in a CSD must contain the following information about bearings and levels where applicable:
-- the basis for determining the orientation of bearings to the horizontal projection used
-- the basis for any bearing adjustment applied to an adopted bearing
-- the basis for determining the origin of levels.</data>
+         <data key="Statement">A survey report included in a CSD must contain the following information about bearings and levels where applicable:\u003Cbr/\u003E\n- the basis for determining the orientation of bearings to the horizontal projection used\u003Cbr/\u003E\n- the basis for any bearing adjustment applied to an adopted bearing\u003Cbr/\u003E\n- the basis for determining the origin of levels.</data>
       </node>
       <node id="Rule1390" labels=":Rule">
          <data key="ID">Rule1390</data>
          <data key="Signifier">Survey report - correspondence</data>
-         <data key="Statement">A survey report included in a CSD must contain the following correspondence information where applicable:
-- reference to any prior correspondence with LINZ on issues relevant to the application of the cadastral survey rules to the CSD
-- notification of confirmation from the Maori Land Court of an alternative legal description to be used for a parcel ID for a new parcel described as a Maori freehold land in the CSD 
-- notification from the Maori Land Court to support the exemption of a mark to be placed at a new boundary point that is included in a boundary that defines a new primary parcel in the CSD.</data>
+         <data key="Statement">A survey report included in a CSD must contain the following correspondence information where applicable:\u003Cbr/\u003E\n- reference to any prior correspondence with LINZ on issues relevant to the application of the cadastral survey rules to the CSD\u003Cbr/\u003E\n- notification of confirmation from the Maori Land Court of an alternative legal description to be used for a parcel ID for a new parcel described as a Maori freehold land in the CSD \u003Cbr/\u003E\n- notification from the Maori Land Court to support the exemption of a mark to be placed at a new boundary point that is included in a boundary that defines a new primary parcel in the CSD.</data>
       </node>
       <node id="Rule1076" labels=":Rule">
          <data key="ID">Rule1076</data>
          <data key="Signifier">Survey report - definition information</data>
-         <data key="Statement">A survey report included in a CSD must contain the following information about parcel definitions where applicable:
-- details of any conflict and how the conflict was resolved
-- reasons for not relying on any old survey marks
-- information about any old survey marks searched for and not found or destroyed where any such survey marks are unable to be identified as such in the survey report
-- reasons for, details of and the information considered in reaching decisions made about any existing boundary defined by survey
-- a description of the method used to determine the existence of each movable marginal strip included in that CSD
-- information about the level of accuracy [positional] and the factors taken into account in determining any water or irregular boundary
-- information on why the physical margin of the water body is no longer coincident with an adopted water boundary.</data>
+         <data key="Statement">A survey report included in a CSD must contain the following information about parcel definitions where applicable:\u003Cbr/\u003E\n- details of any conflict and how the conflict was resolved\u003Cbr/\u003E\n- reasons for not relying on any old survey marks\u003Cbr/\u003E\n- information about any old survey marks searched for and not found or destroyed where any such survey marks are unable to be identified as such in the survey report\u003Cbr/\u003E\n- reasons for, details of and the information considered in reaching decisions made about any existing boundary defined by survey\u003Cbr/\u003E\n- a description of the method used to determine the existence of each movable marginal strip included in that CSD\u003Cbr/\u003E\n- information about the level of accuracy [positional] and the factors taken into account in determining any water or irregular boundary\u003Cbr/\u003E\n- information on why the physical margin of the water body is no longer coincident with an adopted water boundary.</data>
       </node>
       <node id="Rule1389" labels=":Rule">
          <data key="ID">Rule1389</data>
@@ -3832,18 +3279,12 @@ A permanent structure boundary may define a parcel intended for a lease only if 
       <node id="Rule1330" labels=":Rule">
          <data key="ID">Rule1330</data>
          <data key="Signifier">Survey report - general information 1</data>
-         <data key="Statement">A survey report included in a CSD must contain all of the following:
-- the survey purpose for which the cadastral survey was conducted
-- reference to enactments that enabled the achievement of that survey purpose.</data>
+         <data key="Statement">A survey report included in a CSD must contain all of the following:\u003Cbr/\u003E\n- the survey purpose for which the cadastral survey was conducted\u003Cbr/\u003E\n- reference to enactments that enabled the achievement of that survey purpose.</data>
       </node>
       <node id="Rule1106" labels=":Rule">
          <data key="ID">Rule1106</data>
          <data key="Signifier">Survey report for simple boundary reinstatement CSD</data>
-         <data key="Statement">A survey report included in a simple boundary reinstatement CSD must include all of the following:
-- the basis for determining the orientation of bearings
-- the basis for any bearing adjustment applied to an adopted bearing
-- reasons for and details of decisions made about an existing boundary point that is defined by survey
-- the information considered in reaching decisions made about an existing boundary point that is defined by survey.</data>
+         <data key="Statement">A survey report included in a simple boundary reinstatement CSD must include all of the following:\u003Cbr/\u003E\n- the basis for determining the orientation of bearings\u003Cbr/\u003E\n- the basis for any bearing adjustment applied to an adopted bearing\u003Cbr/\u003E\n- reasons for and details of decisions made about an existing boundary point that is defined by survey\u003Cbr/\u003E\n- the information considered in reaching decisions made about an existing boundary point that is defined by survey.</data>
       </node>
       <node id="Rule1099" labels=":Rule">
          <data key="ID">Rule1099</data>
@@ -3858,10 +3299,7 @@ A permanent structure boundary may define a parcel intended for a lease only if 
       <node id="Rule1100" labels=":Rule">
          <data key="ID">Rule1100</data>
          <data key="Signifier">Symbols for survey marks</data>
-         <data key="Statement">The symbols in table 8 of Schedule 7 of RCS 2020 must be used for survey marks.
-When a survey mark serves more than one purpose, a symbol higher up the table takes precedence over a symbol below it.
-The symbol for a disturbed survey mark in its disturbed new position must be the same as that for a new mark.
-The symbol for a renewed survey mark must be the same as that for an old mark.</data>
+         <data key="Statement">The symbols in table 8 of Schedule 7 of RCS 2020 must be used for survey marks.\u003Cbr/\u003E\nWhen a survey mark serves more than one purpose, a symbol higher up the table takes precedence over a symbol below it.\u003Cbr/\u003E\nThe symbol for a disturbed survey mark in its disturbed new position must be the same as that for a new mark.\u003Cbr/\u003E\nThe symbol for a renewed survey mark must be the same as that for an old mark.</data>
       </node>
       <node id="Rule1481" labels=":Rule">
          <data key="ID">Rule1481</data>
@@ -3871,12 +3309,7 @@ The symbol for a renewed survey mark must be the same as that for an old mark.</
       <node id="Rule1482" labels=":Rule">
          <data key="ID">Rule1482</data>
          <data key="Signifier">Title plan area schedule 2</data>
-         <data key="Statement">The area schedule included in a title plan for legalisation must be in tabular form and must include all of the following:
-- the heading "Schedule of Areas"
-- each parcel type and parcel ID
-- the intended action for all areas
-- the estate record reference
-- the area of each primary parcel and lease parcel.</data>
+         <data key="Statement">The area schedule included in a title plan for legalisation must be in tabular form and must include all of the following:\u003Cbr/\u003E\n- the heading "Schedule of Areas"\u003Cbr/\u003E\n- each parcel type and parcel ID\u003Cbr/\u003E\n- the intended action for all areas\u003Cbr/\u003E\n- the estate record reference\u003Cbr/\u003E\n- the area of each primary parcel and lease parcel.</data>
       </node>
       <node id="Rule1479" labels=":Rule">
          <data key="ID">Rule1479</data>
@@ -3886,10 +3319,7 @@ The symbol for a renewed survey mark must be the same as that for an old mark.</
       <node id="Rule1480" labels=":Rule">
          <data key="ID">Rule1480</data>
          <data key="Signifier">Title plan covenant information 2</data>
-         <data key="Statement">A title plan notation must include all of the following:
-- the parcel ID of any covenant parcel
-- the parcel intent
-- the reference to any document that created any existing covenant</data>
+         <data key="Statement">A title plan notation must include all of the following:\u003Cbr/\u003E\n- the parcel ID of any covenant parcel\u003Cbr/\u003E\n- the parcel intent\u003Cbr/\u003E\n- the reference to any document that created any existing covenant</data>
       </node>
       <node id="Rule1477" labels=":Rule">
          <data key="ID">Rule1477</data>
@@ -3899,37 +3329,17 @@ The symbol for a renewed survey mark must be the same as that for an old mark.</
       <node id="Rule1487" labels=":Rule">
          <data key="ID">Rule1487</data>
          <data key="Signifier">Title plan existing easement information 22</data>
-         <data key="Statement">A title plan for a unit title development must include information about all of the following:
-- each existing subject easement that is retained
-- each existing appurtenant easement for a unit title development that is retained.</data>
+         <data key="Statement">A title plan for a unit title development must include information about all of the following:\u003Cbr/\u003E\n- each existing subject easement that is retained\u003Cbr/\u003E\n- each existing appurtenant easement for a unit title development that is retained.</data>
       </node>
       <node id="Rule1478" labels=":Rule">
          <data key="ID">Rule1478</data>
          <data key="Signifier">Title plan existing easement information 3</data>
-         <data key="Statement">The easement information included in a title plan must be provided in tabular form and must include all of the following:
-- the heading "Schedule of Existing Easements"
-- the parcel ID of the easement parcel
-- the purpose of the easement
-- the reference to any document that created the easement 
-- the burdened land.</data>
+         <data key="Statement">The easement information included in a title plan must be provided in tabular form and must include all of the following:\u003Cbr/\u003E\n- the heading "Schedule of Existing Easements"\u003Cbr/\u003E\n- the parcel ID of the easement parcel\u003Cbr/\u003E\n- the purpose of the easement\u003Cbr/\u003E\n- the reference to any document that created the easement \u003Cbr/\u003E\n- the burdened land.</data>
       </node>
       <node id="Rule1118" labels=":Rule">
          <data key="ID">Rule1118</data>
          <data key="Signifier">Title plan information</data>
-         <data key="Statement">A title plan must include all of the following:
-- a title diagram
-- the name of the territorial authority
-- the name of the certifying cadastral surveyor 
-- the name of the survey firm
-- the date the CSD was certified
-- the parcel intent for each new parcel
-- the parcel ID of each underlying parcel
-- details of any easement to be surrendered 
-- details of any covenant to be revoked 
-- the reference to any document that created an easement to be surrendered
-- the reference to any document that created a covenant to be revoked 
-- the estate record references for the land under survey
-- the dataset description.</data>
+         <data key="Statement">A title plan must include all of the following:\u003Cbr/\u003E\n- a title diagram\u003Cbr/\u003E\n- the name of the territorial authority\u003Cbr/\u003E\n- the name of the certifying cadastral surveyor \u003Cbr/\u003E\n- the name of the survey firm\u003Cbr/\u003E\n- the date the CSD was certified\u003Cbr/\u003E\n- the parcel intent for each new parcel\u003Cbr/\u003E\n- the parcel ID of each underlying parcel\u003Cbr/\u003E\n- details of any easement to be surrendered \u003Cbr/\u003E\n- details of any covenant to be revoked \u003Cbr/\u003E\n- the reference to any document that created an easement to be surrendered\u003Cbr/\u003E\n- the reference to any document that created a covenant to be revoked \u003Cbr/\u003E\n- the estate record references for the land under survey\u003Cbr/\u003E\n- the dataset description.</data>
       </node>
       <node id="Rule1119" labels=":Rule">
          <data key="ID">Rule1119</data>
@@ -3944,30 +3354,17 @@ The symbol for a renewed survey mark must be the same as that for an old mark.</
       <node id="Rule1120" labels=":Rule">
          <data key="ID">Rule1120</data>
          <data key="Signifier">Title plan new easement information 3</data>
-         <data key="Statement">A memorandum containing information about any new easement included in a title plan must be in tabular form and include all of the following:
- - the heading 'Memorandum of Easements'
- - the easement parcel identifier
- - the purpose of the easement
- - the burdened land
- - the benefited land or grantee.</data>
+         <data key="Statement">A memorandum containing information about any new easement included in a title plan must be in tabular form and include all of the following:\u003Cbr/\u003E\n - the heading 'Memorandum of Easements'\u003Cbr/\u003E\n - the easement parcel identifier\u003Cbr/\u003E\n - the purpose of the easement\u003Cbr/\u003E\n - the burdened land\u003Cbr/\u003E\n - the benefited land or grantee.</data>
       </node>
       <node id="Rule1492" labels=":Rule">
          <data key="ID">Rule1492</data>
          <data key="Signifier">Title plan new easement information 4</data>
-         <data key="Statement">A schedule containing information about any new easement included in a title plan must be in tabular form and include all of the following:
- - the heading 'Schedule of Easements'
- - the easement parcel identifier
- - the purpose of the easement
- - the burdened land
- - the benefited land or grantee.</data>
+         <data key="Statement">A schedule containing information about any new easement included in a title plan must be in tabular form and include all of the following:\u003Cbr/\u003E\n - the heading 'Schedule of Easements'\u003Cbr/\u003E\n - the easement parcel identifier\u003Cbr/\u003E\n - the purpose of the easement\u003Cbr/\u003E\n - the burdened land\u003Cbr/\u003E\n - the benefited land or grantee.</data>
       </node>
       <node id="Rule1485" labels=":Rule">
          <data key="ID">Rule1485</data>
          <data key="Signifier">Title plan sheet information</data>
-         <data key="Statement">A title plan must include all of the following on every sheet of the title plan:
-- the CSD number
-- the sheet number
-- the total number of sheets.</data>
+         <data key="Statement">A title plan must include all of the following on every sheet of the title plan:\u003Cbr/\u003E\n- the CSD number\u003Cbr/\u003E\n- the sheet number\u003Cbr/\u003E\n- the total number of sheets.</data>
       </node>
       <node id="Rule1046" labels=":Rule">
          <data key="ID">Rule1046</data>
@@ -4002,23 +3399,17 @@ The symbol for a renewed survey mark must be the same as that for an old mark.</
       <node id="Rule1337" labels=":Rule">
          <data key="ID">Rule1337</data>
          <data key="Signifier">Use of accuracy class C for non-primary parcel 1</data>
-         <data key="Statement">A non-primary parcel boundary may be a class C boundary only if any of the following is true:
-- the boundary intersects or the boundary coincides with a boundary of a majority successor parcel
-- the boundary intersects or the boundary coincides with a boundary of a new large rural parcel.</data>
+         <data key="Statement">A non-primary parcel boundary may be a class C boundary only if any of the following is true:\u003Cbr/\u003E\n- the boundary intersects or the boundary coincides with a boundary of a majority successor parcel\u003Cbr/\u003E\n- the boundary intersects or the boundary coincides with a boundary of a new large rural parcel.</data>
       </node>
       <node id="Rule1339" labels=":Rule">
          <data key="ID">Rule1339</data>
          <data key="Signifier">Use of accuracy class C for non-primary parcel 2</data>
-         <data key="Statement">A non-primary parcel boundary may be a class C boundary only if all of the following are true:
-- the boundary defines a non-primary parcel that is a covenant parcel
-- the boundary would otherwise be a class B boundary.</data>
+         <data key="Statement">A non-primary parcel boundary may be a class C boundary only if all of the following are true:\u003Cbr/\u003E\n- the boundary defines a non-primary parcel that is a covenant parcel\u003Cbr/\u003E\n- the boundary would otherwise be a class B boundary.</data>
       </node>
       <node id="Rule1338" labels=":Rule">
          <data key="ID">Rule1338</data>
          <data key="Signifier">Use of accuracy class C for non-primary parcel 3</data>
-         <data key="Statement">A non-primary parcel boundary may be a class C boundary only if all of the following are true:
-- the underlying parcel is not a new parcel
-- new easements are created over existing parcels held in a single estate record that has an area [quantity] greater than 100 ha.</data>
+         <data key="Statement">A non-primary parcel boundary may be a class C boundary only if all of the following are true:\u003Cbr/\u003E\n- the underlying parcel is not a new parcel\u003Cbr/\u003E\n- new easements are created over existing parcels held in a single estate record that has an area [quantity] greater than 100 ha.</data>
       </node>
       <node id="Rule1135" labels=":Rule">
          <data key="ID">Rule1135</data>
@@ -4028,17 +3419,12 @@ The symbol for a renewed survey mark must be the same as that for an old mark.</
       <node id="Rule1305" labels=":Rule">
          <data key="ID">Rule1305</data>
          <data key="Signifier">Use of Class B Accuracy</data>
-         <data key="Statement">A class B boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each other boundary point that is included in a boundary that defines the same parcel is class B accuracy when the other boundary point is any of:
-- a class A boundary point
-- a class B boundary point.</data>
+         <data key="Statement">A class B boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each other boundary point that is included in a boundary that defines the same parcel is class B accuracy when the other boundary point is any of:\u003Cbr/\u003E\n- a class A boundary point\u003Cbr/\u003E\n- a class B boundary point.</data>
       </node>
       <node id="Rule1340" labels=":Rule">
          <data key="ID">Rule1340</data>
          <data key="Signifier">Use of class C accuracy</data>
-         <data key="Statement">A class C boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each other boundary point that is included in a boundary that defines the same parcel is class C accuracy when the other boundary point is any of:
-- a class A boundary point
-- a class B boundary point
-- a class C boundary point.</data>
+         <data key="Statement">A class C boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each other boundary point that is included in a boundary that defines the same parcel is class C accuracy when the other boundary point is any of:\u003Cbr/\u003E\n- a class A boundary point\u003Cbr/\u003E\n- a class B boundary point\u003Cbr/\u003E\n- a class C boundary point.</data>
       </node>
       <node id="Rule1341" labels=":Rule">
          <data key="ID">Rule1341</data>
@@ -4058,10 +3444,7 @@ The symbol for a renewed survey mark must be the same as that for an old mark.</
       <node id="Rule1373" labels=":Rule">
          <data key="ID">Rule1373</data>
          <data key="Signifier">Vectors connecting survey marks to non-primary parcel boundary points</data>
-         <data key="Statement">A cadastral survey must include at least 2 cadastral survey marks connected by a series of vectors to the boundary points of a boundary that defines a non-primary parcel if any of the following are true:
-- the boundary is not accurately related to a boundary defining an underlying parcel.
-- the non-primary parcel overlies a parcel that is the bed of a stream or the bed of a river or the bed of a lake
-- the boundary is a class c boundary.</data>
+         <data key="Statement">A cadastral survey must include at least 2 cadastral survey marks connected by a series of vectors to the boundary points of a boundary that defines a non-primary parcel if any of the following are true:\u003Cbr/\u003E\n- the boundary is not accurately related to a boundary defining an underlying parcel.\u003Cbr/\u003E\n- the non-primary parcel overlies a parcel that is the bed of a stream or the bed of a river or the bed of a lake\u003Cbr/\u003E\n- the boundary is a class c boundary.</data>
       </node>
       <node id="Rule1124" labels=":Rule">
          <data key="ID">Rule1124</data>
@@ -4116,9 +3499,7 @@ The symbol for a renewed survey mark must be the same as that for an old mark.</
       <node id="Rule1248" labels=":Rule">
          <data key="ID">Rule1248</data>
          <data key="Signifier">Vertical datum - 3</data>
-         <data key="Statement">A vertical control mark that exists more than 1,000 m from a boundary point may be included in a cadastral survey only if all of the following are true:
-- the boundary point is a new boundary point that has a reduced level and is included in a height limited boundary
-- there are no vertical control marks that exist less than or equal to 1,000 m from the boundary point.</data>
+         <data key="Statement">A vertical control mark that exists more than 1,000 m from a boundary point may be included in a cadastral survey only if all of the following are true:\u003Cbr/\u003E\n- the boundary point is a new boundary point that has a reduced level and is included in a height limited boundary\u003Cbr/\u003E\n- there are no vertical control marks that exist less than or equal to 1,000 m from the boundary point.</data>
       </node>
       <node id="Rule1273" labels=":Rule">
          <data key="ID">Rule1273</data>
@@ -4143,9 +3524,7 @@ The symbol for a renewed survey mark must be the same as that for an old mark.</
       <node id="Rule1034" labels=":Rule">
          <data key="ID">Rule1034</data>
          <data key="Signifier">Vertical extent of non-primary parcel</data>
-         <data key="Statement">The vertical extent of a non-primary parcel for which the vertical extent is limited must be defined by one of the following:
-- a height limited boundary
-- a permanent structure boundary.</data>
+         <data key="Statement">The vertical extent of a non-primary parcel for which the vertical extent is limited must be defined by one of the following:\u003Cbr/\u003E\n- a height limited boundary\u003Cbr/\u003E\n- a permanent structure boundary.</data>
       </node>
       <node id="Fact1471" labels=":Fact">
          <data key="ID">Fact1471</data>
@@ -5100,8 +4479,7 @@ The symbol for a renewed survey mark must be the same as that for an old mark.</
                   <td style="background:rgb(255,255,128)">Description of the physical feature</td>
                </tr>
                <tr style="height:16px">
-                  <td style="background:rgb(128,255,128)">The source CSD number for an adopted permanent structure boundary
-</td>
+                  <td style="background:rgb(128,255,128)">The source CSD number for an adopted permanent structure boundary\u003Cbr/\u003E\n</td>
                   <td style="background:rgb(255,255,128)">"Adpt " CSD number</td>
                </tr>
                <tr style="height:16px">
@@ -5133,8 +4511,7 @@ The symbol for a renewed survey mark must be the same as that for an old mark.</
                   <td>Annotation</td>
                </tr>
                <tr style="height:44px">
-                  <td style="background:rgb(128,255,128)">The name or if no name is available a simple
-description of any road, or railway, or water body that abuts a new parcel</td>
+                  <td style="background:rgb(128,255,128)">The name or if no name is available a simple\u003Cbr/\u003E\ndescription of any road, or railway, or water body that abuts a new parcel</td>
                   <td style="background:rgb(255,255,128)">Suitable notation</td>
                </tr>
                <tr style="height:16px">
@@ -5240,11 +4617,7 @@ description of any road, or railway, or water body that abuts a new parcel</td>
                <tr style="height:70px">
                   <td style="background:rgb(128,255,0)">Unit title development</td>
                   <td style="background:rgb(255,255,128)"> </td>
-                  <td style="background:rgb(255,255,128)">As appropriate:
-- Principal Unit
-- Accessory Unit
-- Future Development Unit
-- Common Property</td>
+                  <td style="background:rgb(255,255,128)">As appropriate:\u003Cbr/\u003E\n- Principal Unit\u003Cbr/\u003E\n- Accessory Unit\u003Cbr/\u003E\n- Future Development Unit\u003Cbr/\u003E\n- Common Property</td>
                </tr>
                <tr style="height:17px">
                   <td style="background:rgb(128,255,0)">Movable marginal strip</td>
