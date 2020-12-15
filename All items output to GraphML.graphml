@@ -2162,7 +2162,7 @@
       <node id="Rule1363" labels=":Rule">
          <data key="ID">Rule1363</data>
          <data key="Signifier">Class B non-primary parcel boundary permitted inaccurate relationship to underlying parcel</data>
-         <data key="Statement">A boundary that defines a non-primary parcel may be not accurately related to another boundary that defines a primary parcel that underlies the non-primary parcel in a cadastral survey only if the primary parcel is not created by that cadastral survey and any of the following are true:<br/>- the boundary is a class B boundary<br/>- the other boundary is a class B boundary<br/>- none of the boundaries that define the primary parcel are accurately defined boundaries.</data>
+         <data key="Statement">A boundary that defines a non-primary parcel may be not accurately related to another boundary that defines a primary parcel that underlies the non-primary parcel in a cadastral survey only if the primary parcel is not created by that cadastral survey and any of the following are true:<br/>- the boundary is a class b boundary<br/>- the other boundary is a class b boundary<br/>- none of the boundaries that define the primary parcel are accurately defined boundaries.</data>
       </node>
       <node id="Rule1133" labels=":Rule">
          <data key="ID">Rule1133</data>
@@ -2730,7 +2730,7 @@
       <node id="Rule1398" labels=":Rule">
          <data key="ID">Rule1398</data>
          <data key="Signifier">Non-primary parcel accepted boundaries</data>
-         <data key="Statement">A boundary that defines a non-primary parcel and coincides with another boundary defining an underlying parcel must be an accepted boundary if any of the following is true:<br/>- the boundary is not accurately related to the other boundary<br/>- the underlying parcel is the bed of a stream or the bed of a river or the bed of a lake<br/>- the boundary is a class C boundary.</data>
+         <data key="Statement">A boundary that defines a non-primary parcel and coincides with another boundary defining an underlying parcel must be an accepted boundary if any of the following is true:<br/>- the boundary is not accurately related to the other boundary<br/>- the underlying parcel is the bed of a stream or the bed of a river or the bed of a lake<br/>- the boundary is a class c boundary.</data>
       </node>
       <node id="Rule1053" labels=":Rule">
          <data key="ID">Rule1053</data>
