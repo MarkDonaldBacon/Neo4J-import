@@ -17,8 +17,8 @@ Term1433¶"adopted distance"¶"adopted distance"¶"a distance that is adopted"
 Term1359¶"adopted mark"¶"adopted mark"¶"a mark that is adopted"
 Term1432¶"adopted vector"¶"adopted vector"¶"a vector that is adopted"
 Term1211¶"affected by ground movement"¶"affected boundary; affected by ground movement"¶""
-Term1031¶"approved CSD"¶"approved CSD"¶"a CSD not lodged only for recording purposes and for which any of the following is true:<br/>
-- the CSD has been determined by the chief executive [cadastral survey] to comply with the cadastral survey rules<br/>
+Term1031¶"approved CSD"¶"approved CSD"¶"a CSD not lodged only for recording purposes and for which any of the following is true:
+- the CSD has been determined by the chief executive [cadastral survey] to comply with the cadastral survey rules
 - the CSD was approved under former Acts and regulations"
 Term1459¶"appurtenant"¶"appurtenant"¶"any right or restriction which goes with a property"
 Term1435¶"arc"¶"arc"¶"the part of the circumference of a circle that an arc boundary follows"
@@ -28,21 +28,21 @@ Term1450¶"area schedule"¶"area schedule"¶"a supporting document that is usual
 Term1078¶"balance parcel"¶"balance parcel"¶"the portion of an existing primary parcel that is not included in a new parcel that extinguishes the existing primary parcel"
 Term1465¶"basis"¶"basis"¶"information provided for justification of or reasoning behind presented data"
 Term1145¶"bearing"¶"bearing"¶"a direction expressed in sexagesimal degrees, minutes and seconds notation clockwise from north"
-Term1453¶"bearing adjustment"¶"bearing adjustment; bearing correction"¶"either:<br/>
-- the difference between an older datum and the current datum being used<br/>
+Term1453¶"bearing adjustment"¶"bearing adjustment; bearing correction"¶"either:
+- the difference between an older datum and the current datum being used
 - a difference in orientation"
 Term1396¶"bearing state"¶"bearing state"¶"the status of a bearing"
-Term1121¶"bed of a lake"¶"bed of a lake"¶"the space of land which the waters of a lake cover at any of the following levels:<br/>
-- the maximum permitted operating level for a lake controlled by artificial means<br/>
-- the annual highest level without exceeding its margin for esplanade reserves, esplanade strips and subdivision<br/>
+Term1121¶"bed of a lake"¶"bed of a lake"¶"the space of land which the waters of a lake cover at any of the following levels:
+- the maximum permitted operating level for a lake controlled by artificial means
+- the annual highest level without exceeding its margin for esplanade reserves, esplanade strips and subdivision
 - the highest level without exceeding its margin in all other cases"
-Term1122¶"bed of a river"¶"bed of a river"¶"the space of land which the waters of the river cover at any of the following flows:<br/>
-- the annual fullest flow without overtopping its banks for esplanade reserves, esplanade strips and subdivision<br/>
+Term1122¶"bed of a river"¶"bed of a river"¶"the space of land which the waters of the river cover at any of the following flows:
+- the annual fullest flow without overtopping its banks for esplanade reserves, esplanade strips and subdivision
 - the fullest flow without overtopping its banks in all other cases"
 Term1194¶"bed of the sea"¶"bed of the sea"¶"the submarine areas covered by the internal waters and the territorial sea"
 Term1449¶"benefited land"¶"benefited land; dominant tenement"¶"land that benefits from an easement or land covenant"
-Term1020¶"boundary"¶"boundary"¶"any of the following:<br/>
-- the invisible line of division between abutting portions of land<br/>
+Term1020¶"boundary"¶"boundary"¶"any of the following:
+- the invisible line of division between abutting portions of land
 - a physical natural or man made object that serves as a limit of a property"
 Term1134¶"boundary bearing"¶"boundary bearing"¶"a bearing between two boundary points included in a right-line boundary"
 Term1278¶"boundary class"¶"boundary class"¶""
@@ -87,20 +87,20 @@ Term1389¶"class C boundary point"¶"class C boundary point"¶""
 Term1208¶"class D accuracy"¶"class D; class D accuracy"¶"a class of accuracy [relative] for which a tolerance is not specified"
 Term1386¶"class D boundary"¶"class D boundary"¶""
 Term1390¶"class D boundary point"¶"class D boundary point"¶""
-Term1048¶"common marine and coastal area"¶"common marine and coastal area"¶"a marine and coastal area that is not any of the following:<br/>
-- a specified freehold land located in that area<br/>
-- an area owned by the Crown which has any of the following kinds of status:<br/>
-- - a conservation area within the meaning of section 2(1) of the Conservation Act 1987<br/>
-- - a national park within the meaning of section 2 of the National Parks Act 1980<br/>
-- - a reserve within the meaning of section 2(1) of the Reserves Act 1977<br/>
+Term1048¶"common marine and coastal area"¶"common marine and coastal area"¶"a marine and coastal area that is not any of the following:
+- a specified freehold land located in that area
+- an area owned by the Crown which has any of the following kinds of status:
+- - a conservation area within the meaning of section 2(1) of the Conservation Act 1987
+- - a national park within the meaning of section 2 of the National Parks Act 1980
+- - a reserve within the meaning of section 2(1) of the Reserves Act 1977
 - the bed of Te Whanga Lagoon in the Chatham Islands"
-Term1162¶"common property"¶"common property"¶"land and facilities in a unit title development which are shared by the unit owners and not contained in any of the following:<br/>
-- principal unit<br/>
-- accessory unit<br/>
+Term1162¶"common property"¶"common property"¶"land and facilities in a unit title development which are shared by the unit owners and not contained in any of the following:
+- principal unit
+- accessory unit
 - future development unit"
-Term1049¶"company lease"¶"company lease"¶"a lease or licence or other right of occupation of any building or part of any building on, or to be erected on, any land where all of the following are true:<br/>
-- the lease is granted by a company owning an estate or interest in the land<br/>
-- the lease is held by a person by virtue of being a shareholder in the company<br/>
+Term1049¶"company lease"¶"company lease"¶"a lease or licence or other right of occupation of any building or part of any building on, or to be erected on, any land where all of the following are true:
+- the lease is granted by a company owning an estate or interest in the land
+- the lease is held by a person by virtue of being a shareholder in the company
 - the lease is a licence within the meaning of section 122 of the Land Transfer Act 2017"
 Term1030¶"complete CSD"¶"complete CSD"¶"a CSD that includes all the elements prescribed by the cadastral survey rules"
 Term1220¶"composite"¶"composite"¶""
@@ -109,8 +109,8 @@ Term1110¶"Conservation Act 1987"¶"Conservation Act 1987"¶""
 Term1317¶"covenant"¶"covenant"¶"a record of the agreed rules that apply to the ownership of land"
 Term1441¶"covenant parcel"¶"covenant parcel"¶"a parcel with a covenant on it"
 Term1428¶"covenant state"¶"covenant state"¶"status of a covenant"
-Term1051¶"cross lease"¶"cross lease"¶"a lease of any building or part of any building on, or to be erected on, any land where all of the following are true:<br/>
-- the lease is granted by any owner of the land<br/>
+Term1051¶"cross lease"¶"cross lease"¶"a lease of any building or part of any building on, or to be erected on, any land where all of the following are true:
+- the lease is granted by any owner of the land
 - the lease is held by a person who has an estate or interest in an undivided share in the land"
 Term1283¶"Crown subdivision"¶"Crown subdivision"¶"the subdivision of land held under the Land Act 1948 or Conservation Act 1987 into new parcels for disposal by the Crown"
 Term1015¶"CSD"¶"cadastral survey dataset; CSD"¶"the set of cadastral survey data needed to integrate a cadastral survey into the cadastre"
@@ -118,9 +118,9 @@ Term1052¶"CSD number"¶"CSD number"¶"the CSD type and its identifier"
 Term1192¶"dataset description"¶"dataset description"¶"description of data contained within a CSD"
 Term1197¶"datum"¶"datum"¶"a reference surface against which position measurements are determined"
 Term1119¶"Deeds Registration Act 1908"¶"Deeds Registration Act 1908"¶""
-Term1210¶"defined by survey"¶"defined by survey"¶"a definition that a cadastral surveyor has determined to be correct in relation to other boundaries and boundary points by performing all of the following:<br/>
-- gathering all evidence relevant to the definition<br/>
-- interpreting that evidence in accordance with all relevant enactments and rules of law<br/>
+Term1210¶"defined by survey"¶"defined by survey"¶"a definition that a cadastral surveyor has determined to be correct in relation to other boundaries and boundary points by performing all of the following:
+- gathering all evidence relevant to the definition
+- interpreting that evidence in accordance with all relevant enactments and rules of law
 - using that evidence to determine the correct position"
 Term1212¶"defined in a diagram on transfer"¶"defined in a diagram on transfer"¶"defined in a diagram drawn by a surveyor on a transfer document or by a conveyancer under the deeds system without undertaking a full cadastral survey"
 Term1401¶"deposited"¶"deposited"¶"permanently held by the Registrar under the Land Transfer Act 2017."
@@ -134,22 +134,22 @@ Term1376¶"easement state"¶"easement state"¶"status of an easement"
 Term1463¶"ellipsoid"¶"ellipsoid"¶"a surface formed by the rotation of an ellipse about a main axis that approximates mean sea level"
 Term1202¶"end point"¶"end point"¶"the end of a vector or series of vectors"
 Term1397¶"erosion"¶"erosion"¶"land that has been gradually and imperceptibly eaten away from the water boundary of a property"
-Term1156¶"esplanade strip"¶"esplanade strip"¶"a strip of land created by the registration of an instrument between the territorial authority and the subdividing owner for any of the following purposes:<br/>
-- to contribute to the protection of conservation values<br/>
-- to enable public access to or along any sea, river or lake<br/>
+Term1156¶"esplanade strip"¶"esplanade strip"¶"a strip of land created by the registration of an instrument between the territorial authority and the subdividing owner for any of the following purposes:
+- to contribute to the protection of conservation values
+- to enable public access to or along any sea, river or lake
 - to enable public recreational use of the strip and adjacent sea, river or lake where the use is compatible with conservation values"
 Term1176¶"estate"¶"estate"¶"a possessory interest in real property."
-Term1054¶"estate boundary"¶"estate boundary"¶"a boundary used in defining the shape of an estate recorded in an estate record in a tenure system for any of the following:<br/>
-- a fee simple estate<br/>
-- Maori freehold land<br/>
-- Maori customary land<br/>
-- land of the Crown<br/>
-- a stratum estate<br/>
+Term1054¶"estate boundary"¶"estate boundary"¶"a boundary used in defining the shape of an estate recorded in an estate record in a tenure system for any of the following:
+- a fee simple estate
+- Maori freehold land
+- Maori customary land
+- land of the Crown
+- a stratum estate
 - a leasehold estate."
 Term1101¶"estate record"¶"estate record"¶"a record of title, gazette notice, proclamation or court minutes in which the details of an estate are recorded"
-Term1168¶"existing"¶"existing"¶"information that is not historic and for which any of the following is true:<br/>
-- the information is present in an approved CSD<br/>
-- the information is present in an estate record held by the tenure system manager<br/>
+Term1168¶"existing"¶"existing"¶"information that is not historic and for which any of the following is true:
+- the information is present in an approved CSD
+- the information is present in an estate record held by the tenure system manager
 - the information is present in a CSD that was lodged only for recording purposes and the information is verified as complying with the cadastral survey rules"
 Term1458¶"existing appurtenant easement"¶"existing appurtenant easement"¶"an appurtenant easement that is existing"
 Term1353¶"existing boundary"¶"existing boundary"¶"boundary that is existing"
@@ -180,17 +180,17 @@ Term1161¶"future development unit"¶"FDU; future development unit"¶"a unit tha
 Term1335¶"geodetic projection"¶"geodetic projection"¶"representation of the curved surface of a specific area of Earth upon a flat surface"
 Term1308¶"geodetic survey"¶"geodetic survey"¶""
 Term1456¶"grantee"¶"grantee"¶"a person who has the benefit of an easement"
-Term1057¶"Hawkes Bay interim title"¶"Hawkes Bay interim title"¶"a record of title issued to a person under the Land Transfer (Hawke's Bay) Act 1931 due to any of the following reasons:<br/>
-- the Registrar-General of Land being satisfied that the original issued record of title was destroyed and that the person is the registered proprietor or mortgagee of the estate of freehold for which the record of title is being sought<br/>
+Term1057¶"Hawkes Bay interim title"¶"Hawkes Bay interim title"¶"a record of title issued to a person under the Land Transfer (Hawke's Bay) Act 1931 due to any of the following reasons:
+- the Registrar-General of Land being satisfied that the original issued record of title was destroyed and that the person is the registered proprietor or mortgagee of the estate of freehold for which the record of title is being sought
 - the Registrar-General of Land knowing or believing that the original issued record of title was destroyed"
 Term1180¶"height limited boundary"¶"height limited boundary; stratum boundary"¶"a boundary that defines the upper or lower extent of a parcel"
-Term1177¶"historic"¶"historic"¶"information for which any of the following is true:<br/>
-- the information is replaced in an approved CSD<br/>
+Term1177¶"historic"¶"historic"¶"information for which any of the following is true:
+- the information is replaced in an approved CSD
 - the information is expired in an approved CSD"
 Term1363¶"historic mark"¶"historic mark"¶"mark that is historic"
 Term1381¶"horizontal distance"¶"horizontal distance"¶"a distance, reduced to the ellipsoid used for the official geodetic datum, computed for a pair of points from the horizontal components of the spatial relationships defined by the series of vectors that connect the points"
 Term1310¶"horizontal extent"¶"horizontal extent"¶"the shape of a parcel defined by the boundaries of the parcel when vertically projected on a horizontal plane"
-Term1329¶"horizontal projection"¶"horizontal projection"¶"a projection of part of the curved surface of the Earth as a flat plane<br/>
+Term1329¶"horizontal projection"¶"horizontal projection"¶"a projection of part of the curved surface of the Earth as a flat plane
 representation of the curved surface of a specific area of Earth upon a flat surface"
 Term1166¶"ID"¶"ID; name"¶"a string of characters that is the distinctive designation of a thing"
 Term1402¶"inaccurately determined"¶"inaccurately determined"¶"the relationship between a boundary that defines a non-primary parcel and the underlying parcel is not accurately defined"
@@ -200,10 +200,10 @@ Term1368¶"irregular boundary state"¶"irregular boundary state"¶"the status of
 Term1044¶"irregular line"¶"irregular line"¶"a line consisting of a series of connected vertices that are usually irregularly spaced and not on a single alignment"
 Term1284¶"Land Act 1948"¶"Land Act 1948"¶""
 Term1189¶"land information system"¶"land information system"¶"a geographic information system for cadastral and land-use mapping that consists of an accurate, current and reliable land record cadastre and its associated attribute and spatial data that represent the legal boundaries of land tenure and provides a vital base layer capable of integration into other geographic systems or as a standalone solution that allows data stewards to retrieve, create, update, store, view, analyze and publish land information"
-Term1120¶"Land Transfer Act 2017"¶"Land Transfer Act 2017"¶"a modern Act that replaces the Land Transfer Act 1952 that ensures all of the following:<br/>
-- continues and maintains the Torrens system of land title in New Zealand<br/>
-- retains the fundamental principles of that system<br/>
-- reflects the fact that the land transfer register is kept and operated electronically and that most dealings in land are carried out electronically<br/>
+Term1120¶"Land Transfer Act 2017"¶"Land Transfer Act 2017"¶"a modern Act that replaces the Land Transfer Act 1952 that ensures all of the following:
+- continues and maintains the Torrens system of land title in New Zealand
+- retains the fundamental principles of that system
+- reflects the fact that the land transfer register is kept and operated electronically and that most dealings in land are carried out electronically
 - maintains the integrity of title to estates and interests in land"
 Term1106¶"land transfer CSD"¶"land transfer CSD"¶"the set of data needed to integrate a cadastral survey for the transferring of land that is subject to the Land Transfer Act 2017 into the cadastre"
 Term1199¶"Landonline order"¶"Landonline order"¶"a combined categorisation of a coordinate's local and network accuracy [positional] that is specified in paragraph 5 of \"Standard for tiers, classes, and orders of LINZ data\" (LINZS25006)"
@@ -214,21 +214,21 @@ Term1280¶"lease"¶"lease"¶"an instrument under which a lessor confers upon a l
 Term1466¶"lease parcel"¶"lease parcel"¶"a parcel that a lease has been assigned to"
 Term1218¶"leasehold"¶"leasehold"¶"an estate for a period of time created by registration of a lease"
 Term1378¶"legalisation"¶"legalisation"¶"a parcel that is intended to be subject to a statutory action and is intended to be fee simple as a result of the statutory action"
-Term1282¶"legalisation plan"¶"legalisation plan"¶"when land is taken compulsorily or acquired by agreement through the use of statutory actions based on legislation including the stopping of roads<br/>
+Term1282¶"legalisation plan"¶"legalisation plan"¶"when land is taken compulsorily or acquired by agreement through the use of statutory actions based on legislation including the stopping of roads
 the creation of new parcels of land for a public work or similar legalisation action"
 Term1147¶"legislation"¶"legislation"¶"Acts, Bills, Legislative Instruments, Other Instruments and Supplementary Order Papers"
 Term1318¶"licence"¶"licence"¶"a short-term right to occupy a property for a particular purpose that does not give any right to exclusive occupation"
 Term1411¶"licence area"¶"licence area"¶"the shape of a space associated with a licence"
 Term1221¶"life estate"¶"life estate"¶""
-Term1213¶"limited as to parcels"¶"limitation as to parcels; limitations as to parcels; limited as to parcels"¶"land for which all of the following are true:<br/>
-- a guaranteed title not issued for the land due to the cadastral survey information being insufficient or another person being in adverse possession of part of the land<br/>
+Term1213¶"limited as to parcels"¶"limitation as to parcels; limitations as to parcels; limited as to parcels"¶"land for which all of the following are true:
+- a guaranteed title not issued for the land due to the cadastral survey information being insufficient or another person being in adverse possession of part of the land
 - the boundaries of the land not properly defined on a CSD"
 Term1455¶"LINZ"¶"Land Information New Zealand; LINZ"¶"the government department responsible for managing land titles, geodetic and cadastral survey systems, topographic information, hydrographic information, managing Crown property and supporting government decision making around foreign ownership"
 Term1462¶"LINZS25000"¶"LINZS25000; Standard for New Zealand Geodetic Datum 2000"¶"https://www.linz.govt.nz/system/files_force/media/regulatory-documents/25002-LINZS25002%20Standard%20for%20New%20Zealand%20Geodetic%20Datum%202000%20Projections-%20version%202_4.pdf"
 Term1157¶"lot"¶"lot"¶"a parcel of land having fixed boundaries"
 Term1174¶"magnetic bearing"¶"magnetic bearing"¶"a bearing measured with a compass in terms of magnetic north"
-Term1182¶"majority successor parcel"¶"majority successor parcel"¶"a new primary parcel for which all of the following are true:<br/>
-- the new primary parcel has an area [quantity] > 20 hectares<br/>
+Term1182¶"majority successor parcel"¶"majority successor parcel"¶"a new primary parcel for which all of the following are true:
+- the new primary parcel has an area [quantity] > 20 hectares
 - the new primary parcel comprises more than 80% of the existing primary parcel that is extinguished by the new primary parcel"
 Term1379¶"majority successor parcel state"¶"majority successor parcel state"¶"the status of a majority successor parcel"
 Term1084¶"Maori"¶"Maori"¶"a person of the Maori race of New Zealand including a descendant of any such person"
@@ -238,9 +238,9 @@ Term1059¶"Maori freehold land"¶"Maori freehold land"¶"status of land for whic
 Term1085¶"Maori Land Court"¶"Maori Land Court"¶"the New Zealand court of record that hears matters relating to Maori land"
 Term1107¶"Maori Land CSD"¶"Maori Land CSD"¶""
 Term1109¶"Maori race"¶"Maori race"¶"an ethnic group of people native to New Zealand"
-Term1060¶"marginal strip"¶"marginal strip"¶"a strip of land reserved or deemed to be reserved by the Conservation Act 1987 for any of the following:<br/>
-- conservation purposes<br/>
-- enabling public access to any adjacent watercourses or bodies of water<br/>
+Term1060¶"marginal strip"¶"marginal strip"¶"a strip of land reserved or deemed to be reserved by the Conservation Act 1987 for any of the following:
+- conservation purposes
+- enabling public access to any adjacent watercourses or bodies of water
 - public recreational use of the strip and adjacent watercourses or bodies of water."
 Term1303¶"mark"¶"mark"¶"a point for which a physical object has been placed"
 Term1416¶"mark in a post"¶"mark in a post"¶"a physical impression on a post"
@@ -254,12 +254,12 @@ Term1431¶"measured bearing"¶"measured bearing"¶"a bearing that is measured"
 Term1434¶"measured distance"¶"measured distance"¶"a distance that is measured"
 Term1367¶"meridional circuit projection"¶"meridional circuit projection"¶"a defined projection representing part of the curved surface of the NZGD2000 ellipsoid as a plane surface"
 Term1063¶"movable marginal strip"¶"movable marginal strip"¶"a marginal strip that is not a fixed marginal strip"
-Term1117¶"National Parks Act 1980"¶"National Parks Act 1980"¶"an Act having the effect of preserving, administering and maintaining areas of New Zealand that contain any of the following:<br/>
-<br/>
-- scenery of distinctive quality<br/>
-- ecological systems<br/>
-- natural features that are beautiful, unique, or scientifically important enough to warrant their preservation as national interest<br/>
-<br/>
+Term1117¶"National Parks Act 1980"¶"National Parks Act 1980"¶"an Act having the effect of preserving, administering and maintaining areas of New Zealand that contain any of the following:
+
+- scenery of distinctive quality
+- ecological systems
+- natural features that are beautiful, unique, or scientifically important enough to warrant their preservation as national interest
+
 as national parks for their intrinsic worth and for the benefit, use, and enjoyment of the public"
 Term1100¶"national survey control system"¶"national survey control system"¶"a system used to determine the position of points, features, and boundaries in cadastral surveys, other surveys, and land information systems"
 Term1179¶"new"¶"new"¶"information that is not existing"
@@ -297,13 +297,13 @@ Term1326¶"parcel ID"¶"parcel appellation; parcel ID"¶"the ID of a parcel"
 Term1040¶"parcel intent"¶"parcel intent"¶"a description of a right or interest intended to be assigned to a parcel."
 Term1339¶"parcel state"¶"parcel state"¶"the status of a parcel"
 Term1153¶"parcel type component"¶"parcel type component"¶"a descriptor for a type of parcel"
-Term1066¶"permanent reference mark"¶"permanent reference mark; PRM"¶"a mark that is all of the following:<br/>
-- made of durable material<br/>
-- set in stable material<br/>
+Term1066¶"permanent reference mark"¶"permanent reference mark; PRM"¶"a mark that is all of the following:
+- made of durable material
+- set in stable material
 - located in a position that is likely to remain accessible and not be disturbed"
 Term1321¶"permanent structure"¶"permanent structure"¶"a building or recognisable physical structure that is likely to remain undisturbed for 50 years or more."
-Term1067¶"permanent structure boundary"¶"permanent structure boundary"¶"is any of the following:<br/>
-- a boundary related to a permanent structure<br/>
+Term1067¶"permanent structure boundary"¶"permanent structure boundary"¶"is any of the following:
+- a boundary related to a permanent structure
 - the outline of a future development unit"
 Term1415¶"permanent structure boundary point"¶"permanent structure boundary point"¶"a boundary point that is included in a permanent structure boundary"
 Term1410¶"permit area"¶"permit area"¶"the shape of a space associated with a permit"
@@ -311,16 +311,16 @@ Term1163¶"physical mark type"¶"physical mark type"¶"the type of physical obje
 Term1187¶"point"¶"point"¶"a unique position recorded in a cadastral survey"
 Term1328¶"point name"¶"point name"¶"the ID of a point"
 Term1425¶"positional"¶"positional"¶""
-Term1025¶"primary parcel"¶"primary parcel"¶"a parcel that is intended to be any of the following:<br/>
-- owned by the Crown if it is not a movable marginal strip parcel<br/>
-- held in fee simple<br/>
-- Maori freehold land<br/>
-- Maori customary land<br/>
-- part of the common marine and coastal area<br/>
-- the bed of a lake<br/>
-- the bed of a river<br/>
-- a road parcel<br/>
-- a railway parcel<br/>
+Term1025¶"primary parcel"¶"primary parcel"¶"a parcel that is intended to be any of the following:
+- owned by the Crown if it is not a movable marginal strip parcel
+- held in fee simple
+- Maori freehold land
+- Maori customary land
+- part of the common marine and coastal area
+- the bed of a lake
+- the bed of a river
+- a road parcel
+- a railway parcel
 - vested in a local authority"
 Term1370¶"primary parcel state"¶"primary parcel state"¶"the status of a primary parcel."
 Term1159¶"principal unit"¶"principal unit; PU"¶"a unit designed for use as a place of residence or business or otherwise and identified as such on a unit plan"
@@ -335,9 +335,9 @@ Term1183¶"reduced level"¶"reduced level"¶"a height in terms of a vertical dat
 Term1405¶"referenced boundary mark"¶"referenced boundary mark"¶""
 Term1404¶"referenced boundary point"¶"referenced boundary point"¶""
 Term1406¶"referenced height-limited boundary point"¶"referenced height-limited boundary point"¶""
-Term1444¶"referenced point"¶"referenced point"¶"Any of:<br/>
-- a referenced boundary point<br/>
-- a referenced boundary mark<br/>
+Term1444¶"referenced point"¶"referenced point"¶"Any of:
+- a referenced boundary point
+- a referenced boundary mark
 - a referenced height-limited boundary point."
 Term1323¶"Registrar-General of Land"¶"Registrar-General of Land"¶"the person who is appointed under the State Sector Act 1988 to keep and operate the land title register subject to the Land Transfer Act 2017"
 Term1392¶"reinstated boundary"¶"reinstated boundary"¶"an existing boundary on which 1 or more new boundary marks are placed by a boundary reinstatement survey."
@@ -345,21 +345,21 @@ Term1068¶"reinstated survey mark"¶"reinstated survey mark"¶"a new survey mark
 Term1424¶"relative"¶"relative"¶""
 Term1123¶"renewed survey mark"¶"renewed survey mark"¶"a new survey mark placed in the position of an old survey mark that has been found"
 Term1118¶"Reserves Act 1977"¶"Reserves Act 1977"¶""
-Term1069¶"residue parcel"¶"residue parcel"¶"a parcel that is any of the following:<br/>
-- the residual portion of a primary parcel that remains as a result of a cadastral survey for any of the following reasons:<br/>
-- - for removal of limitations as to parcels<br/>
-- - for an adverse possession claim<br/>
-- - to change the registration of land from the Deeds Registration Act 1908 to the Land Transfer Act 2017<br/>
-- the residual portion of a primary parcel for which all of the following are true:<br/>
-- - the portion is being defined as part of any of the following:<br/>
-- - - the bed of a lake<br/>
-- - - the bed of a river<br/>
-- - - the common marine and coastal area<br/>
-- - the portion is not currently recorded in the cadastre as any of the following:<br/>
-- - - the bed of a lake<br/>
-- - - the bed of a river<br/>
-- - - part of the common marine and coastal area<br/>
-- - the portion is not intended to vest<br/>
+Term1069¶"residue parcel"¶"residue parcel"¶"a parcel that is any of the following:
+- the residual portion of a primary parcel that remains as a result of a cadastral survey for any of the following reasons:
+- - for removal of limitations as to parcels
+- - for an adverse possession claim
+- - to change the registration of land from the Deeds Registration Act 1908 to the Land Transfer Act 2017
+- the residual portion of a primary parcel for which all of the following are true:
+- - the portion is being defined as part of any of the following:
+- - - the bed of a lake
+- - - the bed of a river
+- - - the common marine and coastal area
+- - the portion is not currently recorded in the cadastre as any of the following:
+- - - the bed of a lake
+- - - the bed of a river
+- - - part of the common marine and coastal area
+- - the portion is not intended to vest
 - - the portion is not intended to have a new estate record."
 Term1413¶"restricted roadway encumbrance"¶"restricted roadway encumbrance"¶"a restricted roadway that is an encumbrance over a primary parcel."
 Term1089¶"right"¶"right"¶"a claim or entitlement to the use of or control over land that is recognisable and enforceable at law"
@@ -371,12 +371,12 @@ Term1158¶"section"¶"section"¶"a parcel of land under a SO CSD"
 Term1204¶"series of vectors"¶"series of vectors"¶"a series of one or more connected vectors"
 Term1382¶"slope distance"¶"slope distance"¶"a distance that is computed for a pair of points from the horizontal and vertical components of the spatial relationships defined by the series of vectors that connect the points"
 Term1203¶"start point"¶"start point"¶"the start of a vector or series of vectors"
-Term1312¶"stratum estate"¶"stratum estate"¶"is any of the following:<br/>
-- stratum estate in freehold<br/>
-- stratum estate in leasehold<br/>
+Term1312¶"stratum estate"¶"stratum estate"¶"is any of the following:
+- stratum estate in freehold
+- stratum estate in leasehold
 - stratum estate in licence"
-Term1313¶"stratum estate in freehold"¶"stratum estate in freehold"¶"is any of the following:<br/>
-- a principal unit or an accessory unit created by the subdivision of a fee simple parcel contained in a freehold record of title into a number of separate parcels<br/>
+Term1313¶"stratum estate in freehold"¶"stratum estate in freehold"¶"is any of the following:
+- a principal unit or an accessory unit created by the subdivision of a fee simple parcel contained in a freehold record of title into a number of separate parcels
 - a subsidiary unit of a principal unit where the principal unit is created by the subdivision of a fee simple parcel contained in a freehold record of title into a number of separate parcels"
 Term1314¶"stratum estate in leasehold"¶"stratum estate in leasehold"¶"a unit title created by the subdivision of an existing lease into a number of separate parcels by the registered owner of the lease"
 Term1315¶"stratum estate in licence"¶"stratum estate in licence"¶"a unit title created by the subdivision of an existing licence into a number of separate parcels by the registered owner of the licence"
@@ -387,15 +387,15 @@ Term1019¶"survey mark"¶"survey mark"¶"a cadastral survey mark or a mark used 
 Term1372¶"survey mark state"¶"survey mark state"¶"the status of a survey mark"
 Term1393¶"survey mark type"¶"survey mark type"¶"type of categorization of a survey mark"
 Term1108¶"survey office CSD"¶"SO CSD; survey office CSD"¶"the set of data needed to integrate a cadastral survey for one or more parcels of land under either a legalisation plan or Crown subdivision into the cadastre"
-Term1451¶"survey plan"¶"survey plan"¶"a cadastral survey dataset of either:<br/>
-- subdivision of land, a building or part of a building prepared in a form suitable for deposit under the Land Transfer Act 2017<br/>
+Term1451¶"survey plan"¶"survey plan"¶"a cadastral survey dataset of either:
+- subdivision of land, a building or part of a building prepared in a form suitable for deposit under the Land Transfer Act 2017
 - a subdivision by or on behalf of a Minister of the Crown of land not subject to the Land Transfer Act 2017"
-Term1181¶"survey purpose"¶"survey purpose"¶"reason for a cadastral survey being conducted such as any of the following:<br/>
-- a limitation as to parcels being uplifted from a parcel<br/>
-- an application to make a Hawkes Bay interim title conclusive<br/>
-- a claim for adverse possession<br/>
-- a claim for accretion<br/>
-- a claim for a dry stream bed<br/>
+Term1181¶"survey purpose"¶"survey purpose"¶"reason for a cadastral survey being conducted such as any of the following:
+- a limitation as to parcels being uplifted from a parcel
+- an application to make a Hawkes Bay interim title conclusive
+- a claim for adverse possession
+- a claim for accretion
+- a claim for a dry stream bed
 - a legalisation"
 Term1184¶"survey report"¶"survey report"¶"a report that accompanies a CSD setting out the basis of the cadastral survey"
 Term1088¶"tenure"¶"tenure"¶"the kind of right or title by which land is held"
@@ -408,13 +408,13 @@ Term1186¶"title diagram"¶"title diagram"¶""
 Term1028¶"title plan"¶"title plan"¶"information that is essential for the correct management and allocation of rights"
 Term1097¶"topology"¶"topology"¶"geometrical/spatial relationships between the connectivity of features, adjacency of polygons and relationships to attributes"
 Term1070¶"underlying parcel"¶"underlying parcel"¶"the parcel whose interests are or will be directly affected or encumbered by a non-primary parcel"
-Term1316¶"unit"¶"unit"¶"a part of land consisting of a space for which all of the following are true:<br/>
-- the shape of the space is situated below, on or above the surface of the land<br/>
-- all the dimensions of the space is limited<br/>
+Term1316¶"unit"¶"unit"¶"a part of land consisting of a space for which all of the following are true:
+- the shape of the space is situated below, on or above the surface of the land
+- all the dimensions of the space is limited
 - the space is designed for separate ownership"
 Term1464¶"unit of measure"¶"unit of measure"¶"defined standard for measurement for the magnitude of a quantity"
-Term1219¶"unit title"¶"unit record of title; unit title"¶"is any of the folllowing:<br/>
-- a record of title issued for a unit<br/>
+Term1219¶"unit title"¶"unit record of title; unit title"¶"is any of the folllowing:
+- a record of title issued for a unit
 - a record of title issued for a subdivision of a unit"
 Term1155¶"unit title development"¶"unit title development"¶"an area of land and buildings that has been subdivided into two or more units"
 Term1322¶"Unit Titles Act 2010"¶"Unit Titles Act 2010"¶"an Act that provides a legal framework for the ownership and management of land and associated buildings and facilities on a socially and economically sustainable basis by communities of individual owners and, the subdivision into, operation, management, governance and integrity of unit title developments."
@@ -422,17 +422,17 @@ Term1017¶"vector"¶"vector"¶"a bearing and distance between two points that de
 Term1306¶"vertical control mark"¶"vertical control mark"¶"a survey mark that is suitable for the vertical control of cadastral surveys"
 Term1394¶"vertical datum"¶"vertical datum"¶"a curved or level reference surface from which to determine elevations"
 Term1311¶"vertical extent"¶"vertical extent"¶"the extent of a parcel by height above and depth below the ground level to which the parcel extends"
-Term1167¶"water body"¶"water body"¶"any of the following:<br/>
-- a bed of a river<br/>
-- a bed of a stream<br/>
-- a bed of a lake<br/>
+Term1167¶"water body"¶"water body"¶"any of the following:
+- a bed of a river
+- a bed of a stream
+- a bed of a lake
 - a tidal area"
 Term1073¶"water boundary"¶"water boundary"¶"a boundary that follows the landward margin of a water body"
 Term1373¶"water boundary state"¶"water boundary state"¶"the status of a water boundary"
 Term1074¶"water centre-line boundary"¶"water centre-line boundary"¶"a boundary that follows the line midway between the landward margins of a bed of a stream or a bed of a river"
 Term1374¶"water centreline boundary state"¶"water centreline boundary state"¶"the status of a water centreline boundary"
-Term1421¶"water or irregular boundary"¶"water or irregular boundary"¶"a boundary that is any of the following:<br/>
-- a water boundary<br/>
-- a water centre-line boundary<br/>
+Term1421¶"water or irregular boundary"¶"water or irregular boundary"¶"a boundary that is any of the following:
+- a water boundary
+- a water centre-line boundary
 - an irregular boundary"
 Term1429¶"water or irregular boundary state"¶"water or irregular boundary state"¶"the status of a water or irregular boundary"
