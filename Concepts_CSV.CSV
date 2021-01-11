@@ -2,7 +2,7 @@ Name:ID¶Signifier¶Synonym¶Definition¶Source
 Term1042¶"accepted"¶"accepted"¶"information that is adopted without having to comply with an accuracy standard"¶"Cadastral Survey Rules 2021: r 15(1); sch 2, definition of \"accepted\""
 Term1377¶"accepted boundary"¶"accepted boundary"¶"a boundary that is accepted"¶""
 Term1366¶"accepted water boundary"¶"accepted water boundary"¶"a water boundary that is accepted"¶""
-Term1409¶"access strip"¶"access strip"¶"an easement created to allow public access to or along any river, or lake, or the coast, or to a reserve or land owned by a local authority or by the Crown."¶"Survey and Titles Glossary: Access strip (glossary); https://confluence.linz.govt.nz/pages/viewpage.action?pageId=17007531"
+Term1409¶"access strip"¶"access strip"¶"an easement created to allow public access to or along any river, lake, or the coast, or to a reserve or land owned by a local authority or by the Crown"¶"Survey and Titles Glossary: Access strip (glossary); https://confluence.linz.govt.nz/pages/viewpage.action?pageId=17007531"
 Term1285¶"accessory unit"¶"accessory unit; AU"¶"a unit that is designed for use with any principal unit and has been shown on a unit plan as such"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17008185"
 Term1281¶"accretion"¶"accretion"¶"land that has been gradually and imperceptibly added to the water boundary of a property"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17008334"
 Term1426¶"accuracy [positional]"¶"accuracy [positional]"¶""¶""
@@ -56,7 +56,7 @@ Term1443¶"boundary point state"¶"boundary point state"¶"the status of a bound
 Term1105¶"boundary reinstatement CSD"¶"boundary reinstatement CSD"¶"a CSD for a boundary reinstatement survey"¶""
 Term1195¶"boundary reinstatement survey"¶"boundary reinstatement survey"¶"a cadastral survey that places a new boundary mark on an existing boundary point or existing boundary and does not create a new parcel"¶"Cadastral Survey Rules 2021: r 112"
 Term1347¶"boundary state"¶"boundary state"¶"the status of a boundary"¶""
-Term1408¶"boundary use"¶"boundary use"¶"The category of object that a boundary is used to define."¶""
+Term1408¶"boundary use"¶"boundary use"¶"the category of object that a boundary is used to define"¶""
 Term1448¶"burdened land"¶"burdened land; servient tenement"¶"the land over which an easement runs"¶"Survey and Titles Glossary: burdenled land; https://confluence.linz.govt.nz/pages/releaseview.action?pageId=38397274"
 Term1075¶"cadastral survey"¶"cadastral survey"¶"the determination and description of the spatial extent of interests under a tenure system"¶"Cadastral Survey Act 2002: s 4, definition of 'cadastral survey'; https://jira.linz.govt.nz/browse/BRC-142"
 Term1041¶"Cadastral Survey Act 2002"¶"Cadastral Survey Act 2002"¶"empowering legislation for the cadastral survey rules"¶"Cadastral Survey Rules 2021: Act means the Cadastral Survey Act 2002; Pursuant to section 49 of the Act, the Surveyor-General makes the following rules; Preamble; sch 2, definition of \"Act\""
@@ -65,7 +65,7 @@ Term1023¶"cadastral survey mark"¶"cadastral survey mark"¶"a mark used for a c
 Term1201¶"cadastral survey network mark"¶"cadastral survey network mark"¶"a survey mark that has been assigned a NZGD2000 coordinate with a Landonline order 6 or better"¶"Cadastral Survey Rules 2021: sch 2, definition of \"cadastral survey network mark\"; sch 4"
 Term1420¶"cadastral survey network mark state"¶"cadastral survey network mark state"¶"the status of a cadastral survey network mark"¶""
 Term1103¶"cadastral survey rules"¶"cadastral survey rules"¶"a legislative instrument whose purpose is to specify standards for the conduct of cadastral surveys and cadastral survey datasets"¶"Cadastral Survey Rules 2021: r 3; https://jira.linz.govt.nz/browse/BRC-141"
-Term1460¶"cadastral surveyor"¶"cadastral surveyor; licensed cadastral surveyor"¶"one licensed under the Cadastral Survey Act 2002 to conduct cadastral surveys"¶"Cadastral Survey Act 2002: Part 3; http://www.legislation.govt.nz/act/public/2002/0012/latest/DLM142468.html"
+Term1460¶"cadastral surveyor"¶"cadastral surveyor; licensed cadastral surveyor"¶"a person who is licensed under the Cadastral Survey Act 2002 to conduct cadastral surveys"¶"Cadastral Survey Act 2002: Part 3; http://www.legislation.govt.nz/act/public/2002/0012/latest/DLM142468.html"
 Term1045¶"cadastre"¶"cadastre"¶"all the cadastral survey data held by or for the Crown and Crown agencies"¶"Cadastral Survey Rules 2021: cadastre has the same meaning as in section 4 of the Cadastral Survey Act 2002; sch 2, definition of \"cadastre\"";"Cadastral Survey Act 2002: s 4, definition of \"cadastre\"; http://www.legislation.govt.nz/act/public/2002/0012/latest/DLM142402.html"
 Term1399¶"Canterbury earthquake movement"¶"Canterbury earthquake movement"¶"horizontal or vertical movement of land caused by any earthquake or aftershock in Canterbury in the period starting on 4 September 2010 and ending on 13 February 2022 unless the movement was a landslip."¶"Cadastral Survey Rules 2021: r 108; Sch 2, definition of \"Canterbury earthquake movement\"";"Canterbury Property Boundaries and Related Matters Act 2016: s 4 definition of \"Canterbury earthquakes\"; s 8(2); http://legislation.govt.nz/act/public/2016/0040/latest/DLM6634505.html"
 Term1046¶"centre-line easement"¶"centre-line easement"¶"an easement that is spatially represented by one or more lines along its centre and normally also by a width"¶"Cadastral Survey Rules 2021: sch 2, definition of \"centre-line easement\"";"LINZ Knowledge Base: Recording easement parcels in a CSD; https://www.linz.govt.nz/kb/832"
@@ -405,13 +405,13 @@ Term1222¶"timeshare"¶"timeshare"¶""¶""
 Term1090¶"title"¶"title"¶"the legal right to an estate or interest in land"¶"Land Transfer Act 2017: s 51; http://legislation.govt.nz/act/public/2017/0030/latest/DLM6731181.html"
 Term1186¶"title diagram"¶"title diagram"¶""¶""
 Term1028¶"title plan"¶"title plan"¶"information that is essential for the correct management and allocation of rights"¶"Survey Knowledge Portal: CSD components & CSD elements: CSD components: CSD Plan/Title Plan; https://confluence.linz.govt.nz/pages/releaseview.action?pageId=11961500"
-Term1097¶"topology"¶"topology"¶"geometrical/spatial relationships between the connectivity of features, adjacency of polygons and relationships to attributes"¶""
+Term1097¶"topology"¶"topology"¶"the geometrical and spatial relationships between the connectivity of features, adjacency of polygons, and relationships to attributes"¶""
 Term1070¶"underlying parcel"¶"underlying parcel"¶"the parcel whose interests are or will be directly affected or encumbered by a non-primary parcel"¶"Cadastral Survey Rules 2021: sch 2, definition of \"underlying parcel\""
 Term1316¶"unit"¶"unit"¶"a part of land consisting of a space for which all of the following are true:<br/>
 - the shape of the space is situated below, on or above the surface of the land<br/>
 - all the dimensions of the space is limited<br/>
 - the space is designed for separate ownership"¶"Unit Titles Act 2010: s 5, definition of \"unit\"; http://www.legislation.govt.nz/act/public/2010/0022/latest/DLM1160448.html"
-Term1464¶"unit of measure"¶"unit of measure"¶"defined standard for measurement for the magnitude of a quantity"¶"Inferred from various dictionary definitions"
+Term1464¶"unit of measure"¶"unit of measure"¶"a defined standard for measurement of the magnitude of a quantity"¶"Inferred from various dictionary definitions"
 Term1219¶"unit title"¶"unit record of title; unit title"¶"is any of the folllowing:<br/>
 - a record of title issued for a unit<br/>
 - a record of title issued for a subdivision of a unit"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=18744233"
