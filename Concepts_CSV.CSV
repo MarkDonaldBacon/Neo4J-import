@@ -37,9 +37,7 @@ Term1121¶"bed of a lake"¶"bed of a lake"¶"the space of land which the waters 
 - the maximum permitted operating level for a lake controlled by artificial means<br/>
 - the annual highest level without exceeding its margin for esplanade reserves, esplanade strips and subdivision<br/>
 - the highest level without exceeding its margin in all other cases"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17008703"
-Term1122¶"bed of a river"¶"bed of a river"¶"the space of land which the waters of the river cover at any of the following flows:<br/>
-- the annual fullest flow without overtopping its banks for esplanade reserves, esplanade strips and subdivision<br/>
-- the fullest flow without overtopping its banks in all other cases"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17008703"
+Term1122¶"bed of a river"¶"bed of a river"¶"the space of land which the waters of a river cover at the annual fullest flow without overtopping the banks of the river in the case of an esplanade reserve, esplanade strip or subdivision"¶"Resource Management Act 1991: s 2, definition of 'bed' in relation to a river"
 Term1194¶"bed of the sea"¶"bed of the sea"¶"the submarine areas covered by the internal waters and the territorial sea"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17008703"
 Term1449¶"benefited land"¶"benefited land; dominant tenement"¶"land that benefits from an easement or land covenant"¶"Survey and Titles Glossary: benefited land; https://confluence.linz.govt.nz/pages/releaseview.action?pageId=38397272"
 Term1020¶"boundary"¶"boundary"¶"any of the following:<br/>
@@ -57,10 +55,10 @@ Term1105¶"boundary reinstatement CSD"¶"boundary reinstatement CSD"¶"a CSD for
 Term1195¶"boundary reinstatement survey"¶"boundary reinstatement survey"¶"a cadastral survey that places a new boundary mark on an existing boundary point or existing boundary and does not create a new parcel"¶"Cadastral Survey Rules 2021: r 112"
 Term1347¶"boundary state"¶"boundary state"¶"the status of a boundary"¶""
 Term1408¶"boundary use"¶"boundary use"¶"the category of object that a boundary is used to define"¶""
-Term1448¶"burdened land"¶"burdened land; servient tenement"¶"the land over which an easement runs"¶"Survey and Titles Glossary: burdenled land; https://confluence.linz.govt.nz/pages/releaseview.action?pageId=38397274"
+Term1448¶"burdened land"¶"burdened land; servient tenement"¶"the land over which an easement runs"¶"Survey and Titles Glossary: burdened land; https://confluence.linz.govt.nz/pages/releaseview.action?pageId=38397274"
 Term1075¶"cadastral survey"¶"cadastral survey"¶"the determination and description of the spatial extent of interests under a tenure system"¶"Cadastral Survey Act 2002: s 4, definition of 'cadastral survey'; https://jira.linz.govt.nz/browse/BRC-142"
 Term1041¶"Cadastral Survey Act 2002"¶"Cadastral Survey Act 2002"¶"empowering legislation for the cadastral survey rules"¶"Cadastral Survey Rules 2021: Act means the Cadastral Survey Act 2002; Pursuant to section 49 of the Act, the Surveyor-General makes the following rules; Preamble; sch 2, definition of \"Act\""
-Term1320¶"cadastral survey data"¶"cadastral survey data"¶""¶""
+Term1320¶"cadastral survey data"¶"cadastral survey data"¶"information in or derived from a cadastral survey and information related to the cadastral survey"¶"Cadastral Survey Act 2002: s 4, definition of 'cadastral survey data'; https://legislation.govt.nz/act/public/2002/0012/latest/DLM142402.html"
 Term1023¶"cadastral survey mark"¶"cadastral survey mark"¶"a mark used for a cadastral survey"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17007915"
 Term1201¶"cadastral survey network mark"¶"cadastral survey network mark"¶"a survey mark that has been assigned a NZGD2000 coordinate with a Landonline order 6 or better"¶"Cadastral Survey Rules 2021: sch 2, definition of \"cadastral survey network mark\"; sch 4"
 Term1420¶"cadastral survey network mark state"¶"cadastral survey network mark state"¶"the status of a cadastral survey network mark"¶""
@@ -132,7 +130,7 @@ Term1440¶"easement parcel"¶"easement parcel"¶"a parcel with an easement on it
 Term1376¶"easement state"¶"easement state"¶"status of an easement"¶""
 Term1463¶"ellipsoid"¶"ellipsoid"¶"a surface formed by the rotation of an ellipse about a main axis that approximates mean sea level"¶"LINZS25002: Standard for New Zewaland Geodetic Datum 2000 Projections, v2: definition of 'ellipsoid'; Terms, Definitions and Symbols; https://jira.linz.govt.nz/browse/BRC-138; https://www.linz.govt.nz/system/files_force/media/regulatory-documents/25002-LINZS25002%20Standard%20for%20New%20Zealand%20Geodetic%20Datum%202000%20Projections-%20version%202_4.pdf"
 Term1202¶"end point"¶"end point"¶"the end of a vector or series of vectors"¶""
-Term1397¶"erosion"¶"erosion"¶"land that has been gradually and imperceptibly eaten away from the water boundary of a property"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17008342"
+Term1397¶"erosion"¶"erosion"¶"the gradual and imperceptible eating away of land to become part of the bed of a river, the bed of a lake or the common marine and coastal area"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17008342"
 Term1156¶"esplanade strip"¶"esplanade strip"¶"a strip of land created by the registration of an instrument between the territorial authority and the subdividing owner for any of the following purposes:<br/>
 - to contribute to the protection of conservation values<br/>
 - to enable public access to or along any sea, river or lake<br/>
@@ -278,7 +276,7 @@ Term1345¶"new water boundary"¶"new water boundary"¶"water boundary that is ne
 Term1346¶"new water centre-line boundary"¶"new water centre-line boundary"¶"water centreline boundary that is new"¶""
 Term1022¶"non-boundary mark"¶"non-boundary mark"¶"a survey mark that is not on a boundary point"¶"Cadastral Survey Rules 2021: sch 2, definition of \"non-boundary mark\""
 Term1026¶"non-primary parcel"¶"non-primary parcel"¶"any parcel that is not a primary parcel"¶"Cadastral Survey Rules 2021: sch 2, definition of \"non-primary parcel\""
-Term1784¶"Non-primary Parcel Boundary"¶"Non-primary Parcel Boundary"¶"A boundary that defines a non-primary parcel"¶""
+Term1784¶"Non-primary Parcel Boundary"¶"Non-primary Parcel Boundary"¶"a boundary that defines a non-primary parcel"¶""
 Term1438¶"non-primary parcel state"¶"non-primary parcel state"¶"the status of a non-primary parcel"¶""
 Term1439¶"north point"¶"north point"¶"an arrow showing the direction of North in relation to a plan or diagram"¶"Survey and Titles Glossary: North Point (glossary); https://confluence.linz.govt.nz/pages/releaseview.action?pageId=26710350"
 Term1214¶"NZGD2000"¶"New Zealand Geodetic Datum 2000; NZGD2000"¶"https://www.linz.govt.nz/data/geodetic-system/datums-projections-and-heights/geodetic-datums/new-zealand-geodetic-datum-2000-nzgd2000"¶""
