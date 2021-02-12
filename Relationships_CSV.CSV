@@ -6108,3 +6108,8 @@ RuleGr1002¶Rule1054¶Includes_Rule
 RuleGr1002¶Rule1028¶Includes_Rule
 RuleGr1001¶DecTable1002¶Uses_Decision_Table
 RuleGr1001¶DecTable1001¶Uses_Decision_Table
+Dec1016¶Rule1178¶Uses_Rule
+Dec1016¶Rule1179¶Uses_Rule
+Dec1016¶Rule1180¶Uses_Rule
+Dec1016¶Dec1017¶Uses_Decision
+Dec1017¶Dec1016¶Used_by_Decision
