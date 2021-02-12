@@ -18,8 +18,8 @@ Term1359¶"adopted mark"¶""¶"a mark that is adopted"¶""
 Term1432¶"adopted vector"¶""¶"a vector that is adopted"¶""
 Term1469¶"adopted water or irregular boundary"¶""¶"a water or irregular boundary that is adopted"¶""
 Term1211¶"affected by ground movement"¶"affected by ground movement"¶""¶"Cadastral Survey Rules 2021: r 108; Sch 2, definition of \"affected boundary\""
-Term1031¶"approved CSD"¶""¶"a CSD not lodged only for recording purposes and for which any of the following is true:" ";
-- the CSD has been determined by the chief executive [cadastral survey] to comply with the cadastral survey rules" ";
+Term1031¶"approved CSD"¶""¶"a CSD not lodged only for recording purposes and for which any of the following is true: 
+- the CSD has been determined by the chief executive [cadastral survey] to comply with the cadastral survey rules 
 - the CSD was approved under former Acts and regulations"¶"Cadastral Survey Rules 2021: sch 2, definition of \"approved CSD\""
 Term1459¶"appurtenant"¶""¶"any right or restriction which goes with a property"¶": Survey and Titles Glossary; definition of \"appurtenant\"; https://confluence.linz.govt.nz/pages/releaseview.action?pageId=18744417"
 Term1435¶"arc"¶""¶"the part of the circumference of a circle that an arc boundary follows"¶"Cadastral Survey Rules 2021: inferred from sch 2, definition of \"arc boundary\""
@@ -29,19 +29,19 @@ Term1450¶"area schedule"¶""¶"a supporting document that is usually attached t
 Term1078¶"balance parcel"¶""¶"the portion of an existing primary parcel that is not included in a new parcel that extinguishes the existing primary parcel"¶"Cadastral Survey Rules 2021: sch 2, definition of \"balance parcel\""
 Term1465¶"basis"¶""¶"information provided for justification of or reasoning behind presented data"¶"Inferred from various dictionary definitions"
 Term1145¶"bearing"¶""¶"a direction expressed in sexagesimal degrees, minutes and seconds notation clockwise from north"¶"Cadastral Survey Rules 2021: r 74(2)"
-Term1453¶"bearing adjustment"¶"bearing correction"¶"either:" ";
-- the difference between an older datum and the current datum being used" ";
+Term1453¶"bearing adjustment"¶"bearing correction"¶"either: 
+- the difference between an older datum and the current datum being used 
 - a difference in orientation"¶"Survey Knowledge Portal: Bearing correction/adjustment; https://confluence.linz.govt.nz/pages/releaseview.action?pageId=11961481";"LINZ KnowledgeBase: Capturing Referenced Surveys & Bearing Corrections in a CSD; https://www.linz.govt.nz/kb/907"
 Term1396¶"bearing state"¶""¶"the status of a bearing"¶""
-Term1121¶"bed of a lake"¶""¶"the space of land which the waters of a lake cover at any of the following levels:" ";
-- the maximum permitted operating level for a lake controlled by artificial means" ";
-- the annual highest level without exceeding its margin for esplanade reserves, esplanade strips and subdivision" ";
+Term1121¶"bed of a lake"¶""¶"the space of land which the waters of a lake cover at any of the following levels: 
+- the maximum permitted operating level for a lake controlled by artificial means 
+- the annual highest level without exceeding its margin for esplanade reserves, esplanade strips and subdivision 
 - the highest level without exceeding its margin in all other cases"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17008703"
 Term1122¶"bed of a river"¶""¶"the space of land which the waters of a river cover at the annual fullest flow without overtopping the banks of the river in the case of an esplanade reserve, esplanade strip or subdivision"¶"Resource Management Act 1991: s 2, definition of 'bed' in relation to a river"
 Term1194¶"bed of the sea"¶""¶"the submarine areas covered by the internal waters and the territorial sea"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17008703"
 Term1449¶"benefited land"¶"dominant tenement"¶"land that benefits from an easement or land covenant"¶"Survey and Titles Glossary: benefited land; https://confluence.linz.govt.nz/pages/releaseview.action?pageId=38397272"
-Term1020¶"boundary"¶""¶"any of the following:" ";
-- the invisible line of division between abutting portions of land" ";
+Term1020¶"boundary"¶""¶"any of the following: 
+- the invisible line of division between abutting portions of land 
 - a physical natural or man made object that serves as a limit of a property"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=21332573"
 Term1134¶"boundary bearing"¶""¶"a bearing between two boundary points included in a right-line boundary"¶"Definition inferred from instances of \"boundary bearing\" in Cadastral Survey Rules"
 Term1278¶"boundary class"¶""¶""¶""
@@ -86,19 +86,19 @@ Term1389¶"class C boundary point"¶""¶""¶"Cadastral Survey Rules 2021: r 24; 
 Term1208¶"class D accuracy"¶"class D accuracy"¶"a class of accuracy [relative] for which a tolerance is not specified"¶"Cadastral Survey Rules 2021: r 27(1)(iv)"
 Term1386¶"class D boundary"¶""¶""¶"Cadastral Survey Rules 2021: r 25"
 Term1390¶"class D boundary point"¶""¶""¶"Cadastral Survey Rules 2021: r 25; r 26"
-Term1048¶"common marine and coastal area"¶""¶"a marine and coastal area that is not any of the following:" ";
-- a specified freehold land located in that area" ";
-- the bed of Te Whanga Lagoon in the Chatham Islands" ";
-- a conservation area within the meaning of section 2(1) of the Conservation Act 1987 that is owned by the Crown" ";
-- a national park within the meaning of section 2 of the National Parks Act 1980 that is owned by the Crown " ";
+Term1048¶"common marine and coastal area"¶""¶"a marine and coastal area that is not any of the following: 
+- a specified freehold land located in that area 
+- the bed of Te Whanga Lagoon in the Chatham Islands 
+- a conservation area within the meaning of section 2(1) of the Conservation Act 1987 that is owned by the Crown 
+- a national park within the meaning of section 2 of the National Parks Act 1980 that is owned by the Crown  
 - a reserve within the meaning of section 2(1) of the Reserves Act 1977 that is owned by the Crown"¶"Cadastral Survey Rules 2021: common marine and coastal area has the same meaning as in section 9 of the Marine and Coastal Area (Takutai Moana) Act 2011; sch 2, definition of \"common marine and coastal area\"";"Marine and Coastal Area (Takutai Moana) Act 2011: s 9(1), definition of \"common marine and coastal area\"; http://www.legislation.govt.nz/act/public/2011/0003/latest/DLM3213146.html"
-Term1162¶"common property"¶""¶"land and facilities in a unit title development which are shared by the unit owners and not contained in any of the following:" ";
-- principal unit" ";
-- accessory unit" ";
+Term1162¶"common property"¶""¶"land and facilities in a unit title development which are shared by the unit owners and not contained in any of the following: 
+- principal unit 
+- accessory unit 
 - future development unit"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=15602971"
-Term1049¶"company lease"¶""¶"a lease or licence or other right of occupation of any building or part of any building on, or to be erected on, any land where all of the following are true:" ";
-- the lease is granted by a company owning an estate or interest in the land" ";
-- the lease is held by a person by virtue of being a shareholder in the company" ";
+Term1049¶"company lease"¶""¶"a lease or licence or other right of occupation of any building or part of any building on, or to be erected on, any land where all of the following are true: 
+- the lease is granted by a company owning an estate or interest in the land 
+- the lease is held by a person by virtue of being a shareholder in the company 
 - the lease is a licence within the meaning of section 122 of the Land Transfer Act 2017"¶"Cadastral Survey Rules 2021: company lease has the same meaning as in section 2(1) of the Resource Management Act 1991; sch 2, definition of \"company lease\"";"Resource Management Act 1991: s 2(1), definition of \"company lease\"; http://www.legislation.govt.nz/act/public/1991/0069/latest/DLM230272.html"
 Term1030¶"complete CSD"¶""¶"a CSD that includes all the elements prescribed by the cadastral survey rules"¶"Cadastral Survey Rules 2021: pt 7"
 Term1220¶"composite"¶""¶""¶""
@@ -107,8 +107,8 @@ Term1110¶"Conservation Act 1987"¶""¶""¶""
 Term1317¶"covenant"¶""¶"a record of the agreed rules that apply to the ownership of land"¶"LINZ website: KnowledgeBase: Land covenants; https://www.linz.govt.nz/kb/294"
 Term1441¶"covenant parcel"¶""¶"a parcel with a covenant on it"¶""
 Term1428¶"covenant state"¶""¶"status of a covenant"¶""
-Term1051¶"cross lease"¶""¶"a lease of any building or part of any building on, or to be erected on, any land where all of the following are true:" ";
-- the lease is granted by any owner of the land" ";
+Term1051¶"cross lease"¶""¶"a lease of any building or part of any building on, or to be erected on, any land where all of the following are true: 
+- the lease is granted by any owner of the land 
 - the lease is held by a person who has an estate or interest in an undivided share in the land"¶"Cadastral Survey Rules 2021: cross lease has the same meaning as in section 2(1) of the Resource Management Act 1991; sch 2, definition of \"cross lease\"";"Resource Management Act 1991: s 2(1), definition of \"cross lease\"; http://www.legislation.govt.nz/act/public/1991/0069/latest/DLM230272.html"
 Term1283¶"Crown subdivision"¶""¶"the subdivision of land held under the Land Act 1948 or Conservation Act 1987 into new parcels for disposal by the Crown"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=18745159; https://confluence.linz.govt.nz/pages/releaseview.action?pageId=18746022"
 Term1015¶"CSD"¶"CSD"¶"the set of cadastral survey data needed to integrate a cadastral survey into the cadastre"¶"Cadastral Survey Act 2002: s 4, definition of \"cadastral survey dataset\"; http://www.legislation.govt.nz/act/public/2002/0012/latest/DLM142402.html";"Cadastral Survey Rules 2021: cadastral survey dataset has the same meaning as in section 4 of the Cadastral Survey Act 2002; sch 2, definition of \"cadastral survey dataset\""
@@ -122,7 +122,7 @@ Term1467¶"deposited CSD"¶""¶"a CSD that is deposited"¶""
 Term1196¶"diagram plan"¶""¶""¶""
 Term1146¶"distance"¶""¶"a length in space given in metres"¶"Cadastral Survey Rules 2021: r 74(1)"
 Term1309¶"disturbed boundary mark"¶""¶"an old boundary mark that is in a different position from where it was originally placed due to causes other than Canterbury earthquake movement or fault zone movement."¶"Cadastral Survey Rules 2021: sch 2, definition of \"disturbed survey mark\""
-Term1053¶"disturbed survey mark"¶""¶"an old survey mark that is in a different position from where it was originally placed due to causes other than Canterbury earthquake movement or fault zone movement." ";
+Term1053¶"disturbed survey mark"¶""¶"an old survey mark that is in a different position from where it was originally placed due to causes other than Canterbury earthquake movement or fault zone movement. 
 an old survey mark that is in a different position from where it was originally placed"¶"Cadastral Survey Rules 2021: sch 2, definition of \"disturbed survey mark\""
 Term1082¶"easement"¶""¶"an interest a person has in land owned by another person that entitles the holder of the interest to a specific limited use on that land"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=15604716"
 Term1440¶"easement parcel"¶""¶"a parcel with an easement on it"¶""
@@ -130,22 +130,22 @@ Term1376¶"easement parcel state"¶""¶"status of an easement parcel"¶""
 Term1463¶"ellipsoid"¶""¶"a surface formed by the rotation of an ellipse about a main axis that approximates mean sea level"¶"LINZS25002: Standard for New Zewaland Geodetic Datum 2000 Projections, v2: definition of 'ellipsoid'; Terms, Definitions and Symbols; https://jira.linz.govt.nz/browse/BRC-138; https://www.linz.govt.nz/system/files_force/media/regulatory-documents/25002-LINZS25002%20Standard%20for%20New%20Zealand%20Geodetic%20Datum%202000%20Projections-%20version%202_4.pdf"
 Term1202¶"end point"¶""¶"the end of a vector or series of vectors"¶""
 Term1397¶"erosion"¶""¶"the gradual and imperceptible eating away of land to become part of the bed of a river, the bed of a lake or the common marine and coastal area"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17008342"
-Term1156¶"esplanade strip"¶""¶"a strip of land created by the registration of an instrument between the territorial authority and the subdividing owner for any of the following purposes:" ";
-- to contribute to the protection of conservation values" ";
-- to enable public access to or along any sea, river or lake" ";
+Term1156¶"esplanade strip"¶""¶"a strip of land created by the registration of an instrument between the territorial authority and the subdividing owner for any of the following purposes: 
+- to contribute to the protection of conservation values 
+- to enable public access to or along any sea, river or lake 
 - to enable public recreational use of the strip and adjacent sea, river or lake where the use is compatible with conservation values"¶"Cadastral Survey Rules 2021: Sch 2, defn of \"Esplanade strip\"";"Resource Management Act 1991: s 2(1); http://www.legislation.govt.nz/act/public/1991/0069/latest/DLM230272.html"
 Term1176¶"estate"¶""¶"a possessory interest in real property"¶"Wikipedia: Estate in land: https://en.wikipedia.org/wiki/Estate_in_land"
-Term1054¶"estate boundary"¶""¶"a boundary used in defining the shape of an estate recorded in an estate record in a tenure system for any of the following:" ";
-- a fee simple estate" ";
-- Maori freehold land" ";
-- Maori customary land" ";
-- land of the Crown" ";
-- a stratum estate" ";
+Term1054¶"estate boundary"¶""¶"a boundary used in defining the shape of an estate recorded in an estate record in a tenure system for any of the following: 
+- a fee simple estate 
+- Maori freehold land 
+- Maori customary land 
+- land of the Crown 
+- a stratum estate 
 - a leasehold estate."¶"Cadastral Survey Rules 2021: sch 2, definition of \"estate boundary\""
 Term1101¶"estate record"¶""¶"a record of title, gazette notice, proclamation or court minutes in which the details of an estate are recorded"¶"Discussion in Jira: \"... In most instances an estate record is equivalent of a Record of title. It can also include a proclamation or Gazette notice ... \"; \"Operations ... definition of estate record in their KnowledeBase.  If the word 'recorded' was dded to the definition it would better clarify what is covered.  It should probably also refer to a 'proclamation'\"; https://jira.linz.govt.nz/browse/BRC-8; https://jira.linz.govt.nz/browse/BRC-8?focusedCommentId=50729&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-50729";"Land Transfer Act 2017: \"Registrar may, from the information recorded in the register, create a record of title for ... any ... estates or interests in land that are or may be registered under this Act or for which a record of title is required by another Act ...\"; s 12; http://www.legislation.govt.nz/act/public/2017/0030/latest/DLM6731120.html";"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17006980"
-Term1168¶"existing"¶""¶"information that is not historic and for which any of the following is true:" ";
-- the information is present in an approved CSD" ";
-- the information is present in an estate record held by the tenure system manager" ";
+Term1168¶"existing"¶""¶"information that is not historic and for which any of the following is true: 
+- the information is present in an approved CSD 
+- the information is present in an estate record held by the tenure system manager 
 - the information is present in a CSD that was lodged only for recording purposes and the information is verified as complying with the cadastral survey rules"¶"Cadastral Survey Rules 2021: r 14"
 Term1458¶"existing appurtenant easement"¶""¶"an appurtenant easement that is existing"¶""
 Term1353¶"existing boundary"¶""¶"boundary that is existing"¶""
@@ -176,24 +176,24 @@ Term1086¶"freehold"¶""¶"tenure by which land is held in fee simple or for lif
 Term1161¶"future development unit"¶"future development unit"¶"a unit that is proposed to be developed or subdivided into one or more principal units at a later stage of the development and is shown on a stage unit plan as such"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17008241"
 Term1335¶"geodetic projection"¶""¶"representation of the curved surface of a specific area of Earth upon a flat surface"¶"LINZS25002: Standard for New Zewaland Geodetic Datum 2000 Projections, v2: definition of 'projection'; Terms, Definitions and Symbols; https://www.linz.govt.nz/system/files_force/media/regulatory-documents/25002-LINZS25002%20Standard%20for%20New%20Zealand%20Geodetic%20Datum%202000%20Projections-%20version%202_4.pdf"
 Term1456¶"grantee"¶""¶"a person who has the benefit of an easement"¶"definition of \"grantee\": Survey and Titles Glossary; https://confluence.linz.govt.nz/pages/releaseview.action?pageId=15603107"
-Term1057¶"Hawkes Bay interim title"¶""¶"a record of title issued to a person under the Land Transfer (Hawke's Bay) Act 1931 due to any of the following reasons:" ";
-- the Registrar-General of Land being satisfied that the original issued record of title was destroyed and that the person is the registered proprietor or mortgagee of the estate of freehold for which the record of title is being sought" ";
+Term1057¶"Hawkes Bay interim title"¶""¶"a record of title issued to a person under the Land Transfer (Hawke's Bay) Act 1931 due to any of the following reasons: 
+- the Registrar-General of Land being satisfied that the original issued record of title was destroyed and that the person is the registered proprietor or mortgagee of the estate of freehold for which the record of title is being sought 
 - the Registrar-General of Land knowing or believing that the original issued record of title was destroyed"¶"Cadastral Survey Rules 2021: sch 2, definition of \"Hawke's Bay interim title\"";"Land Transfer (Hawke's Bay) Act 1931: ss 6 and 8; http://www.legislation.govt.nz/act/public/1931/0027/latest/DLM209576.html"
 Term1180¶"height limited boundary"¶"stratum boundary"¶"a boundary that defines the upper or lower extent of a parcel"¶"Cadastral Survey Rules 2021: r 12(1)";"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17007548"
-Term1177¶"historic"¶""¶"information for which any of the following is true:" ";
-- the information is replaced in an approved CSD" ";
+Term1177¶"historic"¶""¶"information for which any of the following is true: 
+- the information is replaced in an approved CSD 
 - the information is expired in an approved CSD"¶"Survey Knowledge Portal: Refer comments; Parcel Actions, What is Parcel Actions, Extinguished; https://confluence.linz.govt.nz/display/public/OP/Parcel+Actions"
 Term1363¶"historic mark"¶""¶"mark that is historic"¶""
-Term1381¶"horizontal distance"¶""¶"a distance, reduced to the ellipsoid used for the official geodetic datum, computed for a pair of points from the horizontal components of the spatial relationships defined by the series of vectors that connect the points" ";
-" ";
+Term1381¶"horizontal distance"¶""¶"a distance, reduced to the ellipsoid used for the official geodetic datum, computed for a pair of points from the horizontal components of the spatial relationships defined by the series of vectors that connect the points 
+ 
 a length in space given in metres computed between a pair of points from the horizontal components of the spatial relationships defined by the series of vectors that connect the points"¶"Cadastral Survey Rules 2021: r 74(4)"
 Term1310¶"horizontal extent"¶""¶"the shape of a parcel defined by the boundaries of the parcel when vertically projected on a horizontal plane"¶"LINZ Knowledge Base: Parcel area, \"Calculating the area of a parcel\"; https://www.linz.govt.nz/kb/743"
-Term1329¶"horizontal projection"¶""¶"a projection of part of the curved surface of the Earth as a flat plane" ";
+Term1329¶"horizontal projection"¶""¶"a projection of part of the curved surface of the Earth as a flat plane 
 representation of the curved surface of a specific area of Earth upon a flat surface"¶"Survey Knowledge Portal: CSD components & CSD elements: CSD components: inferred from \"Datum - Horizontal\" page; https://confluence.linz.govt.nz/display/public/OP/Datum+-+Horizontal"
-Term1787¶"hydro parcel"¶""¶"a primary parcel that is any of the following:" ";
-- part of the common marine and coastal area" ";
-- the bed of a lake" ";
-- the bed of a river" ";
+Term1787¶"hydro parcel"¶""¶"a primary parcel that is any of the following: 
+- part of the common marine and coastal area 
+- the bed of a lake 
+- the bed of a river 
 - the bed of a stream"¶"Cadastral Survey Rules 2021: r 65; sch 2, definition of \"primary parcel\"; https://jira.linz.govt.nz/browse/BRC-185"
 Term1166¶"ID"¶"name"¶"a string of characters that is the distinctive designation of a thing"¶""
 Term1115¶"interest"¶""¶"a right or legal share, or a financial involvement in land"¶"RuleXpress - External Lookup: Nouns - definition 5.";"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=15602982"
@@ -202,10 +202,10 @@ Term1368¶"irregular boundary state"¶""¶"the status of an irregular boundary"�
 Term1044¶"irregular line"¶""¶"a line consisting of a series of connected vertices that are usually irregularly spaced and not on a single alignment"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17009230"
 Term1284¶"Land Act 1948"¶""¶""¶""
 Term1189¶"land information system"¶""¶"a geographic information system for cadastral and land-use mapping that consists of an accurate, current and reliable land record cadastre and its associated attribute and spatial data that represent the legal boundaries of land tenure and provides a vital base layer capable of integration into other geographic systems or as a standalone solution that allows data stewards to retrieve, create, update, store, view, analyze and publish land information"¶"Wikipedia: Wade, T. and Sommer, S. eds. A to Z GIS; https://en.wikipedia.org/wiki/Land_information_system"
-Term1120¶"Land Transfer Act 2017"¶""¶"a modern Act that replaces the Land Transfer Act 1952 that ensures all of the following:" ";
-- continues and maintains the Torrens system of land title in New Zealand" ";
-- retains the fundamental principles of that system" ";
-- reflects the fact that the land transfer register is kept and operated electronically and that most dealings in land are carried out electronically" ";
+Term1120¶"Land Transfer Act 2017"¶""¶"a modern Act that replaces the Land Transfer Act 1952 that ensures all of the following: 
+- continues and maintains the Torrens system of land title in New Zealand 
+- retains the fundamental principles of that system 
+- reflects the fact that the land transfer register is kept and operated electronically and that most dealings in land are carried out electronically 
 - maintains the integrity of title to estates and interests in land"¶"Land Transfer Act 2017: s 3; http://www.legislation.govt.nz/act/public/2017/0030/latest/DLM6731038.html"
 Term1106¶"land transfer CSD"¶""¶"the set of data needed to integrate a cadastral survey for the transferring of land that is subject to the Land Transfer Act 2017 into the cadastre"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=18744225; https://confluence.linz.govt.nz/pages/releaseview.action?pageId=21340526"
 Term1199¶"Landonline order"¶""¶"a combined categorisation of a coordinate's local and network accuracy [positional] that is specified in paragraph 5 of \"Standard for tiers, classes, and orders of LINZ data\" (LINZS25006)"¶"Standard for tiers, classes, and orders of LINZ data (LINZS25006): Section 5, Landonline orders (a); https://www.linz.govt.nz/regulatory/25006"
@@ -216,21 +216,21 @@ Term1280¶"lease"¶""¶"an instrument under which a lessor confers upon a lessee
 Term1466¶"lease parcel"¶""¶"a parcel that a lease has been assigned to"¶""
 Term1218¶"leasehold"¶""¶"an estate for a period of time created by registration of a lease"¶": Survey and Titles Glossary; https://confluence.linz.govt.nz/pages/releaseview.action?pageId=18743450"
 Term1378¶"legalisation"¶""¶"a parcel that is intended to be subject to a statutory action and is intended to be fee simple as a result of the statutory action"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17008250"
-Term1282¶"legalisation plan"¶""¶"when land is taken compulsorily or acquired by agreement through the use of statutory actions based on legislation including the stopping of roads" ";
+Term1282¶"legalisation plan"¶""¶"when land is taken compulsorily or acquired by agreement through the use of statutory actions based on legislation including the stopping of roads 
 the creation of new parcels of land for a public work or similar legalisation action"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17008250; https://confluence.linz.govt.nz/pages/releaseview.action?pageId=18745159"
 Term1147¶"legislation"¶""¶"Acts, Bills, Legislative Instruments, Other Instruments and Supplementary Order Papers"¶"New Zealand Legislation: What is on this website; http://www.legislation.govt.nz/howitworks.aspx"
 Term1318¶"licence"¶""¶"a short-term right to occupy a property for a particular purpose that does not give any right to exclusive occupation"¶"LINZ website: Crown Property: Leases and licences; https://www.linz.govt.nz/crown-property/using-crown-property/leases-and-licences"
 Term1411¶"licence area"¶""¶"the shape of a space associated with a licence"¶""
 Term1221¶"life estate"¶""¶""¶""
-Term1213¶"limited as to parcels"¶"limitations as to parcels; limited as to parcels"¶"land for which all of the following are true:" ";
-- a guaranteed title not issued for the land due to the cadastral survey information being insufficient or another person being in adverse possession of part of the land" ";
+Term1213¶"limited as to parcels"¶"limitations as to parcels; limited as to parcels"¶"land for which all of the following are true: 
+- a guaranteed title not issued for the land due to the cadastral survey information being insufficient or another person being in adverse possession of part of the land 
 - the boundaries of the land not properly defined on a CSD"¶"Survey and Titles Glossary: Limited as to parcels (glossary); https://confluence.linz.govt.nz/pages/releaseview.action?pageId=18743448";"LINZ KnowledgeBase: Limited as to parcels boundaries; https://www.linz.govt.nz/kb/781"
 Term1455¶"LINZ"¶"LINZ"¶"the government department responsible for managing land titles, geodetic and cadastral survey systems, topographic information, hydrographic information, managing Crown property and supporting government decision making around foreign ownership"¶"Land Information New Zealand (Toitu te whenua): https://www.linz.govt.nz/about-linz"
 Term1462¶"LINZS25000"¶"Standard for New Zealand Geodetic Datum 2000"¶"https://www.linz.govt.nz/system/files_force/media/regulatory-documents/25002-LINZS25002%20Standard%20for%20New%20Zealand%20Geodetic%20Datum%202000%20Projections-%20version%202_4.pdf"¶""
 Term1157¶"lot"¶""¶"a parcel of land having fixed boundaries"¶""
 Term1174¶"magnetic bearing"¶""¶"a bearing measured with a compass in terms of magnetic north"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=21332599"
-Term1182¶"majority successor parcel"¶""¶"a new primary parcel for which all of the following are true:" ";
-- the new primary parcel has an area [quantity] > 20 hectares" ";
+Term1182¶"majority successor parcel"¶""¶"a new primary parcel for which all of the following are true: 
+- the new primary parcel has an area [quantity] > 20 hectares 
 - the new primary parcel comprises more than 80% of the existing primary parcel that is extinguished by the new primary parcel"¶"Cadastral Survey Rules 2021: r 15(2)(b); r 24(a)(i); r 52(1)(a); r 9(3)(b)(i)"
 Term1379¶"majority successor parcel state"¶""¶"the status of a majority successor parcel"¶""
 Term1084¶"Maori"¶""¶"a person of the Maori race of New Zealand including a descendant of any such person"¶"Te Ture Whenua Maori Act 1993; Maori Land Act 1993: s 4, definition of \"Maori\"; http://www.legislation.govt.nz/act/public/1993/0004/latest/DLM289897.html"
@@ -240,9 +240,9 @@ Term1059¶"Maori freehold land"¶""¶"status of land for which the beneficial ow
 Term1085¶"Maori Land Court"¶""¶"the New Zealand court of record that hears matters relating to Maori land"¶"Te Ture Whenua Maori Act 1993; Maori Land Act 1993: s 6(1); http://www.legislation.govt.nz/act/public/1993/0004/latest/DLM290517.html";"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17007636"
 Term1107¶"Maori Land CSD"¶""¶""¶""
 Term1109¶"Maori race"¶""¶"an ethnic group of people native to New Zealand"¶"Lexico: race(2), Nouns - definition 1.2; https://www.lexico.com/en/definition/race"
-Term1060¶"marginal strip"¶""¶"a strip of land reserved or deemed to be reserved by the Conservation Act 1987 for any of the following:" ";
-- conservation purposes" ";
-- enabling public access to any adjacent watercourses or bodies of water" ";
+Term1060¶"marginal strip"¶""¶"a strip of land reserved or deemed to be reserved by the Conservation Act 1987 for any of the following: 
+- conservation purposes 
+- enabling public access to any adjacent watercourses or bodies of water 
 - public recreational use of the strip and adjacent watercourses or bodies of water."¶"Cadastral Survey Rules 2021: sch 2, definition of \"marginal strip\"";"Conservation Act 1987: s 2, definition of \"marginal strip\" and s 24C; http://legislation.govt.nz/act/public/1987/0065/latest/DLM103616.html"
 Term1303¶"mark"¶""¶"a point for which a physical object has been placed"¶": Jira ticket with comment from Surveyor General office giving definition of \"mark\"; https://jira.linz.govt.nz/projects/BRC/issues/BRC-12";"Lexico: mark(1), Nouns - definition 2; https://www.lexico.com/en/definition/mark"
 Term1416¶"mark in a post"¶""¶"a physical impression on a post"¶"Inferred from \"Cadastral Survey Rules 2021\""
@@ -256,12 +256,12 @@ Term1431¶"measured bearing"¶""¶"a bearing that is measured"¶""
 Term1434¶"measured distance"¶""¶"a distance that is measured"¶""
 Term1367¶"meridional circuit projection"¶""¶"a defined projection representing part of the curved surface of the NZGD2000 ellipsoid as a plane surface"¶"LINZ website: Knowledge Base; https://www.linz.govt.nz/kb/915"
 Term1063¶"movable marginal strip"¶""¶"a marginal strip that is not a fixed marginal strip"¶"Cadastral Survey Rules 2021: sch 2, definition of \"movable marginal strip\""
-Term1117¶"National Parks Act 1980"¶""¶"an Act having the effect of preserving, administering and maintaining areas of New Zealand that contain any of the following:" ";
-" ";
-- scenery of distinctive quality" ";
-- ecological systems" ";
-- natural features that are beautiful, unique, or scientifically important enough to warrant their preservation as national interest" ";
-" ";
+Term1117¶"National Parks Act 1980"¶""¶"an Act having the effect of preserving, administering and maintaining areas of New Zealand that contain any of the following: 
+ 
+- scenery of distinctive quality 
+- ecological systems 
+- natural features that are beautiful, unique, or scientifically important enough to warrant their preservation as national interest 
+ 
 as national parks for their intrinsic worth and for the benefit, use, and enjoyment of the public"¶"National Parks Act 1980: s 4; http://www.legislation.govt.nz/act/public/1980/0066/latest/DLM37794.html"
 Term1100¶"national survey control system"¶""¶"a system used to determine the position of points, features, and boundaries in cadastral surveys, other surveys, and land information systems"¶"Cadastral Survey Act 2002: s 4, definition of \"national survey control system\"; http://www.legislation.govt.nz/act/public/2002/0012/latest/DLM142402.html"
 Term1179¶"new"¶""¶"information that is not existing"¶""
@@ -302,13 +302,13 @@ Term1326¶"parcel ID"¶"parcel ID"¶"the ID of a parcel"¶"Cadastral Survey Rule
 Term1040¶"parcel intent"¶""¶"a description of a right or interest intended to be assigned to a parcel."¶"Cadastral Survey Rules 2021: sch 2, definition of \"parcel intent\""
 Term1339¶"parcel state"¶""¶"the status of a parcel"¶""
 Term1153¶"parcel type component"¶""¶"a descriptor for a type of parcel"¶"Cadastral Survey Rules 2021: r 42(1); r 43"
-Term1066¶"permanent reference mark"¶"PRM"¶"a mark that is all of the following:" ";
-- made of durable material" ";
-- set in stable material" ";
+Term1066¶"permanent reference mark"¶"PRM"¶"a mark that is all of the following: 
+- made of durable material 
+- set in stable material 
 - located in a position that is likely to remain accessible and not be disturbed"¶"Cadastral Survey Rules 2021: r 33(1); sch 2, definition of \"permanent reference mark\""
 Term1321¶"permanent structure"¶""¶"a building or recognisable physical structure that is likely to remain undisturbed for 50 years or more."¶"Cadastral Survey Rules 2021: inferred from sch 2, definition of \"permanent structure boundary\"; http://www.legislation.govt.nz/regulation/public/2010/0492/latest/DLM6960402.html"
-Term1067¶"permanent structure boundary"¶""¶"is any of the following:" ";
-- a boundary related to a permanent structure" ";
+Term1067¶"permanent structure boundary"¶""¶"is any of the following: 
+- a boundary related to a permanent structure 
 - the outline of a future development unit"¶"Cadastral Survey Rules 2021: sch 2, definition of \"permanent structure boundary\""
 Term1415¶"permanent structure boundary point"¶""¶"a boundary point that is included in a permanent structure boundary"¶"Cadastral Survey Rules 2021: inferred from sch 2, definition of \"boundary point\"; inferred from sch 2, definition of \"permanent structure boundary\""
 Term1410¶"permit area"¶""¶"the shape of a space associated with a permit"¶""
@@ -316,16 +316,16 @@ Term1163¶"physical mark type"¶""¶"the type of physical object used for markin
 Term1187¶"point"¶""¶"a unique position recorded in a cadastral survey"¶"Inferred from Cadastral Survey Rules 2021: https://jira.linz.govt.nz/browse/BRC-139"
 Term1328¶"point name"¶""¶"the ID of a point"¶""
 Term1425¶"positional"¶""¶""¶""
-Term1025¶"primary parcel"¶""¶"a parcel that is intended to be any of the following:" ";
-- owned by the Crown if it is not a movable marginal strip parcel" ";
-- held in fee simple" ";
-- Maori freehold land" ";
-- Maori customary land" ";
-- part of the common marine and coastal area" ";
-- the bed of a lake" ";
-- the bed of a river" ";
-- a road parcel" ";
-- a railway parcel" ";
+Term1025¶"primary parcel"¶""¶"a parcel that is intended to be any of the following: 
+- owned by the Crown if it is not a movable marginal strip parcel 
+- held in fee simple 
+- Maori freehold land 
+- Maori customary land 
+- part of the common marine and coastal area 
+- the bed of a lake 
+- the bed of a river 
+- a road parcel 
+- a railway parcel 
 - vested in a local authority"¶"Cadastral Survey Rules 2021: sch 2, definition of \"primary parcel\""
 Term1783¶"primary parcel boundary"¶""¶"a boundary that defines a primary parcel"¶""
 Term1370¶"primary parcel state"¶""¶"the status of a primary parcel."¶""
@@ -341,12 +341,12 @@ Term1183¶"reduced level"¶""¶"a height in terms of a vertical datum in metres"
 Term1405¶"referenced boundary mark"¶""¶""¶"Cadastral Survey Rules 2021: r 31(b)"
 Term1404¶"referenced boundary point"¶""¶""¶"Cadastral Survey Rules 2021: r 31(a)"
 Term1406¶"referenced height-limited boundary point"¶""¶""¶"Cadastral Survey Rules 2021: r 31(c)"
-Term1444¶"referenced point"¶""¶"any of:" ";
-- a referenced boundary point" ";
-- a referenced boundary mark" ";
-- a referenced height-limited boundary point" ";
-- a boundary point included in a non-primary parcel boundary that is an inaccurately determined class A boundary or class B boundary " ";
-- a boundary point that is a boundary mark included in a non-primary parcel boundary" ";
+Term1444¶"referenced point"¶""¶"any of: 
+- a referenced boundary point 
+- a referenced boundary mark 
+- a referenced height-limited boundary point 
+- a boundary point included in a non-primary parcel boundary that is an inaccurately determined class A boundary or class B boundary  
+- a boundary point that is a boundary mark included in a non-primary parcel boundary 
 - a boundary point included in a non-primary parcel boundary and the non-primary parcel overlies a parcel that is the bed of a stream or the bed of a river or the bed of a lake"¶"Cadastral Survey Rules 2021: r 31; r 51(2)(e); r 51(2)(f); r 64; r 70(1)"
 Term1323¶"Registrar-General of Land"¶""¶"the person who is appointed under the State Sector Act 1988 to keep and operate the land title register subject to the Land Transfer Act 2017"¶"Land Transfer Act 2017: s 231; http://legislation.govt.nz/act/public/2017/0030/latest/DLM6731451.html#DLM6731451"
 Term1392¶"reinstated boundary"¶""¶"an existing boundary on which 1 or more new boundary marks are placed by a boundary reinstatement survey."¶"Cadastral Survey Rules 2021: r 112"
@@ -354,22 +354,22 @@ Term1068¶"reinstated survey mark"¶""¶"a new survey mark placed in the positio
 Term1424¶"relative"¶""¶""¶""
 Term1123¶"renewed survey mark"¶""¶"a new survey mark placed in the position of an old survey mark that has been found"¶"Cadastral Survey Rules 2021: sch 2 definition of \"renewed\""
 Term1118¶"Reserves Act 1977"¶""¶""¶""
-Term1069¶"residue parcel"¶""¶"a parcel that is any of the following:" ";
-- the residual portion of a primary parcel that remains as a result of a cadastral survey for any of the following reasons:" ";
-- - for removal of limitations as to parcels" ";
-- - for an adverse possession claim" ";
-- - to change the registration of land from the Deeds Registration Act 1908 to the Land Transfer Act 2017" ";
-" ";
-- the residual portion of a primary parcel for which all of the following are true:" ";
-- - the portion is being defined as part of any of the following:" ";
-- - - the bed of a lake" ";
-- - - the bed of a river" ";
-- - - the common marine and coastal area" ";
-- - the portion is not currently recorded in the cadastre as any of the following:" ";
-- - - the bed of a lake" ";
-- - - the bed of a river" ";
-- - - part of the common marine and coastal area" ";
-- - the portion is not intended to vest" ";
+Term1069¶"residue parcel"¶""¶"a parcel that is any of the following: 
+- the residual portion of a primary parcel that remains as a result of a cadastral survey for any of the following reasons: 
+- - for removal of limitations as to parcels 
+- - for an adverse possession claim 
+- - to change the registration of land from the Deeds Registration Act 1908 to the Land Transfer Act 2017 
+ 
+- the residual portion of a primary parcel for which all of the following are true: 
+- - the portion is being defined as part of any of the following: 
+- - - the bed of a lake 
+- - - the bed of a river 
+- - - the common marine and coastal area 
+- - the portion is not currently recorded in the cadastre as any of the following: 
+- - - the bed of a lake 
+- - - the bed of a river 
+- - - part of the common marine and coastal area 
+- - the portion is not intended to vest 
 - - the portion is not intended to have a new estate record."¶"Cadastral Survey Rules 2021: sch 2, definition of \"residue parcel\""
 Term1413¶"restricted roadway encumbrance"¶""¶"a restricted roadway that is an encumbrance over a primary parcel."¶""
 Term1089¶"right"¶""¶"a claim or entitlement to the use of or control over land that is recognisable and enforceable at law"¶"USLegal.com: USLegal>Legal Definitions>L>Legal Right; https://definitions.uslegal.com/l/legal-right/"
@@ -381,12 +381,12 @@ Term1158¶"section"¶""¶"a parcel of land under a SO CSD"¶"Survey and Titles G
 Term1204¶"series of vectors"¶""¶"a series of one or more connected vectors"¶""
 Term1382¶"slope distance"¶""¶"a distance that is computed for a pair of points from the horizontal and vertical components of the spatial relationships defined by the series of vectors that connect the points"¶""
 Term1203¶"start point"¶""¶"the start of a vector or series of vectors"¶""
-Term1312¶"stratum estate"¶""¶"is any of the following:" ";
-- stratum estate in freehold" ";
-- stratum estate in leasehold" ";
+Term1312¶"stratum estate"¶""¶"is any of the following: 
+- stratum estate in freehold 
+- stratum estate in leasehold 
 - stratum estate in licence"¶""
-Term1313¶"stratum estate in freehold"¶""¶"is any of the following:" ";
-- a principal unit or an accessory unit created by the subdivision of a fee simple parcel contained in a freehold record of title into a number of separate parcels" ";
+Term1313¶"stratum estate in freehold"¶""¶"is any of the following: 
+- a principal unit or an accessory unit created by the subdivision of a fee simple parcel contained in a freehold record of title into a number of separate parcels 
 - a subsidiary unit of a principal unit where the principal unit is created by the subdivision of a fee simple parcel contained in a freehold record of title into a number of separate parcels"¶"Unit Titles Act 2010: s 5, definition of \"stratum estate\"; http://www.legislation.govt.nz/act/public/2010/0022/latest/DLM1160448.html";": Survey and Titles Glossary; https://confluence.linz.govt.nz/pages/releaseview.action?pageId=29464695"
 Term1314¶"stratum estate in leasehold"¶""¶"a unit title created by the subdivision of an existing lease into a number of separate parcels by the registered owner of the lease"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=52177894"
 Term1315¶"stratum estate in licence"¶""¶"a unit title created by the subdivision of an existing licence into a number of separate parcels by the registered owner of the licence"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17008254"
@@ -396,15 +396,15 @@ Term1019¶"survey mark"¶""¶"a cadastral survey mark or a mark used for a natio
 Term1372¶"survey mark state"¶""¶"the status of a survey mark"¶""
 Term1393¶"survey mark type"¶""¶"type of categorization of a survey mark"¶""
 Term1108¶"survey office CSD"¶"survey office CSD"¶"the set of data needed to integrate a cadastral survey for one or more parcels of land under either a legalisation plan or Crown subdivision into the cadastre"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=18745159"
-Term1451¶"survey plan"¶""¶"a cadastral survey dataset of either:" ";
-- subdivision of land, a building or part of a building prepared in a form suitable for deposit under the Land Transfer Act 2017" ";
+Term1451¶"survey plan"¶""¶"a cadastral survey dataset of either: 
+- subdivision of land, a building or part of a building prepared in a form suitable for deposit under the Land Transfer Act 2017 
 - a subdivision by or on behalf of a Minister of the Crown of land not subject to the Land Transfer Act 2017"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=18743434"
-Term1181¶"survey purpose"¶""¶"reason for a cadastral survey being conducted such as any of the following:" ";
-- a limitation as to parcels being uplifted from a parcel" ";
-- an application to make a Hawkes Bay interim title conclusive" ";
-- a claim for adverse possession" ";
-- a claim for accretion" ";
-- a claim for a dry stream bed" ";
+Term1181¶"survey purpose"¶""¶"reason for a cadastral survey being conducted such as any of the following: 
+- a limitation as to parcels being uplifted from a parcel 
+- an application to make a Hawkes Bay interim title conclusive 
+- a claim for adverse possession 
+- a claim for accretion 
+- a claim for a dry stream bed 
 - a legalisation"¶"Cadastral Survey Rules 2021: r 117(c)(i); r 71(c)(ii); r 72(a); r 72(a)"
 Term1184¶"survey report"¶""¶"a report that accompanies a CSD setting out the basis of the cadastral survey"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17009296"
 Term1088¶"tenure"¶""¶"the kind of right or title by which land is held"¶"Cadastral Survey Act 2002: s 4, definition of \"tenure\"; http://www.legislation.govt.nz/act/public/2002/0012/latest/DLM142402.html"
@@ -419,8 +419,8 @@ Term1097¶"topology"¶""¶"the geometrical and spatial relationships between the
 Term1070¶"underlying parcel"¶""¶"the parcel whose interests are or will be directly affected or encumbered by a non-primary parcel"¶"Cadastral Survey Rules 2021: sch 2, definition of \"underlying parcel\""
 Term1316¶"unit"¶""¶"a part of land consisting of a space for which the shape of the space is situated below, on or above the surface of the land and all the dimensions of the space is limited and the space is designed for separate ownership"¶"Unit Titles Act 2010: s 5, definition of \"unit\"; http://www.legislation.govt.nz/act/public/2010/0022/latest/DLM1160448.html"
 Term1464¶"unit of measure"¶""¶"a defined standard for measurement of the magnitude of a quantity"¶"Inferred from various dictionary definitions"
-Term1219¶"unit title"¶"unit title"¶"is any of the folllowing:" ";
-- a record of title issued for a unit" ";
+Term1219¶"unit title"¶"unit title"¶"is any of the folllowing: 
+- a record of title issued for a unit 
 - a record of title issued for a subdivision of a unit"¶"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=18744233"
 Term1155¶"unit title development"¶""¶"the individual units and the common property comprising a stratum estate"¶"Unit Titles Act 2010: s 5, definition of \"unit title development\""
 Term1322¶"Unit Titles Act 2010"¶""¶"an Act that provides a legal framework for the ownership and management of land and associated buildings and facilities on a socially and economically sustainable basis by communities of individual owners and, the subdivision into, operation, management, governance and integrity of unit title developments."¶"Unit Titles Act 2010: s 3"
@@ -428,17 +428,17 @@ Term1017¶"vector"¶""¶"a bearing and distance between two points that defines 
 Term1306¶"vertical control mark"¶""¶"a survey mark that is suitable for the vertical control of cadastral surveys"¶"Cadastral Survey Rules 2021: sch 2 definition of \"vertical control mark\"; https://www.linz.govt.nz/data/geodetic-system/geodetic-control-network-development-maintenance-and-protection/survey-control-networks/cadastral-vertical"
 Term1394¶"vertical datum"¶""¶"a curved or level reference surface from which to determine elevations"¶"LINZR65301: Ruling on official vertical datums: Terms and definitions: definition of 'official vertical datum'; https://www.linz.govt.nz/system/files_force/media/regulatory-documents/65301-Ruling%20on%20official%20vertical%20datums%20-%20LINZR65301_4.pdf";"LINZS25009: Standard for New Zealand Vertcal Datum 2016: Terms and Definitions: definition of 'vertical datum'; https://www.linz.govt.nz/system/files_force/media/regulatory-documents/Standard%20for%20New%20Zealand%20Vertical%20Datum%20-%20LINZS25009.pdf"
 Term1311¶"vertical extent"¶""¶"the extent of a parcel by height above and depth below the ground level to which the parcel extends"¶"LINZ Knowledge Base: Parcel area, \"Calculating the area of a parcel\"; https://www.linz.govt.nz/kb/743"
-Term1167¶"water body"¶""¶"any of the following:" ";
-- a bed of a river" ";
-- a bed of a stream" ";
-- a bed of a lake" ";
+Term1167¶"water body"¶""¶"any of the following: 
+- a bed of a river 
+- a bed of a stream 
+- a bed of a lake 
 - a tidal area"¶"Cadastral Survey Rules 2021: r 10(1)(a); r 10(1)(b); r 10(1)(c)"
 Term1073¶"water boundary"¶""¶"a boundary that follows the landward margin of a water body"¶"Cadastral Survey Rules 2021: r 10(1)"
 Term1373¶"water boundary state"¶""¶"the status of a water boundary"¶""
 Term1074¶"water centre-line boundary"¶""¶"a boundary that follows the line midway between the landward margins of a bed of a stream or a bed of a river"¶"Cadastral Survey Rules 2021: r 11(1)"
 Term1374¶"water centreline boundary state"¶""¶"the status of a water centreline boundary"¶""
-Term1421¶"water or irregular boundary"¶""¶"a boundary that is any of the following:" ";
-- a water boundary" ";
-- a water centre-line boundary" ";
+Term1421¶"water or irregular boundary"¶""¶"a boundary that is any of the following: 
+- a water boundary 
+- a water centre-line boundary 
 - an irregular boundary"¶""
 Term1429¶"water or irregular boundary state"¶""¶"the status of a water or irregular boundary"¶""
