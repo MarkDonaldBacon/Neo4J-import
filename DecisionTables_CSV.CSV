@@ -23,8 +23,8 @@ DecTable1005¶"Boundary annotations for survey diagrams"¶"<table class=\"decisi
 	</tr>
 
 	<tr style=\"height:16px\">
-		<td style=\"background:rgb(128,255,128)\">The source CSD number for an adopted permanent structure boundary<br/>
-</td>
+		<td style=\"background:rgb(128,255,128)\">The source CSD number for an adopted permanent structure boundary
+|</td>
 		<td style=\"background:rgb(255,255,128)\">\"Adpt \" CSD number</td>
 	</tr>
 
@@ -53,8 +53,8 @@ DecTable1004¶"Parcel annotations for survey diagrams"¶"<table class=\"decision
 	</tr>
 
 	<tr style=\"height:44px\">
-		<td style=\"background:rgb(128,255,128)\">The name or if no name is available a simple<br/>
-description of any road, or railway, or water body that abuts a new parcel</td>
+		<td style=\"background:rgb(128,255,128)\">The name or if no name is available a simple
+|description of any road, or railway, or water body that abuts a new parcel</td>
 		<td style=\"background:rgb(255,255,128)\">Suitable notation</td>
 	</tr>
 
@@ -162,11 +162,11 @@ DecTable1002¶"Parcel type component"¶"<table class=\"decisiontable\" border=\"
 	<tr style=\"height:70px\">
 		<td style=\"background:rgb(128,255,0)\">Unit title development</td>
 		<td style=\"background:rgb(255,255,128)\"> </td>
-		<td style=\"background:rgb(255,255,128)\">As appropriate:<br/>
-- Principal Unit<br/>
-- Accessory Unit<br/>
-- Future Development Unit<br/>
-- Common Property</td>
+		<td style=\"background:rgb(255,255,128)\">As appropriate:
+|- Principal Unit
+|- Accessory Unit
+|- Future Development Unit
+|- Common Property</td>
 	</tr>
 
 	<tr style=\"height:17px\">
