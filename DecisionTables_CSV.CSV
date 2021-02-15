@@ -43,7 +43,7 @@ DecTable1005¶"Boundary annotations for survey diagrams"¶"<table class=\"decisi
 		<td style=\"background:rgb(255,255,128)\">\"Adpt \" CSD number</td>
 	</tr>
 
-</table>"
+</table>"¶"Cadastral Survey Rules 2021: r 88; Table 6: Boundary annotations for survey diagrams"
 DecTable1004¶"Parcel annotations for survey diagrams"¶"<table class=\"decisiontable\" border=\"1\" style=\"font-family:Microsoft Sans Serif;font-size:8.25pt;background:rgb(255,255,255)\">
 	<col style=\"width:288px\"></col>
 	<col style=\"width:246px\"></col>
@@ -80,7 +80,7 @@ DecTable1004¶"Parcel annotations for survey diagrams"¶"<table class=\"decision
 </td>
 	</tr>
 
-</table>"
+</table>"¶"Cadastral Survey Rules 2021: r 87; Table 5: Parcel annotations for survey diagrams"
 DecTable1001¶"Parcel identifier format"¶"<table class=\"decisiontable\" border=\"1\" style=\"font-family:Microsoft Sans Serif;font-size:8.25pt;background:rgb(255,255,255)\">
 	<col style=\"width:357px\"></col>
 	<col style=\"background:rgb(255,255,128);width:466px\"></col>
@@ -124,7 +124,7 @@ DecTable1001¶"Parcel identifier format"¶"<table class=\"decisiontable\" border
 		<td style=\"background:rgb(255,255,128)\">a letter or a letter followed by another letter</td>
 	</tr>
 
-</table>"
+</table>"¶"Cadastral Survey Rules 2021: r 45; Table 4: Unique parcel identifier format"
 DecTable1002¶"Parcel type component"¶"<table class=\"decisiontable\" border=\"1\" style=\"font-family:Microsoft Sans Serif;font-size:8.25pt;background:rgb(255,255,255)\">
 	<col style=\"width:364px\"></col>
 	<col style=\"width:297px\"></col>
@@ -193,4 +193,4 @@ DecTable1002¶"Parcel type component"¶"<table class=\"decisiontable\" border=\"
 		<td style=\"background:rgb(255,255,128)\">Height Limited Area</td>
 	</tr>
 
-</table>"
+</table>"¶"Cadastral Survey Rules 2021: r 43; Table 3: Parcel type component of appellation"
