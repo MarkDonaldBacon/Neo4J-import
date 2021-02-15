@@ -6064,6 +6064,10 @@ DecTable1002¶Term1159¶Uses_Term
 DecTable1002¶Term1158¶Uses_Term
 DecTable1002¶Term1108¶Uses_Term
 DecTable1002¶Term1155¶Uses_Term
+DecTable1005¶Rule1322¶Has_Wrapper_Rule
+DecTable1004¶Rule1381¶Has_Wrapper_Rule
+DecTable1001¶Rule1043¶Has_Wrapper_Rule
+DecTable1002¶Rule1051¶Has_Wrapper_Rule
 RuleGr1004¶Rule1075¶Includes_Rule
 RuleGr1004¶Rule1076¶Includes_Rule
 RuleGr1008¶Rule1099¶Includes_Rule
