@@ -1,11 +1,9 @@
-Name:ID¶Signifier¶Table¶Source,
-"DecTable1005¶""Boundary annotations for survey diagrams""¶",
-Boundary,Annotation
-Class D boundary,"""Class D"""
-Water centre-line boundary,"""Boundary follows centre-line of stream/river"""
-Water boundary defined by a physical feature,Description of the physical feature
-The source CSD number for an adopted permanent structure boundary,"""Adpt "" CSD number"
-The source CSD number for an accepted permanent structure boundary,"""Adpt "" CSD number"
-The source CSD number for an adopted water or irregular boundary,"""Adpt "" CSD number"
-The source CSD number for an accepted water or irregular boundary,"""Adpt "" CSD number"
-"¶""Cadastral Survey Rules 2021: r 88; Table 6: Boundary annotations for survey diagrams""",
+Name:ID¶Signifier¶Table¶Source,,
+"DecTable1005¶""Boundary annotations for survey diagrams""¶",Boundary,Annotation
+Class D boundary,"""Class D""",
+Water centre-line boundary,"""Boundary follows centre-line of stream/river""",
+Water boundary defined by a physical feature,Description of the physical feature,
+The source CSD number for an adopted permanent structure boundary,"""Adpt "" CSD number",
+The source CSD number for an accepted permanent structure boundary,"""Adpt "" CSD number",
+The source CSD number for an adopted water or irregular boundary,"""Adpt "" CSD number",
+The source CSD number for an accepted water or irregular boundary,"""Adpt "" CSD number¶""Cadastral Survey Rules 2021: r 88; Table 6: Boundary annotations for survey diagrams""",
