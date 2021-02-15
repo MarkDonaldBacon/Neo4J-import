@@ -1,11 +1,11 @@
 Name:ID¶Signifier¶Statement¶Source
 Rule1063¶"A water boundary may be adopted"¶"An existing water boundary may be adopted when the margin of the water body has moved as a result of accretion only if all of the following are true:
 |- the margin of the water body has not also moved as a result of erosion or the water boundary is an accepted boundary
-|- the CSD does not have a survey purpose that is a claim for accretion."¶"Cadastral Survey Rules 2021: r 10(2)(b)"
-Rule1068¶"A water centreline boundary may be adopted"¶"An existing irregular boundary that followed the centre-line of a water body may be adopted only if the existing irregular boundary is adopted as a water centre-line boundary."¶"Cadastral Survey Rules 2021: r 11(2)"
-Rule1393¶"A water centreline boundary use"¶"A new boundary must not be a water centre-line boundary."¶"Cadastral Survey Rules 2021: r 11(3)"
-Rule1031¶"Acceptance of existing boundary 2"¶"A boundary that defines a primary parcel must not be an accepted boundary if there is a risk of the boundary encroaching on another parcel."¶"Cadastral Survey Rules 2021: r 15(2)(a)"
-Rule1032¶"Acceptance of existing boundary 3"¶"A boundary that defines a new primary parcel must not be an accepted boundary if the primary parcel is not a majority successor parcel."¶"Cadastral Survey Rules 2021: r 15(2)(b)"
+|- the CSD does not have a survey purpose that is a claim for accretion."¶"Cadastral Survey Rules 2021: r 10(2)(b)
+Rule1068¶"A water centreline boundary may be adopted"¶"An existing irregular boundary that followed the centre-line of a water body may be adopted only if the existing irregular boundary is adopted as a water centre-line boundary."¶"Cadastral Survey Rules 2021: r 11(2)
+Rule1393¶"A water centreline boundary use"¶"A new boundary must not be a water centre-line boundary."¶"Cadastral Survey Rules 2021: r 11(3)
+Rule1031¶"Acceptance of existing boundary 2"¶"A boundary that defines a primary parcel must not be an accepted boundary if there is a risk of the boundary encroaching on another parcel."¶"Cadastral Survey Rules 2021: r 15(2)(a)
+Rule1032¶"Acceptance of existing boundary 3"¶"A boundary that defines a new primary parcel must not be an accepted boundary if the primary parcel is not a majority successor parcel."¶"Cadastral Survey Rules 2021: r 15(2)(b)
 Rule1033¶"Acceptance of existing boundary 4"¶"A boundary that defines a primary parcel must not be an accepted boundary if all of the following are false:
 |- the boundary is a right-line boundary that does not have a boundary bearing or have a boundary distance in an approved CSD
 |- the boundary has a boundary bearing that is a magnetic bearing and the reorientation of the boundary bearing cannot be determined without measurement
@@ -13,39 +13,39 @@ Rule1033¶"Acceptance of existing boundary 4"¶"A boundary that defines a primar
 |- the boundary defines a balance parcel that is included in a title that is to remain a Hawkes Bay interim title and accuracy [relative] between boundary points included in the boundary does not meet class C accuracy
 |- the boundary is a water boundary or a water centre-line boundary that defines a balance parcel that is included in a title that is to remain limited as to parcels 
 |- the boundary is a water boundary or a water centre-line boundary that defines a balance parcel that is included in a title that is to remain Hawkes bay interim title
-|- the boundary is an existing irregular boundary."¶"Cadastral Survey Rules 2021: r 15(2)(c)"
-Rule1040¶"Acceptance of existing boundary point"¶"A boundary point must be accepted if the boundary point is included in an accepted boundary."¶"Cadastral Survey Rules 2021: r 15(2); r 54"
+|- the boundary is an existing irregular boundary."¶"Cadastral Survey Rules 2021: r 15(2)(c)
+Rule1040¶"Acceptance of existing boundary point"¶"A boundary point must be accepted if the boundary point is included in an accepted boundary."¶"Cadastral Survey Rules 2021: r 15(2); r 54
 Rule1286¶"Accepting existing water boundaries"¶"A boundary must be considered an accepted water boundary if all of the following are true:
 |- the boundary is a new water boundary coinciding with an existing water boundary that defines a primary parcel
 |- the boundary defines a non-primary parcel over a hydro parcel.
 |
-|A new water boundary that defines a non-primary parcel coinciding with an existing water boundary that defines a primary parcel must be considered an accepted water boundary only if the non-primary parcel overlies a hydro parcel."¶"Cadastral Survey Rules 2021: r 65; r 67"
+|A new water boundary that defines a non-primary parcel coinciding with an existing water boundary that defines a primary parcel must be considered an accepted water boundary only if the non-primary parcel overlies a hydro parcel."¶"Cadastral Survey Rules 2021: r 65; r 67
 Rule1072¶"Accounting for erosion when water boundary not accepted"¶"An existing water boundary must be defined by survey if all of the following are true:
 |- the margin of the water body has moved as a result of erosion
-|- the water boundary is not an accepted boundary."¶"Cadastral Survey Rules 2021: r 10(2)(a)"
+|- the water boundary is not an accepted boundary."¶"Cadastral Survey Rules 2021: r 10(2)(a)
 Rule1083¶"Accretion, stream bed and adverse possesion area"¶"An area [quantity] must be assigned to a portion of land that has any of the following survey purpose:
 |- a claim for accretion
 |- a claim for a dry stream bed 
-|- a claim for adverse possession."¶"Cadastral Survey Rules 2021: r 41(3)"
-Rule1458¶"Accuracy [positional] for right line boundary intersecting a water or irregular boundary 1"¶"The boundary bearing of a right line boundary that intersects a water or irregular boundary must be defined to a level of accuracy [positional] that is consistent with the accuracy class of the right line boundary."¶"Cadastral Survey Rules 2021: r 30(a)"
-Rule1459¶"Accuracy [positional] for right line boundary intersecting a water or irregular boundary 2"¶"The boundary distance of a right line boundary that intersects a water or irregular boundary must be defined to a level of accuracy [positional] that is consistent with the accuracy [positional] of the water or irregular boundary."¶"Cadastral Survey Rules 2021: r 30(b)"
-Rule1473¶"Accuracy [positional] for right line boundary intersecting an accepted water boundary 1"¶"The boundary bearing of a right line boundary that intersects an accepted water boundary must be defined to a level of accuracy [positional] that is consistent with the accuracy class of the right line boundary."¶"Cadastral Survey Rules 2021: r 69(1)(a)"
-Rule1474¶"Accuracy [positional] for right line boundary intersecting an accepted water boundary 2"¶"The boundary distance of a right line boundary that intersects an accepted water boundary must be defined to a level of accuracy [positional] that is consistent with the accuracy [positional] of the water boundary."¶"Cadastral Survey Rules 2021: r 69(1)(b)"
-Rule1475¶"Accuracy [positional] for right line boundary intersecting an offset water boundary 1"¶"A boundary bearing of a right line boundary that intersects an offset water boundary must meet a level of accuracy [positional] that is consistent with the accuracy class of the right line boundary."¶"Cadastral Survey Rules 2021: r 69(2)(a)"
-Rule1476¶"Accuracy [positional] for right line boundary intersecting an offset water boundary 2"¶"The boundary distance of a right line boundary that intersects an offset water boundary need not be defined."¶"Cadastral Survey Rules 2021: r 69(2)(b)"
+|- a claim for adverse possession."¶"Cadastral Survey Rules 2021: r 41(3)
+Rule1458¶"Accuracy [positional] for right line boundary intersecting a water or irregular boundary 1"¶"The boundary bearing of a right line boundary that intersects a water or irregular boundary must be defined to a level of accuracy [positional] that is consistent with the accuracy class of the right line boundary."¶"Cadastral Survey Rules 2021: r 30(a)
+Rule1459¶"Accuracy [positional] for right line boundary intersecting a water or irregular boundary 2"¶"The boundary distance of a right line boundary that intersects a water or irregular boundary must be defined to a level of accuracy [positional] that is consistent with the accuracy [positional] of the water or irregular boundary."¶"Cadastral Survey Rules 2021: r 30(b)
+Rule1473¶"Accuracy [positional] for right line boundary intersecting an accepted water boundary 1"¶"The boundary bearing of a right line boundary that intersects an accepted water boundary must be defined to a level of accuracy [positional] that is consistent with the accuracy class of the right line boundary."¶"Cadastral Survey Rules 2021: r 69(1)(a)
+Rule1474¶"Accuracy [positional] for right line boundary intersecting an accepted water boundary 2"¶"The boundary distance of a right line boundary that intersects an accepted water boundary must be defined to a level of accuracy [positional] that is consistent with the accuracy [positional] of the water boundary."¶"Cadastral Survey Rules 2021: r 69(1)(b)
+Rule1475¶"Accuracy [positional] for right line boundary intersecting an offset water boundary 1"¶"A boundary bearing of a right line boundary that intersects an offset water boundary must meet a level of accuracy [positional] that is consistent with the accuracy class of the right line boundary."¶"Cadastral Survey Rules 2021: r 69(2)(a)
+Rule1476¶"Accuracy [positional] for right line boundary intersecting an offset water boundary 2"¶"The boundary distance of a right line boundary that intersects an offset water boundary need not be defined."¶"Cadastral Survey Rules 2021: r 69(2)(b)
 Rule1088¶"Accuracy sufficient to avoid overlap"¶"A boundary point that is included in a new boundary must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each other boundary point that is included in another boundary is less than the horizontal distance and less than the slope distance between the boundary points.
 |
 |A boundary must be defined 
 |
-|must be determined to a sufficient level of accuracy to address the risk of incompatible rights overlapping"¶"Cadastral Survey Rules 2021: r 28"
-Rule1471¶"Accurate definition of boundaries"¶"A boundary must be accurately defined."¶"Cadastral Survey Rules 2021: Part 4 subpart 2"
-Rule1488¶"Accurate relation of non-primary parcel boundaries to underlying parcel boundaries"¶"A non-primary parcel boundary must be accurately related to each boundary that defines an underlying parcel if the underlying parcel is not created by the same cadastral survey as the non-primary parcel."¶"Cadastral Survey Rules 2021: r 27(4)"
-Rule1184¶"Adopted mark not used as PRM"¶"An adopted mark must not be used as a permanent reference mark."¶"Cadastral Survey Rules 2021: r 33(2)"
+|must be determined to a sufficient level of accuracy to address the risk of incompatible rights overlapping"¶"Cadastral Survey Rules 2021: r 28
+Rule1471¶"Accurate definition of boundaries"¶"A boundary must be accurately defined."¶"Cadastral Survey Rules 2021: Part 4 subpart 2
+Rule1488¶"Accurate relation of non-primary parcel boundaries to underlying parcel boundaries"¶"A non-primary parcel boundary must be accurately related to each boundary that defines an underlying parcel if the underlying parcel is not created by the same cadastral survey as the non-primary parcel."¶"Cadastral Survey Rules 2021: r 27(4)
+Rule1184¶"Adopted mark not used as PRM"¶"An adopted mark must not be used as a permanent reference mark."¶"Cadastral Survey Rules 2021: r 33(2)
 Rule1498¶"Adpoted information from source"¶"An adopted piece of information must be copied from the source of the information without change if the information is not any of the following:
 |- the conversion of units of measure
-|- a bearing adjustment."¶"Cadastral Survey Rules 2021: r 75(1)"
-Rule1442¶"Ambiguity and overlap of water or irregular boundaries"¶"A water or irregular boundary that is not an accepted boundary must have its position determined to a level of accuracy [positional] that prevents a parcel defined by the boundary overlapping another parcel."¶"Cadastral Survey Rules 2021: r 29(2)(a); r 29(3)"
-Rule1005¶"Approval of CSD 1"¶"A CSD may be an approved CSD only if the CSD is a complete CSD."¶"Cadastral Survey Rules 2021: Part 7"
+|- a bearing adjustment."¶"Cadastral Survey Rules 2021: r 75(1)
+Rule1442¶"Ambiguity and overlap of water or irregular boundaries"¶"A water or irregular boundary that is not an accepted boundary must have its position determined to a level of accuracy [positional] that prevents a parcel defined by the boundary overlapping another parcel."¶"Cadastral Survey Rules 2021: r 29(2)(a); r 29(3)
+Rule1005¶"Approval of CSD 1"¶"A CSD may be an approved CSD only if the CSD is a complete CSD."¶"Cadastral Survey Rules 2021: Part 7
 Rule1108¶"Balance parcel constraint"¶"A balance parcel may be derived only from any of the following primary parcels: 
 |- a railway parcel that is not in a record of title
 |- a road parcel
@@ -55,14 +55,14 @@ Rule1108¶"Balance parcel constraint"¶"A balance parcel may be derived only fro
 |- the bed of a stream
 |- the bed of the sea
 |- an access way that is not in a record of title
-|- a service lane that is not in a record of title."¶"Cadastral Survey Rules 2021: sch 2, definition of \"balance parcel\""
+|- a service lane that is not in a record of title."¶"Cadastral Survey Rules 2021: sch 2, definition of \"balance parcel\"
 Rule1416¶"Boundary class exceptions"¶"A water or irregular boundary must not be considered any of the following:
 |- a class A boundary
 |- a class B boundary
 |- a class C boundary
-|- a class D boundary."¶"Cadastral Survey Rules 2021: r 29(1)"
-Rule1353¶"Boundary converts boundary"¶"A boundary must be considered a boundary that is converted if the boundary is replaced by another boundary that is not of the same boundary form."¶"Cadastral Survey Rules 2021: r 10(3)(b); r 14(c); r 29(1)(f); r 46(6); r 9(3)"
-Rule1037¶"Boundary for balance or residual parcel being accepted"¶"An existing boundary that defines a balance parcel or defines a residue parcel may be an accepted boundary only if there is no other new parcel defined by the boundary."¶"Cadastral Survey Rules 2021: r 15(3)"
+|- a class D boundary."¶"Cadastral Survey Rules 2021: r 29(1)
+Rule1353¶"Boundary converts boundary"¶"A boundary must be considered a boundary that is converted if the boundary is replaced by another boundary that is not of the same boundary form."¶"Cadastral Survey Rules 2021: r 10(3)(b); r 14(c); r 29(1)(f); r 46(6); r 9(3)
+Rule1037¶"Boundary for balance or residual parcel being accepted"¶"An existing boundary that defines a balance parcel or defines a residue parcel may be an accepted boundary only if there is no other new parcel defined by the boundary."¶"Cadastral Survey Rules 2021: r 15(3)
 Rule1251¶"Boundary mark on existing boundary point 1"¶"A mark must be placed at a boundary point that is included in an existing boundary that defines a new primary parcel if it is practicable for the mark to be placed at the boundary point and any of the following is true:
 |- the boundary point is subject to conflict
 |- the definition of the boundary in an approved CSD is not sufficient to determine the compliance of the boundary with the applicable accuracy standard
@@ -71,11 +71,11 @@ Rule1251¶"Boundary mark on existing boundary point 1"¶"A mark must be placed a
 |- the parcel is subject to a claim for adverse possession
 |- the boundary point is recorded in a Maori Land CSD that is annotated \"computed plan – areas and boundaries not defined by survey\" 
 |- the boundary is recorded in a Maori Land CSD that is annotated \"computed plan – areas and boundaries not defined by survey\"
-|- the boundary point is an unmarked boundary point that was included in boundaries that defined only non-primary parcels."¶"Cadastral Survey Rules 2021: r 35(2)(a); r 35(2)(b); r 35(2)(c); r 35(2)(d); r 35(2)(f); r 35(2)(g); r 35(2)(h)"
+|- the boundary point is an unmarked boundary point that was included in boundaries that defined only non-primary parcels."¶"Cadastral Survey Rules 2021: r 35(2)(a); r 35(2)(b); r 35(2)(c); r 35(2)(d); r 35(2)(f); r 35(2)(g); r 35(2)(h)
 Rule1420¶"Boundary mark on existing boundary point 2"¶"A mark must be placed at a boundary point that is included in an existing boundary that defines a new primary parcel if all of the following are true:
 |- it is practicable for the mark to be placed at the boundary point
 |- the boundary defines a parcel that is part of a Hawkes Bay interim title
-|- one of the survey purposes is an application to make the Hawkes Bay interim title conclusive."¶"Cadastral Survey Rules 2021: r 35(2)(e)"
+|- one of the survey purposes is an application to make the Hawkes Bay interim title conclusive."¶"Cadastral Survey Rules 2021: r 35(2)(e)
 Rule1240¶"Boundary mark on new boundary point"¶"A mark need not be placed at a new boundary point that is included in a boundary that defines a new primary parcel if any the following are true:
 |- all parcels that are adjacent to the boundary point are new parcels intended to be owned by the Crown
 |- all parcels that are adjacent to the boundary point are new parcels intended to be owned by the same territorial authority
@@ -86,101 +86,101 @@ Rule1240¶"Boundary mark on new boundary point"¶"A mark need not be placed at a
 |- the boundary point results from an existing water or irregular boundary being converted to a right-line boundary that is a class B boundary 
 |- the boundary point coincides with a water boundary
 |- the boundary point coincides with a water centre-line boundary
-|- it is not practicable for a mark to be placed at the boundary point."¶"Cadastral Survey Rules 2021: r 35(1)"
-Rule1252¶"Boundary mark on parcel that is limited as to parcels"¶"A boundary mark must not be placed at a boundary point that is included in a boundary that defines a parcel that is limited as to parcels."¶"Cadastral Survey Rules 2021: r 35(3)"
-Rule1177¶"Boundary mark reference to permanent reference mark"¶"A referenced boundary mark must be referenced by a permanent reference mark."¶"Cadastral Survey Rules 2021: r 31(b)"
-Rule1434¶"Boundary point coincides boundary"¶"A boundary point must be considered a boundary point that is coincident with a boundary if the boundary point is intended to lie on the line of the boundary."¶"Cadastral Survey Rules 2021: r 35(1)(g); r 61(3); r 89(g)(i)"
-Rule1250¶"Boundary point reference to permanent reference mark"¶"A referenced boundary point must be referenced by a permanent reference mark."¶"Cadastral Survey Rules 2021: r 31(a)"
-Rule1178¶"Boundary point reference to PRM Class A"¶"A class A boundary point must be less than or equal to 150 m from a permanent reference mark if the boundary point is a referenced point."¶"Cadastral Survey Rules 2021: r 32(1)(a); r 32(2); r 51(2)(e); r 64; r 70(1)"
-Rule1179¶"Boundary point reference to PRM Class B"¶"A class B boundary point must be less than or equal to 500 m from a permanent reference mark if the boundary point is a referenced point."¶"Cadastral Survey Rules 2021: r 32(1)(b); r 32(2); r 51(2)(f); r 64; r 70(1)"
+|- it is not practicable for a mark to be placed at the boundary point."¶"Cadastral Survey Rules 2021: r 35(1)
+Rule1252¶"Boundary mark on parcel that is limited as to parcels"¶"A boundary mark must not be placed at a boundary point that is included in a boundary that defines a parcel that is limited as to parcels."¶"Cadastral Survey Rules 2021: r 35(3)
+Rule1177¶"Boundary mark reference to permanent reference mark"¶"A referenced boundary mark must be referenced by a permanent reference mark."¶"Cadastral Survey Rules 2021: r 31(b)
+Rule1434¶"Boundary point coincides boundary"¶"A boundary point must be considered a boundary point that is coincident with a boundary if the boundary point is intended to lie on the line of the boundary."¶"Cadastral Survey Rules 2021: r 35(1)(g); r 61(3); r 89(g)(i)
+Rule1250¶"Boundary point reference to permanent reference mark"¶"A referenced boundary point must be referenced by a permanent reference mark."¶"Cadastral Survey Rules 2021: r 31(a)
+Rule1178¶"Boundary point reference to PRM Class A"¶"A class A boundary point must be less than or equal to 150 m from a permanent reference mark if the boundary point is a referenced point."¶"Cadastral Survey Rules 2021: r 32(1)(a); r 32(2); r 51(2)(e); r 64; r 70(1)
+Rule1179¶"Boundary point reference to PRM Class B"¶"A class B boundary point must be less than or equal to 500 m from a permanent reference mark if the boundary point is a referenced point."¶"Cadastral Survey Rules 2021: r 32(1)(b); r 32(2); r 51(2)(f); r 64; r 70(1)
 Rule1180¶"Boundary point reference to PRM Class C"¶"A class C boundary point must be less than or equal to 1000 m from a permanent reference mark if any of the following is true:
 |- the boundary point is a referenced boundary point
 |- the boundary point is a referenced boundary mark 
-|- the boundary point is a referenced height-limited boundary point."¶"Cadastral Survey Rules 2021: r 32(1)(c); r 32(2)"
+|- the boundary point is a referenced height-limited boundary point."¶"Cadastral Survey Rules 2021: r 32(1)(c); r 32(2)
 Rule1091¶"Centre-line easement"¶"An existing centre-line easement parcel need not be represented as a polygon or polyhedron only if any of the following is true:
 |- the width of the centre-line easement is unknown
-|- the centre-line easement is an accepted boundary."¶"Cadastral Survey Rules 2021: r 49"
+|- the centre-line easement is an accepted boundary."¶"Cadastral Survey Rules 2021: r 49
 Rule1496¶"Certification of CSD"¶"A CSD must be certified and dated by a cadastral surveyor as follows:
 |\"I [name], being a licensed cadastral surveyor, certify that—
 |(a) this dataset provided by me and its related survey are accurate, correct, and in accordance with the Cadastral Survey Act 2002 and the Cadastral Survey Rules 2020; and
-|(b) the survey was undertaken by me or under my personal direction.\""¶"Cadastral Survey Rules 2021: r 73"
+|(b) the survey was undertaken by me or under my personal direction.\""¶"Cadastral Survey Rules 2021: r 73
 Rule1128¶"Class A Accuracy"¶"An accuracy [relative] between a boundary point and another boundary point must be considered a class A accuracy if all of the following are true:
 |- the accuracy [relative] is less than or equal to 0.06 + (0.00015 * the horizontal distance between the boundary points)
-|- the accuracy [relative] is less than or equal to 0.06 + (0.00015 * the slope distance between the boundary points)."¶"Cadastral Survey Rules 2021: r 27(1)(i)"
+|- the accuracy [relative] is less than or equal to 0.06 + (0.00015 * the slope distance between the boundary points)."¶"Cadastral Survey Rules 2021: r 27(1)(i)
 Rule1343¶"Class A Boundary"¶"A boundary must be considered a class A boundary if any of the following are true:
 |- the boundary is in an urban area
 |- the boundary is adjoining an urban area
 |- the boundary is intended as a result of a cadastral survey to be in an urban area
 |- the boundary defines a parcel that is used intensively for commercial, industrial, or residential purposes
-|- the boundary defines a parcel that is intended as a result of a cadastral survey to be used intensively for commercial, industrial, or residential purposes."¶"Cadastral Survey Rules 2021: r 22(1); r 22(2); r 50"
-Rule1348¶"Class A Boundary Point"¶"A boundary point must be considered a class A boundary point if the boundary point is included in a class A boundary."¶"Cadastral Survey Rules 2021: r 22(1); r 22(2); r 26; r 50"
+|- the boundary defines a parcel that is intended as a result of a cadastral survey to be used intensively for commercial, industrial, or residential purposes."¶"Cadastral Survey Rules 2021: r 22(1); r 22(2); r 50
+Rule1348¶"Class A Boundary Point"¶"A boundary point must be considered a class A boundary point if the boundary point is included in a class A boundary."¶"Cadastral Survey Rules 2021: r 22(1); r 22(2); r 26; r 50
 Rule1131¶"Class B Accuracy"¶"An accuracy [relative] between a boundary point and another boundary point must be considered a class B accuracy only if all of the following are true:
 |- The accuracy [relative] is less than or equal to 0.30 + (0.0006 * the horizontal distance between the boundary points)
-|- The accuracy [relative] is less than or equal to 0.30 + (0.0006 * the slope distance between the boundary points)."¶"Cadastral Survey Rules 2021: r 27(1)(ii)"
+|- The accuracy [relative] is less than or equal to 0.30 + (0.0006 * the slope distance between the boundary points)."¶"Cadastral Survey Rules 2021: r 27(1)(ii)
 Rule1344¶"Class B Boundary"¶"A boundary must be considered a class B boundary if the boundary is not any of the following:
 |- a class A boundary 
 |- a class C boundary
-|- a class D boundary."¶"Cadastral Survey Rules 2021: r 23; r 50"
+|- a class D boundary."¶"Cadastral Survey Rules 2021: r 23; r 50
 Rule1349¶"Class B Boundary Point"¶"A boundary point must be considered a class B boundary point if all of the following are true:
 |- the boundary point is not included in a class A boundary
-|- the boundary point is included in a class B boundary."¶"Cadastral Survey Rules 2021: r 23; r 26; r 50"
+|- the boundary point is included in a class B boundary."¶"Cadastral Survey Rules 2021: r 23; r 26; r 50
 Rule1363¶"Class B non-primary parcel boundary permitted inaccurate relationship to underlying parcel"¶"A non-primary parcel boundary may be inaccurately determined in a cadastral survey if no primary parcel that underlies that non-primary parcel is created by that cadastral survey and any of the following is true:
 |- the non-primary parcel boundary is a class B boundary
-|- the non-primary parcel boundary is a class A boundary and each boundary that defines a primary parcel that underlies that non-primary parcel is a class B boundary."¶"Cadastral Survey Rules 2021: r 51(1)(a)"
+|- the non-primary parcel boundary is a class A boundary and each boundary that defines a primary parcel that underlies that non-primary parcel is a class B boundary."¶"Cadastral Survey Rules 2021: r 51(1)(a)
 Rule1835¶"Class B non-primary parcel boundary required inaccurate relationship to underlying parcel 1"¶"A non-primary parcel boundary must be inaccurately determined in a cadastral survey if all of the following are true:
 |- no primary parcel that underlies that non-primary parcel is created by that cadastral survey
-|- no boundary that defines a primary parcel that underlies that non-primary parcel is an accurately defined boundary."¶"Cadastral Survey Rules 2021: r 51(1)(b)"
+|- no boundary that defines a primary parcel that underlies that non-primary parcel is an accurately defined boundary."¶"Cadastral Survey Rules 2021: r 51(1)(b)
 Rule1840¶"Class B non-primary parcel boundary required inaccurate relationship to underlying parcel 2"¶"A non-primary parcel boundary must be inaccurately determined in a cadastral survey if all of the following are true:
 |- a primary parcel that underlies that non-primary parcel is created by that cadastral survey
 |- the non-primary parcel boundary is not accurately determined to a class A boundary or class B boundary of the underlying parcel
-|- another non-primary parcel boundary intersects or another non-primary parcel boundary coincides with an accepted boundary of the underlying parcel."¶"Cadastral Survey Rules 2021: r 51(4); r 51(5)"
+|- another non-primary parcel boundary intersects or another non-primary parcel boundary coincides with an accepted boundary of the underlying parcel."¶"Cadastral Survey Rules 2021: r 51(4); r 51(5)
 Rule1133¶"Class C Accuracy"¶"An accuracy [relative] between a boundary point and another boundary point must be considered a class C accuracy only if all of the following are true:
 |- The accuracy [relative] is less than or equal to 1.00 + (0.003 * the horizontal distance between the boundary points)
-|- The accuracy [relative] is less than or equal to 1.00 + (0.003 * the slope distance between the boundary points)."¶"Cadastral Survey Rules 2021: r 27(1)(iii)"
+|- The accuracy [relative] is less than or equal to 1.00 + (0.003 * the slope distance between the boundary points)."¶"Cadastral Survey Rules 2021: r 27(1)(iii)
 Rule1345¶"Class C Boundary"¶"A primary parcel boundary must be considered a class C boundary if the boundary is an adopted boundary for which all of the following are true:
 |- the boundary defines a majority successor parcel or a new large rural parcel
-|- the accuracy [relative] between boundary points that are included in the boundary is not class B accuracy or the boundary defines a parcel that is included in a title that is to remain limited as to parcels or the boundary defines a parcel that is included in a title that is to remain a Hawkes Bay interim title."¶"Cadastral Survey Rules 2021: r 24"
+|- the accuracy [relative] between boundary points that are included in the boundary is not class B accuracy or the boundary defines a parcel that is included in a title that is to remain limited as to parcels or the boundary defines a parcel that is included in a title that is to remain a Hawkes Bay interim title."¶"Cadastral Survey Rules 2021: r 24
 Rule1337¶"Class C boundary for non-primary parcel 1"¶"A non-primary parcel boundary must be considered a class C boundary if any of the following is true:
 |- the boundary intersects with a boundary of a majority successor parcel
 |- the boundary coincides with a boundary of a majority successor parcel
 |- the boundary intersects with a boundary of a new large rural parcel
-|- the boundary coincides with a boundary of a new large rural parcel."¶"Cadastral Survey Rules 2021: r 52(1)"
-Rule1339¶"Class C boundary for non-primary parcel 2"¶"A non-primary parcel boundary must be considered a class C boundary if the boundary defines a covenant parcel."¶"Cadastral Survey Rules 2021: r 52(2)"
+|- the boundary coincides with a boundary of a new large rural parcel."¶"Cadastral Survey Rules 2021: r 52(1)
+Rule1339¶"Class C boundary for non-primary parcel 2"¶"A non-primary parcel boundary must be considered a class C boundary if the boundary defines a covenant parcel."¶"Cadastral Survey Rules 2021: r 52(2)
 Rule1338¶"Class C boundary for non-primary parcel 3"¶"A non-primary parcel boundary must be considered a class C boundary if all of the following are true:
 |- the boundary defines a new easement parcel
 |- no underlying parcel is created by the cadastral survey
-|- all underlying parcels are held in a single estate that has an area [quantity] greater than 100 ha."¶"Cadastral Survey Rules 2021: r 52(3)"
-Rule1285¶"Class C for common marine and coastal area"¶"A non-primary parcel boundary must be considered a class C boundary if the non-primary parcel is within the common marine and coastal area."¶"Cadastral Survey Rules 2021: r 66"
+|- all underlying parcels are held in a single estate that has an area [quantity] greater than 100 ha."¶"Cadastral Survey Rules 2021: r 52(3)
+Rule1285¶"Class C for common marine and coastal area"¶"A non-primary parcel boundary must be considered a class C boundary if the non-primary parcel is within the common marine and coastal area."¶"Cadastral Survey Rules 2021: r 66
 Rule1364¶"Class C non-primary parcel accuracy 1"¶"A non-primary parcel boundary may be inaccurately determined in a cadastral survey only if all of the following are true:
 |- the non-primary parcel is an easement parcel or covenant parcel
-|- the non-primary parcel boundary is a class C boundary."¶"Cadastral Survey Rules 2021: r 53(1)"
-Rule1347¶"Class D Boundary"¶"A boundary must be considered a class D boundary if the boundary is an accepted boundary."¶"Cadastral Survey Rules 2021: r 25"
+|- the non-primary parcel boundary is a class C boundary."¶"Cadastral Survey Rules 2021: r 53(1)
+Rule1347¶"Class D Boundary"¶"A boundary must be considered a class D boundary if the boundary is an accepted boundary."¶"Cadastral Survey Rules 2021: r 25
 Rule1351¶"Class D Boundary Point"¶"A boundary point must be considered a class D boundary point if all of the following are true:
 |- the boundary point is not included in a class A boundary
 |- the boundary point is not included in a class B boundary
 |- the boundary point is not included in a class C boundary
-|- the boundary point is included in a class D boundary."¶"Cadastral Survey Rules 2021: r 25; r 26"
-Rule1075¶"Complete CSD - movable marginal strip 1"¶"A parcel that is a movable marginal strip included in a CSD must be depicted on a title diagram as being contained within the underlying primary parcel of the movable marginal strip."¶"Cadastral Survey Rules 2021: r 99"
+|- the boundary point is included in a class D boundary."¶"Cadastral Survey Rules 2021: r 25; r 26
+Rule1075¶"Complete CSD - movable marginal strip 1"¶"A parcel that is a movable marginal strip included in a CSD must be depicted on a title diagram as being contained within the underlying primary parcel of the movable marginal strip."¶"Cadastral Survey Rules 2021: r 99
 Rule1239¶"Connection - horizontal datum 1"¶"A boundary point that is included in a boundary that defines a new primary parcel must be connected to a cadastral survey network mark that is less than and equal to 1,000m from the boundary point by a series of vectors that consists only of vectors that are adopted or measured if any of the following is true:
 |- the boundary point is a new boundary point
 |- the boundary point is a new boundary mark
-|- the boundary point is a old boundary mark."¶"Cadastral Survey Rules 2021: r 17(1)(a); r 17(2)"
+|- the boundary point is a old boundary mark."¶"Cadastral Survey Rules 2021: r 17(1)(a); r 17(2)
 Rule1123¶"Connection - horizontal datum 2"¶"A boundary point that is included in a boundary that defines a new primary parcel may be connected to only cadastral survey network marks that are more than 1,000m from the boundary point only if all of the following are true:
 |- there are no existing cadastral survey network marks that are less than or equal to 1,000m from the boundary point
 |- the boundary point is connected to the cadastral survey network marks by a series of vectors that consists only of vectors that are adopted or measured
-|- the boundary point is a new boundary point or a new boundary mark or a old boundary mark."¶"Cadastral Survey Rules 2021: r 17"
+|- the boundary point is a new boundary point or a new boundary mark or a old boundary mark."¶"Cadastral Survey Rules 2021: r 17
 Rule1107¶"Content of simple boundary reinstatement CSD"¶"A simple boundary reinstatement CSD must include all of the following:
 |- a record of survey 
 |- a survey report
 |- a dataset description that includes the survey purpose and the legal description of the parcel whose boundary is being reinstated
-|- a statement of certification."¶"Cadastral Survey Rules 2021: r 117"
-Rule1259¶"CSD number for unit title development"¶"A CSD for a unit title development that is to be deposited in substitution for a previously deposited CSD must retain the same CSD number as the previously deposited CSD."¶"Cadastral Survey Rules 2021: r 59"
+|- a statement of certification."¶"Cadastral Survey Rules 2021: r 117
+Rule1259¶"CSD number for unit title development"¶"A CSD for a unit title development that is to be deposited in substitution for a previously deposited CSD must retain the same CSD number as the previously deposited CSD."¶"Cadastral Survey Rules 2021: r 59
 Rule1497¶"Data compliance"¶"A CSD must comply with the cadastral survey rules when providing data about the following:
 |- a bearing
 |- a distance
 |- a reduced level
-|- an area [quantity]."¶"Cadastral Survey Rules 2021: r 74(3)"
-Rule1142¶"Definition of existing boundary point being marked"¶"An existing boundary point that has a new mark being placed at the boundary point must be defined by survey."¶"Cadastral Survey Rules 2021: r 13(d)"
+|- an area [quantity]."¶"Cadastral Survey Rules 2021: r 74(3)
+Rule1142¶"Definition of existing boundary point being marked"¶"An existing boundary point that has a new mark being placed at the boundary point must be defined by survey."¶"Cadastral Survey Rules 2021: r 13(d)
 Rule1143¶"Definition of existing boundary point required to be marked"¶"A boundary point that is included in an existing boundary that defines a new primary parcel must be defined by survey if any of the following are true:
 |- the boundary point is subject to conflict
 |- the boundary point is included in an existing boundary that is defined in an approved CSD where the definition of the existing boundary is insufficient for determining the compliance of the boundary with the applicable accuracy standard
@@ -189,169 +189,169 @@ Rule1143¶"Definition of existing boundary point required to be marked"¶"A boun
 |- the boundary point is included in an existing boundary of a parcel from which the interim nature of the Hawkes Bay interim title is being removed
 |- the boundary point is included in an existing boundary of a parcel that is subject to a claim for adverse possession
 |- the boundary point is recorded in a Maori land CSD that is annotated \"computed plan-areas and boundaries not defined by survey\"
-|- the boundary point was an unmarked boundary point that is included in a boundary defining a non-primary parcel."¶"Cadastral Survey Rules 2021: r 13(d); r 35(2)"
-Rule1140¶"Definition of new boundary point"¶"A new boundary point must be defined by survey."¶"Cadastral Survey Rules 2021: r 13(b)"
-Rule1139¶"Definition of new irregular boundary"¶"A new irregular boundary must be defined by survey."¶"Cadastral Survey Rules 2021: r 13(a)"
-Rule1137¶"Definition of new water boundary"¶"A new water boundary must be defined by survey."¶"Cadastral Survey Rules 2021: r 13(a)"
-Rule1141¶"Definition of right line boundary replacing irregular, water or water centreline boundary"¶"A new right-line boundary must be defined by survey if the right-line boundary converts a water or irregular boundary."¶"Cadastral Survey Rules 2021: r 13(c)"
-Rule1333¶"Derivation of acceptance of non-primary boundaries"¶"An existing non-primary parcel boundary must be considered an accepted boundary if the boundary is within a large rural parcel defined by accepted boundaries."¶"Cadastral Survey Rules 2021: r 54"
-Rule1489¶"Derivation of accurate relation of boundaries"¶"A boundary may be considered a boundary accurately related to another boundary only if the boundary consists of boundary points that are all accurately related to each boundary point that is included in the other boundary."¶"Cadastral Survey Rules 2021: r 27(4)"
-Rule1470¶"Derivation of accurately defined boundary"¶"A boundary must be considered a boundary that is accurately defined if each boundary point that is included in the boundary is an accurately defined boundary point."¶"Cadastral Survey Rules 2021: Part 4 subpart 2"
-Rule1830¶"Derivation of accurately determined non-primary parcel boundary"¶"A non-primary parcel boundary must be considered a non-primary parcel boundary that is accurately determined if at least two boundary points that is included in any non-primary parcel boundaries are each connected to different boundary points that is included in boundaries defining any primary parcel that underlies the non-primary parcel."¶"Cadastral Survey Rules 2021: Inferred from r 89(g)(i)"
+|- the boundary point was an unmarked boundary point that is included in a boundary defining a non-primary parcel."¶"Cadastral Survey Rules 2021: r 13(d); r 35(2)
+Rule1140¶"Definition of new boundary point"¶"A new boundary point must be defined by survey."¶"Cadastral Survey Rules 2021: r 13(b)
+Rule1139¶"Definition of new irregular boundary"¶"A new irregular boundary must be defined by survey."¶"Cadastral Survey Rules 2021: r 13(a)
+Rule1137¶"Definition of new water boundary"¶"A new water boundary must be defined by survey."¶"Cadastral Survey Rules 2021: r 13(a)
+Rule1141¶"Definition of right line boundary replacing irregular, water or water centreline boundary"¶"A new right-line boundary must be defined by survey if the right-line boundary converts a water or irregular boundary."¶"Cadastral Survey Rules 2021: r 13(c)
+Rule1333¶"Derivation of acceptance of non-primary boundaries"¶"An existing non-primary parcel boundary must be considered an accepted boundary if the boundary is within a large rural parcel defined by accepted boundaries."¶"Cadastral Survey Rules 2021: r 54
+Rule1489¶"Derivation of accurate relation of boundaries"¶"A boundary may be considered a boundary accurately related to another boundary only if the boundary consists of boundary points that are all accurately related to each boundary point that is included in the other boundary."¶"Cadastral Survey Rules 2021: r 27(4)
+Rule1470¶"Derivation of accurately defined boundary"¶"A boundary must be considered a boundary that is accurately defined if each boundary point that is included in the boundary is an accurately defined boundary point."¶"Cadastral Survey Rules 2021: Part 4 subpart 2
+Rule1830¶"Derivation of accurately determined non-primary parcel boundary"¶"A non-primary parcel boundary must be considered a non-primary parcel boundary that is accurately determined if at least two boundary points that is included in any non-primary parcel boundaries are each connected to different boundary points that is included in boundaries defining any primary parcel that underlies the non-primary parcel."¶"Cadastral Survey Rules 2021: Inferred from r 89(g)(i)
 Rule1144¶"Derivation of affected by ground movement"¶"A boundary must be considered to be affected by ground movement if all of the following are true:
 |- ground movement has distorted land crossed by the boundary in excess of the tolerance for the accuracy class relevant to the boundary
-|- the boundary has not been subsequently defined by survey and recorded in an approved CSD."¶"Cadastral Survey Rules 2021: r 108; Sch 2, definition of \"affected boundary\""
+|- the boundary has not been subsequently defined by survey and recorded in an approved CSD."¶"Cadastral Survey Rules 2021: r 108; Sch 2, definition of \"affected boundary\"
 Rule1503¶"Derivation of boundary defined by survey"¶"A boundary must be considered a boundary that is defined by survey if a cadastral surveyor performs all of the following:
 |- gathers all evidence relevant to the definition of the boundary
 |- interprets that evidence in accordance with all relevant enactments and rules of law
-|- uses that evidence to determine the correct position of the boundary in relation to other boundaries."¶"Cadastral Survey Rules 2021: r 6; https://jira.linz.govt.nz/browse/BRC-160"
+|- uses that evidence to determine the correct position of the boundary in relation to other boundaries."¶"Cadastral Survey Rules 2021: r 6; https://jira.linz.govt.nz/browse/BRC-160
 Rule1838¶"Derivation of boundary point defined by survey"¶"A boundary point must be considered a boundary point that is defined by survey if a cadastral surveyor performs all of the following:
 |- gathers all evidence relevant to the definition of the boundary point
 |- interprets that evidence in accordance with all relevant enactments and rules of law
-|- uses that evidence to determine the correct position of the boundary point in relation to other boundary points."¶"Cadastral Survey Rules 2021: r 6; https://jira.linz.govt.nz/browse/BRC-160"
-Rule1379¶"Derivation of boundary point is subject to conflict"¶"A boundary point must be considered a boundary point subject to conflict if the boundary point is included in a boundary subject to conflict."¶"Cadastral Survey Rules 2021: sch 2, definition of \"conflict\""
-Rule1465¶"Derivation of class A accurate relation of boundary points"¶"A class A boundary point must be considered a boundary point accurately related to another class A boundary point only if the accuracy [relative] between the boundary points is class A accuracy."¶"Cadastral Survey Rules 2021: r 22(1); r 22(2); r 27(1); r 27(2); r 27(3); r 27(4)"
+|- uses that evidence to determine the correct position of the boundary point in relation to other boundary points."¶"Cadastral Survey Rules 2021: r 6; https://jira.linz.govt.nz/browse/BRC-160
+Rule1379¶"Derivation of boundary point is subject to conflict"¶"A boundary point must be considered a boundary point subject to conflict if the boundary point is included in a boundary subject to conflict."¶"Cadastral Survey Rules 2021: sch 2, definition of \"conflict\"
+Rule1465¶"Derivation of class A accurate relation of boundary points"¶"A class A boundary point must be considered a boundary point accurately related to another class A boundary point only if the accuracy [relative] between the boundary points is class A accuracy."¶"Cadastral Survey Rules 2021: r 22(1); r 22(2); r 27(1); r 27(2); r 27(3); r 27(4)
 Rule1378¶"Derivation of class A boundary is subject to accuracy conflict with estate boundary"¶"A class A boundary that is recorded in an approved CSD must be considered a boundary subject to conflict if all of the following are true:
 |- the accuracy [relative] between a boundary point that is included in the boundary and another boundary point that is included in an estate boundary that coincides with the boundary is not class A accuracy
-|- the conflict is not resolved in another approved CSD."¶"Cadastral Survey Rules 2021: sch 2, definition of \"conflict\" (a)(i), (b)"
+|- the conflict is not resolved in another approved CSD."¶"Cadastral Survey Rules 2021: sch 2, definition of \"conflict\" (a)(i), (b)
 Rule1430¶"Derivation of class A boundary is subject to position conflict with estate boundary"¶"A class A boundary recorded in an approved CSD must be considered a boundary subject to conflict if all of the following are true:
 |- the accuracy [relative] between boundary points that are included in the boundary is not class A when other approved CSDs that record the boundary are taken into consideration
-|- the conflict is not resolved in another approved CSD."¶"Cadastral Survey Rules 2021: sch 2, definition of \"conflict\" (a)(i), (b)"
+|- the conflict is not resolved in another approved CSD."¶"Cadastral Survey Rules 2021: sch 2, definition of \"conflict\" (a)(i), (b)
 Rule1466¶"Derivation of class B accurate relation of boundary points"¶"A class B boundary point must be considered a boundary point accurately related to another boundary point only if the accuracy [relative] between the boundary points is class B accuracy when the other boundary point is any of:
 |- a class A boundary point
-|- a class B boundary point."¶"Cadastral Survey Rules 2021: r 23; r 27(1); r 27(2); r 27(3); r 27(4)"
+|- a class B boundary point."¶"Cadastral Survey Rules 2021: r 23; r 27(1); r 27(2); r 27(3); r 27(4)
 Rule1422¶"Derivation of class B boundary is subject to conflict with estate boundary"¶"A class B boundary must be considered a boundary subject to conflict if all of the following are true:
 |- the boundary is an existing boundary
-|- the accuracy [relative] between a boundary point that is included in the boundary and a boundary point that is included in an estate boundary that coincides with the boundary is not class B."¶"Cadastral Survey Rules 2021: sch 2, definition of \"conflict\" (a)(i), (b)"
+|- the accuracy [relative] between a boundary point that is included in the boundary and a boundary point that is included in an estate boundary that coincides with the boundary is not class B."¶"Cadastral Survey Rules 2021: sch 2, definition of \"conflict\" (a)(i), (b)
 Rule1467¶"Derivation of class C accurate relation of boundary points"¶"A class C boundary point must be considered a boundary point accurately related to another boundary point only if the accuracy [relative] between the boundary points is class C accuracy when the other boundary point is any of:
 |- a class A boundary point
 |- a class B boundary point
-|- a class C boundary point."¶"Cadastral Survey Rules 2021: r 24; r 27(1); r 27(2); r 27(3); r 27(4)"
+|- a class C boundary point."¶"Cadastral Survey Rules 2021: r 24; r 27(1); r 27(2); r 27(3); r 27(4)
 Rule1421¶"Derivation of class C boundary is subject to conflict with estate boundary"¶"A class C boundary must be considered a boundary subject to conflict if all of the following are true:
 |- the boundary is an existing boundary
-|- the accuracy [relative] between a boundary point that is included in the boundary and a boundary point that is included in an estate boundary that coincides with the boundary is not class C."¶"Cadastral Survey Rules 2021: sch 2, definition of \"conflict\" (a)(i), (b)"
+|- the accuracy [relative] between a boundary point that is included in the boundary and a boundary point that is included in an estate boundary that coincides with the boundary is not class C."¶"Cadastral Survey Rules 2021: sch 2, definition of \"conflict\" (a)(i), (b)
 Rule1350¶"Derivation of Class C Boundary Point"¶"A boundary point must be considered a class C boundary point if all of the following are true:
 |- the boundary point is not included in a class A boundary
 |- the boundary point is not included in a class B boundary
-|- the boundary point is included in a class C boundary."¶"Cadastral Survey Rules 2021: r 24; r 26"
-Rule1468¶"Derivation of class D accurate relation of boundary points"¶"A class D boundary point must be considered a boundary point accurately related to another boundary point only if the accuracy [relative] between the boundary points is class D accuracy."¶"Cadastral Survey Rules 2021: r 25; r 27(1); r 27(2); r 27(3); r 27(4)"
+|- the boundary point is included in a class C boundary."¶"Cadastral Survey Rules 2021: r 24; r 26
+Rule1468¶"Derivation of class D accurate relation of boundary points"¶"A class D boundary point must be considered a boundary point accurately related to another boundary point only if the accuracy [relative] between the boundary points is class D accuracy."¶"Cadastral Survey Rules 2021: r 25; r 27(1); r 27(2); r 27(3); r 27(4)
 Rule1423¶"Derivation of class D boundary is subject to conflict with estate boundary"¶"A class D boundary must be considered a boundary subject to conflict if all of the following are true:
 |- the boundary is an existing boundary
-|- the accuracy [relative] between a boundary point that is included in the boundary and a boundary point that is included in an estate boundary that coincides with the boundary is not class D."¶"Cadastral Survey Rules 2021: sch 2, definition of \"conflict\" (a)(i), (b)"
-Rule1003¶"Derivation of Complete CSD 1"¶"A CSD must be considered a complete CSD only if the CSD consists of a record of survey."¶"Cadastral Survey Rules 2021: r 71(a)"
-Rule1004¶"Derivation of Complete CSD 2"¶"A CSD for a cadastral survey that creates a parcel must be considered a complete CSD only if the CSD consists of a title plan."¶"Cadastral Survey Rules 2021: r 71(b)"
-Rule1092¶"Derivation of Complete CSD 3"¶"A CSD must be considered a complete CSD only if the CSD consists of a dataset description."¶"Cadastral Survey Rules 2021: r 71(c)"
-Rule1096¶"Derivation of Complete CSD 4"¶"A CSD must be considered a complete CSD only if the CSD consists of a survey report."¶"Cadastral Survey Rules 2021: r 71(d)"
-Rule1429¶"Derivation of Complete CSD 5"¶"A CSD must be considered a complete CSD only if the CSD consists of all relevant field information related to that CSD in a form that ensures permanent usability."¶"Cadastral Survey Rules 2021: r 71(e)"
-Rule1097¶"Derivation of Complete CSD 6"¶"A CSD must be considered a complete CSD only if the CSD includes an accurate record of the position of each new water boundary that is in that CSD."¶"Cadastral Survey Rules 2021: r 71(f)"
-Rule1493¶"Derivation of Complete CSD 7"¶"A CSD must be considered a complete CSD only if the CSD includes a certification of survey plan approval if the CSD is for a Crown subdivision."¶"Cadastral Survey Rules 2021: r 72(b)"
-Rule1093¶"Derivation of dataset description 1"¶"A dataset description included in a CSD must have a parcel ID for each primary parcel that is created by the cadastral survey."¶"Cadastral Survey Rules 2021: r 71(c)(i)"
-Rule1094¶"Derivation of dataset description 2"¶"A dataset description included in a CSD must have the survey purpose if the CSD is a land transfer CSD."¶"Cadastral Survey Rules 2021: r 71(c)(ii)"
-Rule1095¶"Derivation of dataset description 3"¶"A dataset description included in a CSD must have a parcel ID for each underlying parcel in that CSD if the CSD is a land transfer CSD."¶"Cadastral Survey Rules 2021: r 71(c)(iii)"
+|- the accuracy [relative] between a boundary point that is included in the boundary and a boundary point that is included in an estate boundary that coincides with the boundary is not class D."¶"Cadastral Survey Rules 2021: sch 2, definition of \"conflict\" (a)(i), (b)
+Rule1003¶"Derivation of Complete CSD 1"¶"A CSD must be considered a complete CSD only if the CSD consists of a record of survey."¶"Cadastral Survey Rules 2021: r 71(a)
+Rule1004¶"Derivation of Complete CSD 2"¶"A CSD for a cadastral survey that creates a parcel must be considered a complete CSD only if the CSD consists of a title plan."¶"Cadastral Survey Rules 2021: r 71(b)
+Rule1092¶"Derivation of Complete CSD 3"¶"A CSD must be considered a complete CSD only if the CSD consists of a dataset description."¶"Cadastral Survey Rules 2021: r 71(c)
+Rule1096¶"Derivation of Complete CSD 4"¶"A CSD must be considered a complete CSD only if the CSD consists of a survey report."¶"Cadastral Survey Rules 2021: r 71(d)
+Rule1429¶"Derivation of Complete CSD 5"¶"A CSD must be considered a complete CSD only if the CSD consists of all relevant field information related to that CSD in a form that ensures permanent usability."¶"Cadastral Survey Rules 2021: r 71(e)
+Rule1097¶"Derivation of Complete CSD 6"¶"A CSD must be considered a complete CSD only if the CSD includes an accurate record of the position of each new water boundary that is in that CSD."¶"Cadastral Survey Rules 2021: r 71(f)
+Rule1493¶"Derivation of Complete CSD 7"¶"A CSD must be considered a complete CSD only if the CSD includes a certification of survey plan approval if the CSD is for a Crown subdivision."¶"Cadastral Survey Rules 2021: r 72(b)
+Rule1093¶"Derivation of dataset description 1"¶"A dataset description included in a CSD must have a parcel ID for each primary parcel that is created by the cadastral survey."¶"Cadastral Survey Rules 2021: r 71(c)(i)
+Rule1094¶"Derivation of dataset description 2"¶"A dataset description included in a CSD must have the survey purpose if the CSD is a land transfer CSD."¶"Cadastral Survey Rules 2021: r 71(c)(ii)
+Rule1095¶"Derivation of dataset description 3"¶"A dataset description included in a CSD must have a parcel ID for each underlying parcel in that CSD if the CSD is a land transfer CSD."¶"Cadastral Survey Rules 2021: r 71(c)(iii)
 Rule1172¶"Derivation of extinguished parcel"¶"An existing parcel must be considered an extinguished parcel if any of the following is true:
 |- the existing parcel has been replaced by at least one new parcel
-|- the existing parcel has expired."¶"Survey Knowledge Portal: Parcel Actions; https://confluence.linz.govt.nz/display/public/OP/Parcel+Actions"
+|- the existing parcel has expired."¶"Survey Knowledge Portal: Parcel Actions; https://confluence.linz.govt.nz/display/public/OP/Parcel+Actions
 Rule1831¶"Derivation of inaccurately determined class B non-primary parcel boundary"¶"A class B boundary for a non-primary parcel must be considered a non-primary parcel boundary that is inaccurately determined if all of the following are true:
 |- none of the boundary points that is included in any of the non-primary parcel boundaries is connected to a boundary point that is included in a boundary defining a primary parcel that underlies the non-primary parcel
-|- two or more boundary points that is included in any of the non-primary parcel boundaries are connected to two or more permanent reference marks."¶"Cadastral Survey Rules 2021: Inferred from r 51(2)(e); Inferred from r 51(2)(f); Inferred from r 89(g)(i)"
+|- two or more boundary points that is included in any of the non-primary parcel boundaries are connected to two or more permanent reference marks."¶"Cadastral Survey Rules 2021: Inferred from r 51(2)(e); Inferred from r 51(2)(f); Inferred from r 89(g)(i)
 Rule1836¶"Derivation of inaccurately determined class C non-primary parcel boundary"¶"A class C boundary for a non-primary parcel must be considered a non-primary parcel boundary that is inaccurately determined if all of the following are true:
 |- none of the boundary points that is included in any of the non-primary parcel boundaries is connected to a boundary point that is included in a boundary defining a primary parcel that underlies the non-primary parcel
-|- two or more boundary points that is included in any of the non-primary parcel boundaries are connected to two or more cadastral survey network marks."¶"Cadastral Survey Rules 2021: Inferred from r 53(2)(c); Inferred from r 89(g)(i)"
-Rule1839¶"Derivation of point connected to point"¶"A point must be considered a point connected to another point only if at least one series of vectors connects the point and the other point."¶"Inferred from Cadastral Survey Rules 2021"
-Rule1405¶"Derivation of referenced boundary mark"¶"A boundary mark must be considered a referenced boundary mark if the boundary mark is included in a boundary that defines a parcel being surveyed."¶"Cadastral Survey Rules 2021: r 31(b)"
+|- two or more boundary points that is included in any of the non-primary parcel boundaries are connected to two or more cadastral survey network marks."¶"Cadastral Survey Rules 2021: Inferred from r 53(2)(c); Inferred from r 89(g)(i)
+Rule1839¶"Derivation of point connected to point"¶"A point must be considered a point connected to another point only if at least one series of vectors connects the point and the other point."¶"Inferred from Cadastral Survey Rules 2021
+Rule1405¶"Derivation of referenced boundary mark"¶"A boundary mark must be considered a referenced boundary mark if the boundary mark is included in a boundary that defines a parcel being surveyed."¶"Cadastral Survey Rules 2021: r 31(b)
 Rule1404¶"Derivation of referenced boundary point"¶"A boundary point must be considered a referenced boundary point if all of the following are true:
 |- the boundary point is defined by survey 
-|- the boundary point is included in a primary parcel boundary that is not a water or irregular boundary."¶"Cadastral Survey Rules 2021: r 31(a)"
-Rule1495¶"Derivation of referenced by"¶"A point must be considered a point referenced by a permanent reference mark only if at least one series of vectors connects the point and the permanent reference mark."¶"Inferred from Cadastral Survey Rules 2021: https://jira.linz.govt.nz/browse/BRC-173"
-Rule1406¶"Derivation of referenced height-limited boundary point"¶"A new boundary point must be considered a referenced height-limited boundary point if the boundary point is included in a height limited boundary that defines a primary parcel."¶"Cadastral Survey Rules 2021: r 31(c)"
-Rule1435¶"Derivation of right area non-primary parcel"¶"Only a right area that is in the common marine and coastal area may be a right area that is a category of non-primary parcel"¶"Cadastral Survey Rules 2021: sch 2, definition of \"Non-primary parcel\""
-Rule1837¶"Derivation rule for parcel defined by boundary"¶"A parcel must be considered a parcel defined by a boundary if the boundary is one of the boundaries enclosing the space occupied by the parcel."¶"Cadastral Survey Rules 2021: Part 5 subpart 2"
-Rule1332¶"Derivation Rule: Boundary coincides boundary"¶"A boundary must be considered a boundary coincident with another boundary if the boundary is intended to lie exactly on top of the other boundary."¶"Cadastral Survey Rules 2021: r 100(b); r 101(e); r 105(2)(c); r 110(2); r 110(6); r 111(1); r 35(1)(g); r 46(3); r 46(4); r 51(2)(a); r 51(4); r 52(1); r 53(2)(a); r 61(3); r 67; r 85(b); r 89(f)(i)"
-Rule1354¶"Derivation Rule: Boundary intersects boundary"¶"A boundary must be considered a boundary that intersects another boundary if the boundaries consist of the same boundary point."¶"Cadastral Survey Rules 2021: r 110(2); r 110(6); r 111(1); r 30; r 51(2)(a); r 51(4); r 52(1); r 53(2)(a); r 68(2); r 69(1); r 69(2)"
+|- the boundary point is included in a primary parcel boundary that is not a water or irregular boundary."¶"Cadastral Survey Rules 2021: r 31(a)
+Rule1495¶"Derivation of referenced by"¶"A point must be considered a point referenced by a permanent reference mark only if at least one series of vectors connects the point and the permanent reference mark."¶"Inferred from Cadastral Survey Rules 2021: https://jira.linz.govt.nz/browse/BRC-173
+Rule1406¶"Derivation of referenced height-limited boundary point"¶"A new boundary point must be considered a referenced height-limited boundary point if the boundary point is included in a height limited boundary that defines a primary parcel."¶"Cadastral Survey Rules 2021: r 31(c)
+Rule1435¶"Derivation of right area non-primary parcel"¶"Only a right area that is in the common marine and coastal area may be a right area that is a category of non-primary parcel"¶"Cadastral Survey Rules 2021: sch 2, definition of \"Non-primary parcel\"
+Rule1837¶"Derivation rule for parcel defined by boundary"¶"A parcel must be considered a parcel defined by a boundary if the boundary is one of the boundaries enclosing the space occupied by the parcel."¶"Cadastral Survey Rules 2021: Part 5 subpart 2
+Rule1332¶"Derivation Rule: Boundary coincides boundary"¶"A boundary must be considered a boundary coincident with another boundary if the boundary is intended to lie exactly on top of the other boundary."¶"Cadastral Survey Rules 2021: r 100(b); r 101(e); r 105(2)(c); r 110(2); r 110(6); r 111(1); r 35(1)(g); r 46(3); r 46(4); r 51(2)(a); r 51(4); r 52(1); r 53(2)(a); r 61(3); r 67; r 85(b); r 89(f)(i)
+Rule1354¶"Derivation Rule: Boundary intersects boundary"¶"A boundary must be considered a boundary that intersects another boundary if the boundaries consist of the same boundary point."¶"Cadastral Survey Rules 2021: r 110(2); r 110(6); r 111(1); r 30; r 51(2)(a); r 51(4); r 52(1); r 53(2)(a); r 68(2); r 69(1); r 69(2)
 Rule1399¶"Destroyed or not found survey mark"¶"A record of survey must identify whether a survey mark is any of the following:
 |- searched for and not found
-|- destroyed."¶"Cadastral Survey Rules 2021: r 80(7)"
-Rule1243¶"Disturbed boundary mark removed 1"¶"A disturbed survey mark may be driven below the surface if the survey mark is categorized only as a boundary mark."¶"Cadastral Survey Rules 2021: r 37(1)"
-Rule1027¶"Disturbed boundary mark removed 2"¶"A disturbed survey mark may be removed if the survey mark is categorized only as a boundary mark."¶"Cadastral Survey Rules 2021: r 37(1)"
-Rule1297¶"Disturbed survey mark"¶"A survey mark must be considered a new survey mark the same survey mark type as the old survey mark if the survey mark is a disturbed survey mark."¶"Cadastral Survey Rules 2021: r 37(3)"
+|- destroyed."¶"Cadastral Survey Rules 2021: r 80(7)
+Rule1243¶"Disturbed boundary mark removed 1"¶"A disturbed survey mark may be driven below the surface if the survey mark is categorized only as a boundary mark."¶"Cadastral Survey Rules 2021: r 37(1)
+Rule1027¶"Disturbed boundary mark removed 2"¶"A disturbed survey mark may be removed if the survey mark is categorized only as a boundary mark."¶"Cadastral Survey Rules 2021: r 37(1)
+Rule1297¶"Disturbed survey mark"¶"A survey mark must be considered a new survey mark the same survey mark type as the old survey mark if the survey mark is a disturbed survey mark."¶"Cadastral Survey Rules 2021: r 37(3)
 Rule1376¶"Easement or covenant accuracy between boundary point and adopted CSNM"¶"The accuracy [relative] between a boundary point that is included in a non-primary parcel boundary and an adopted cadastral survey network mark must not exceed 0.60 m horizontal if all of the following are true:
 |- the boundary point is not a class D boundary point
 |- the non-primary parcel is an easement parcel or a covenant parcel
-|- the non-primary parcel boundary is inaccurately determined."¶"Cadastral Survey Rules 2021: r 53(2)(f)"
+|- the non-primary parcel boundary is inaccurately determined."¶"Cadastral Survey Rules 2021: r 53(2)(f)
 Rule1375¶"Easement or covenant connected by vectors to CSNM"¶"A boundary point that is included in a non-primary parcel boundary must be connected to a cadastral survey network mark if all of the following are true:
 |- the boundary point is not a class D boundary point
 |- the non-primary parcel is an easement parcel or a covenant parcel
-|- the non-primary parcel boundary is inaccurately determined."¶"Cadastral Survey Rules 2021: r 53(2)(e)"
-Rule1038¶"Existing boundary defining new large rural parcel being accepted"¶"An existing boundary that defines a new large rural parcel may be an accepted boundary only if any other new parcel defined by the boundary is a new large rural parcel."¶"Cadastral Survey Rules 2021: r 15(4)"
+|- the non-primary parcel boundary is inaccurately determined."¶"Cadastral Survey Rules 2021: r 53(2)(e)
+Rule1038¶"Existing boundary defining new large rural parcel being accepted"¶"An existing boundary that defines a new large rural parcel may be an accepted boundary only if any other new parcel defined by the boundary is a new large rural parcel."¶"Cadastral Survey Rules 2021: r 15(4)
 Rule1061¶"Existing irregular boundary on a new primary parcel"¶"A new primary parcel may be defined by an existing irregular boundary only if any of the following are true:
 |- the irregular boundary is an accepted boundary
 |- the primary parcel is a majority successor parcel
 |- the primary parcel is a large rural parcel
-|- the irregular boundary was previously a water boundary."¶"Cadastral Survey Rules 2021: r 9(3)"
-Rule1352¶"Existing irregular boundary on a parcel"¶"An existing irregular boundary that defines a new primary parcel must be converted to right-line boundaries."¶"Cadastral Survey Rules 2021: r 9(3)"
-Rule1308¶"Existing survey mark name"¶"The mark name of an existing survey mark that is not unique in a CSD may be made unique only by adding a unique numeric identifier within round brackets before the CSD number."¶"Cadastral Survey Rules 2021: r 80(3)"
+|- the irregular boundary was previously a water boundary."¶"Cadastral Survey Rules 2021: r 9(3)
+Rule1352¶"Existing irregular boundary on a parcel"¶"An existing irregular boundary that defines a new primary parcel must be converted to right-line boundaries."¶"Cadastral Survey Rules 2021: r 9(3)
+Rule1308¶"Existing survey mark name"¶"The mark name of an existing survey mark that is not unique in a CSD may be made unique only by adding a unique numeric identifier within round brackets before the CSD number."¶"Cadastral Survey Rules 2021: r 80(3)
 Rule1257¶"Existing unit and lease boundaries accepted"¶"The boundaries of an existing unit parcel may be accepted only if all of the following are true:
 |- the existing parcel is included in an approved CSD
 |- no change is made to any parcel boundary
-|- no change is made to the record of title of the parcel."¶"Cadastral Survey Rules 2021: r 58(1); r 58(2)"
+|- no change is made to the record of title of the parcel."¶"Cadastral Survey Rules 2021: r 58(1); r 58(2)
 Rule1266¶"Existing unit and lease boundaries accepted 2"¶"The boundaries of an existing company lease parcel may be accepted only if all of the following are true:
 |- the existing parcel is included in an approved CSD
 |- no change is made to any parcel boundary
-|- no change is made to the record of title of the parcel."¶"Cadastral Survey Rules 2021: r 58(1); r 58(2)"
+|- no change is made to the record of title of the parcel."¶"Cadastral Survey Rules 2021: r 58(1); r 58(2)
 Rule1267¶"Existing unit and lease boundaries accepted 3"¶"The boundaries of an existing cross lease parcel may be accepted only if all of the following are true:
 |- the existing parcel is included in an approved CSD
 |- no change is made to any parcel boundary
-|- no change is made to the record of title of the parcel."¶"Cadastral Survey Rules 2021: r 58(1); r 58(2)"
+|- no change is made to the record of title of the parcel."¶"Cadastral Survey Rules 2021: r 58(1); r 58(2)
 Rule1258¶"Existing unit and lease boundary parcel appellation"¶"The existing parcel appellation of all of the following must be retained if the boundaries of the parcel are accepted:
 |- an existing unit parcel
 |- an existing company lease parcel 
-|- an existing cross lease parcel."¶"Cadastral Survey Rules 2021: r 58(3)"
-Rule1102¶"Font size for text"¶"The font size for an appellation and area must be significantly larger than the font size used for vectors, dimensions, descriptions, and survey mark information."¶"Cadastral Survey Rules 2021: sch 7(4)"
-Rule1065¶"Former water boundary"¶"An existing water boundary for which the margin of the water body has moved by processes other than accretion or erosion must be adopted as an irregular boundary or converted to one or more right-line boundaries."¶"Cadastral Survey Rules 2021: r 10(3)"
-Rule1071¶"Height limited boundary 1"¶"A height limited boundary must be a surface that is mathematically described if any boundary point that is included in the boundary has a reduced level."¶"Cadastral Survey Rules 2021: r 12(2)(a)"
-Rule1074¶"Height limited boundary 2"¶"A height limited boundary must be a surface of a water body or the bed of a water body if no boundary point that is included in the boundary has a reduced level."¶"Cadastral Survey Rules 2021: r 12(2)(b)"
-Rule1249¶"Height limited boundary point referenced to PRM"¶"A referenced height-limited boundary point must be referenced by a permanent reference mark that has a reduced level."¶"Cadastral Survey Rules 2021: r 31(c); r 34"
-Rule1280¶"Height limited boundary points on unit development"¶"The reduced levels in a unit title development must be expressed in terms of the previously deposited CSD for that unit title development."¶"Cadastral Survey Rules 2021: r 62(1)"
+|- an existing cross lease parcel."¶"Cadastral Survey Rules 2021: r 58(3)
+Rule1102¶"Font size for text"¶"The font size for an appellation and area must be significantly larger than the font size used for vectors, dimensions, descriptions, and survey mark information."¶"Cadastral Survey Rules 2021: sch 7(4)
+Rule1065¶"Former water boundary"¶"An existing water boundary for which the margin of the water body has moved by processes other than accretion or erosion must be adopted as an irregular boundary or converted to one or more right-line boundaries."¶"Cadastral Survey Rules 2021: r 10(3)
+Rule1071¶"Height limited boundary 1"¶"A height limited boundary must be a surface that is mathematically described if any boundary point that is included in the boundary has a reduced level."¶"Cadastral Survey Rules 2021: r 12(2)(a)
+Rule1074¶"Height limited boundary 2"¶"A height limited boundary must be a surface of a water body or the bed of a water body if no boundary point that is included in the boundary has a reduced level."¶"Cadastral Survey Rules 2021: r 12(2)(b)
+Rule1249¶"Height limited boundary point referenced to PRM"¶"A referenced height-limited boundary point must be referenced by a permanent reference mark that has a reduced level."¶"Cadastral Survey Rules 2021: r 31(c); r 34
+Rule1280¶"Height limited boundary points on unit development"¶"The reduced levels in a unit title development must be expressed in terms of the previously deposited CSD for that unit title development."¶"Cadastral Survey Rules 2021: r 62(1)
 Rule1281¶"Height limited boundary points on unit development 2"¶"A vertical control mark that is less than or equal to 1,000 m from a new height limited boundary point in a unit title development must be provided with a reduced level in terms of the unit title development if all of the following are true:
 |- there is at least one vertical control mark less than or equal to 1,000 m from the boundary point
-|- an unofficial datum is used in a cadastral survey for the unit title development."¶"Cadastral Survey Rules 2021: r 62(2)"
+|- an unofficial datum is used in a cadastral survey for the unit title development."¶"Cadastral Survey Rules 2021: r 62(2)
 Rule1293¶"Height limited boundary points on unit development 3"¶"A vertical control mark that is more than 1,000 m from a new height limited boundary point in a unit title development must be provided with a reduced level in terms of a unit title development if all of the following are true:
 |- there are no vertical control marks that are less than or equal to 1,000 m from the boundary point
-|- an unofficial datum is used in a cadastral survey for the unit title development."¶"Cadastral Survey Rules 2021: r 62(2)"
-Rule1125¶"Horizontal accuracy between adopted Cadastral Survey Network Mark and non-boundary mark 1"¶"The accuracy [relative] between an adopted cadastral survey network mark and each non-boundary mark must not exceed 0.025 + (0.00015 * the horizontal distance between the adopted cadastral survey network mark and the non-boundary mark)."¶"Cadastral Survey Rules 2021: r 20(1)"
-Rule1127¶"Horizontal accuracy between adopted Cadastral Survey Network Mark and non-boundary mark 2"¶"The accuracy [relative] between an adopted cadastral survey network mark and each non-boundary mark must not exceed 0.2 m horizontal."¶"Cadastral Survey Rules 2021: r 20(1)"
-Rule1126¶"Horizontal accuracy between non-boundary marks 1"¶"The accuracy [relative] between a non-boundary mark and each other non-boundary mark must not exceed 0.025 + (0.00005 * the horizontal distance between the non-boundary marks)."¶"Cadastral Survey Rules 2021: r 19(1)"
-Rule1302¶"Horizontal accuracy between non-boundary marks 2"¶"The accuracy [relative] between a non-boundary mark and each other non-boundary mark must not exceed 0.2 m horizontal."¶"Cadastral Survey Rules 2021: r 19(1)"
-Rule1407¶"Horizontal Class A accuracy of boundary referencing"¶"A class A boundary point that is a referenced point must be considered an accurately defined boundary point only if the accuracy [relative] between the class A boundary point and each non-boundary mark that is less than or equal to 150 m from the class A boundary point does not exceed 0.03 m horizontal."¶"Cadastral Survey Rules 2021: r 21"
-Rule1409¶"Horizontal Class B accuracy of boundary referencing"¶"A class B boundary point that is a referenced point must be considered an accurately defined boundary point only if the accuracy [relative] between the class B boundary point and each non-boundary mark that is less than or equal to 500 m from the class B boundary point does not exceed 0.20 m horizontal."¶"Cadastral Survey Rules 2021: r 21"
-Rule1411¶"Horizontal Class C accuracy of boundary referencing"¶"A class C boundary point that is a referenced point must be considered an accurately defined boundary point only if the accuracy [relative] between the class C boundary point and each non-boundary mark that is less than or equal to 1000 m from the class C boundary point does not exceed 0.60 m horizontal."¶"Cadastral Survey Rules 2021: r 21"
-Rule1483¶"Horizontal connection for non-primary parcels over water 1"¶"A boundary point that is included in a non-primary parcel boundary must be connected by at least one vector to a cadastral survey network mark if the underlying parcel is a common marine and coastal area."¶"Cadastral Survey Rules 2021: r 70(2)"
-Rule1484¶"Horizontal connection for non-primary parcels over water 2"¶"An accuracy [relative] between a boundary point that is included in a non-primary parcel boundary and an adopted cadastral survey network mark must not exceed 0.60 m horizontal if the underlying parcel is a common marine and coastal area."¶"Cadastral Survey Rules 2021: r 70(2)"
+|- an unofficial datum is used in a cadastral survey for the unit title development."¶"Cadastral Survey Rules 2021: r 62(2)
+Rule1125¶"Horizontal accuracy between adopted Cadastral Survey Network Mark and non-boundary mark 1"¶"The accuracy [relative] between an adopted cadastral survey network mark and each non-boundary mark must not exceed 0.025 + (0.00015 * the horizontal distance between the adopted cadastral survey network mark and the non-boundary mark)."¶"Cadastral Survey Rules 2021: r 20(1)
+Rule1127¶"Horizontal accuracy between adopted Cadastral Survey Network Mark and non-boundary mark 2"¶"The accuracy [relative] between an adopted cadastral survey network mark and each non-boundary mark must not exceed 0.2 m horizontal."¶"Cadastral Survey Rules 2021: r 20(1)
+Rule1126¶"Horizontal accuracy between non-boundary marks 1"¶"The accuracy [relative] between a non-boundary mark and each other non-boundary mark must not exceed 0.025 + (0.00005 * the horizontal distance between the non-boundary marks)."¶"Cadastral Survey Rules 2021: r 19(1)
+Rule1302¶"Horizontal accuracy between non-boundary marks 2"¶"The accuracy [relative] between a non-boundary mark and each other non-boundary mark must not exceed 0.2 m horizontal."¶"Cadastral Survey Rules 2021: r 19(1)
+Rule1407¶"Horizontal Class A accuracy of boundary referencing"¶"A class A boundary point that is a referenced point must be considered an accurately defined boundary point only if the accuracy [relative] between the class A boundary point and each non-boundary mark that is less than or equal to 150 m from the class A boundary point does not exceed 0.03 m horizontal."¶"Cadastral Survey Rules 2021: r 21
+Rule1409¶"Horizontal Class B accuracy of boundary referencing"¶"A class B boundary point that is a referenced point must be considered an accurately defined boundary point only if the accuracy [relative] between the class B boundary point and each non-boundary mark that is less than or equal to 500 m from the class B boundary point does not exceed 0.20 m horizontal."¶"Cadastral Survey Rules 2021: r 21
+Rule1411¶"Horizontal Class C accuracy of boundary referencing"¶"A class C boundary point that is a referenced point must be considered an accurately defined boundary point only if the accuracy [relative] between the class C boundary point and each non-boundary mark that is less than or equal to 1000 m from the class C boundary point does not exceed 0.60 m horizontal."¶"Cadastral Survey Rules 2021: r 21
+Rule1483¶"Horizontal connection for non-primary parcels over water 1"¶"A boundary point that is included in a non-primary parcel boundary must be connected by at least one vector to a cadastral survey network mark if the underlying parcel is a common marine and coastal area."¶"Cadastral Survey Rules 2021: r 70(2)
+Rule1484¶"Horizontal connection for non-primary parcels over water 2"¶"An accuracy [relative] between a boundary point that is included in a non-primary parcel boundary and an adopted cadastral survey network mark must not exceed 0.60 m horizontal if the underlying parcel is a common marine and coastal area."¶"Cadastral Survey Rules 2021: r 70(2)
 Rule1057¶"Horizontal extent of a primary parcel"¶"The horizontal extent of a primary parcel must be defined by only the following:
 |- a right-line boundary
 |- an arc boundary
-|- a water or irregular boundary."¶"Cadastral Survey Rules 2021: r 38(1)"
+|- a water or irregular boundary."¶"Cadastral Survey Rules 2021: r 38(1)
 Rule1035¶"Horizontal extent of non-primary parcel"¶"The horizontal extent of a non-primary parcel must be defined by only the following:
 |- a right-line boundary
 |- an arc boundary
 |- a water or irregular boundary 
-|- a permanent structure boundary."¶"Cadastral Survey Rules 2021: r 46(1)"
-Rule1400¶"Impracticable to mark boundary point record"¶"A record of survey must identify a boundary point as impracticable to mark if it is impracticable to mark the boundary point."¶"Cadastral Survey Rules 2021: r 80(6)"
+|- a permanent structure boundary."¶"Cadastral Survey Rules 2021: r 46(1)
+Rule1400¶"Impracticable to mark boundary point record"¶"A record of survey must identify a boundary point as impracticable to mark if it is impracticable to mark the boundary point."¶"Cadastral Survey Rules 2021: r 80(6)
 Rule1310¶"Information in Record of Survey 1"¶"A record of survey must include all of the following:
 |- a survey diagram
 |- a list of all CSDs used in the cadastral survey
 |- the identity of any parcel that is to be extinguished
 |- the dataset description
-|- a statement of certification from the cadastral surveyor."¶"Cadastral Survey Rules 2021: r 76(a); r 76(b); r 76(d); r 76(e); r 76(g)"
-Rule1311¶"Information in Record of Survey 2"¶"A record of survey must include the land district of each CSD used in the cadastral survey if the CSD number of each CSD is not unique."¶"Cadastral Survey Rules 2021: r 76(b)"
-Rule1312¶"Information in Record of Survey 3"¶"A record of survey must include the date the cadastral survey was completed if a field measurement is made in the cadastral survey."¶"Cadastral Survey Rules 2021: r 76(c)"
+|- a statement of certification from the cadastral surveyor."¶"Cadastral Survey Rules 2021: r 76(a); r 76(b); r 76(d); r 76(e); r 76(g)
+Rule1311¶"Information in Record of Survey 2"¶"A record of survey must include the land district of each CSD used in the cadastral survey if the CSD number of each CSD is not unique."¶"Cadastral Survey Rules 2021: r 76(b)
+Rule1312¶"Information in Record of Survey 3"¶"A record of survey must include the date the cadastral survey was completed if a field measurement is made in the cadastral survey."¶"Cadastral Survey Rules 2021: r 76(c)
 Rule1313¶"Information in Record of Survey 4"¶"A record of survey must include all of the following on every sheet of the record of survey:
 |- the CSD number
 |- the sheet number
-|- the total number of sheets in the record of survey."¶"Cadastral Survey Rules 2021: r 76(f)"
-Rule1255¶"Irregular boundary not converted"¶"An existing irregular boundary need not be converted to right-line boundaries if the parcels defined by the boundary are non-primary parcels."¶"Cadastral Survey Rules 2021: r 46(6)"
-Rule1254¶"Irregular non-primary parcel boundary"¶"A non-primary parcel boundary must be an irregular boundary if the boundary coincides with an irregular boundary that defines a movable marginal strip or defines an esplanade strip."¶"Cadastral Survey Rules 2021: r 46(5)"
-Rule1048¶"Labeling a balance parcel in a CSD"¶"A parcel ID of a balance parcel in a CSD must consist of the prefix \"Part\" added to the parcel ID of the existing parcel that is extinguished when the balance parcel is created."¶"Cadastral Survey Rules 2021: r 42(2)(a); https://jira.linz.govt.nz/browse/STEPBR-147"
+|- the total number of sheets in the record of survey."¶"Cadastral Survey Rules 2021: r 76(f)
+Rule1255¶"Irregular boundary not converted"¶"An existing irregular boundary need not be converted to right-line boundaries if the parcels defined by the boundary are non-primary parcels."¶"Cadastral Survey Rules 2021: r 46(6)
+Rule1254¶"Irregular non-primary parcel boundary"¶"A non-primary parcel boundary must be an irregular boundary if the boundary coincides with an irregular boundary that defines a movable marginal strip or defines an esplanade strip."¶"Cadastral Survey Rules 2021: r 46(5)
+Rule1048¶"Labeling a balance parcel in a CSD"¶"A parcel ID of a balance parcel in a CSD must consist of the prefix \"Part\" added to the parcel ID of the existing parcel that is extinguished when the balance parcel is created."¶"Cadastral Survey Rules 2021: r 42(2)(a); https://jira.linz.govt.nz/browse/STEPBR-147
 Rule1047¶"Labeling a new parcel of land"¶"A parcel ID of a new parcel in a CSD must consist of the following components in the listed sequence:
 |- a parcel type component
 |- a unique parcel identifier
@@ -359,94 +359,94 @@ Rule1047¶"Labeling a new parcel of land"¶"A parcel ID of a new parcel in a CSD
 |if the parcel is not any of the following:
 |- a new parcel described as a Maori freehold land
 |- a balance parcel
-|- a residue parcel."¶"Cadastral Survey Rules 2021: r 42(1)"
-Rule1397¶"Labeling a proposed unit formerly created in a CSD"¶"The parcel ID of a proposed unit created under a previous legislation must be retained."¶"Cadastral Survey Rules 2021: r 42(3)"
+|- a residue parcel."¶"Cadastral Survey Rules 2021: r 42(1)
+Rule1397¶"Labeling a proposed unit formerly created in a CSD"¶"The parcel ID of a proposed unit created under a previous legislation must be retained."¶"Cadastral Survey Rules 2021: r 42(3)
 Rule1049¶"Labeling a residue parcel in a CSD"¶"A parcel ID of a residue parcel in a CSD must consist of the prefix \"Part\" added to the parcel ID of the existing parcel if the other portion of the existing parcel has been described as any of the following:
 |- the bed of a lake
 |- the bed of a river
-|- part of the common marine and coastal area."¶"Cadastral Survey Rules 2021: r 42(2)(b); r 42(4)"
+|- part of the common marine and coastal area."¶"Cadastral Survey Rules 2021: r 42(2)(b); r 42(4)
 Rule1042¶"Labelling a new parcel of Maori land"¶"A parcel ID for a new parcel described as a Maori freehold land in a CSD must consist of the following components in the listed sequence:
 |- a block name or an alternative legal description confirmed by the Maori Land Court
 |- a unique parcel identifier or an alternative legal description confirmed by the Maori Land Court
-|- the CSD number."¶"Cadastral Survey Rules 2021: r 44"
+|- the CSD number."¶"Cadastral Survey Rules 2021: r 44
 Rule1448¶"Land value and water or irregular boundaries"¶"A water or irregular boundary that is not an accepted boundary must have its position determined to a level of accuracy [positional] that takes into account for each parcel that is defined by the boundary all of the following:
 |- the value of the land
-|- the intensity of the land use."¶"Cadastral Survey Rules 2021: r 29(2)(e); r 29(3)"
-Rule1101¶"Line styles"¶"The styles and widths in table 9 of Schedule 7 of RCS 2020 must be used for lines in a diagram plan. When a line serves more than one purpose, a style higher up the table takes precedence over a style below it. The width of a thick line must be at least twice the width of a thin line."¶"Cadastral Survey Rules 2021: sch 7(3)"
+|- the intensity of the land use."¶"Cadastral Survey Rules 2021: r 29(2)(e); r 29(3)
+Rule1101¶"Line styles"¶"The styles and widths in table 9 of Schedule 7 of RCS 2020 must be used for lines in a diagram plan. When a line serves more than one purpose, a style higher up the table takes precedence over a style below it. The width of a thick line must be at least twice the width of a thin line."¶"Cadastral Survey Rules 2021: sch 7(3)
 Rule1417¶"Minimum PRMs in a cadastral survey"¶"A cadastral survey must include at least 3 permanent reference marks for which any of the following is true:
 |- the permanent reference mark is not more than 150 m from a referenced point that is a class A boundary point
 |- the permanent reference mark is not more than 500 m from a referenced point that is a class B boundary point
-|- the permanent reference mark is not more than 1000m from a referenced point that is a class C boundary point."¶"Cadastral Survey Rules 2021: r 32(2); r 51(2)(g); r 70(1)"
+|- the permanent reference mark is not more than 1000m from a referenced point that is a class C boundary point."¶"Cadastral Survey Rules 2021: r 32(2); r 51(2)(g); r 70(1)
 Rule1174¶"Minimum width of a new primary parcel with class A boundaries"¶"A new primary parcel must be greater than or equal to 0.1 m wide if all of the following are true:
 |- the boundaries that define the primary parcel are class A boundaries
 |- the primary parcel is not a balance parcel 
-|- the primary parcel is not a residue parcel."¶"Cadastral Survey Rules 2021: r 40(1)(a); r 40(2)"
+|- the primary parcel is not a residue parcel."¶"Cadastral Survey Rules 2021: r 40(1)(a); r 40(2)
 Rule1391¶"Minimum width of a new primary parcel with class B, C or D boundaries"¶"A new primary parcel must be greater than or equal to 0.2 m wide if all of the following are true:
 |- the boundaries that define the primary parcel are not class A boundaries
 |- the primary parcel is not a balance parcel 
-|- the primary parcel is not a residue parcel."¶"Cadastral Survey Rules 2021: r 40(1)(b); r 40(2)"
-Rule1446¶"Movement of water body margin and water or irregular boundaries"¶"A water or irregular boundary that is not an accepted boundary must have its position determined to a level of accuracy [positional] that allows for the potential for the boundary to move or become permanent as a result of movement of the margin of a water body that adjoins the boundary."¶"Cadastral Survey Rules 2021: r 29(2)(c); r 29(3)"
+|- the primary parcel is not a residue parcel."¶"Cadastral Survey Rules 2021: r 40(1)(b); r 40(2)
+Rule1446¶"Movement of water body margin and water or irregular boundaries"¶"A water or irregular boundary that is not an accepted boundary must have its position determined to a level of accuracy [positional] that allows for the potential for the boundary to move or become permanent as a result of movement of the margin of a water body that adjoins the boundary."¶"Cadastral Survey Rules 2021: r 29(2)(c); r 29(3)
 Rule1402¶"Naming a point"¶"A new point in a CSD that is not marked must have a point name that consists of the following components in the listed sequence:
 |- the abbreviation 'UNMK'
 |- a unique alphanumeric identifier
-|- the CSD number."¶"Cadastral Survey Rules 2021: r 80(2)"
+|- the CSD number."¶"Cadastral Survey Rules 2021: r 80(2)
 Rule1054¶"Naming a survey mark"¶"A new survey mark in a CSD must have a mark name that consists of the following components in the listed sequence:
 |- an abbreviation describing the physical mark type
 |- a unique alphanumeric identifier
-|- the CSD number."¶"Cadastral Survey Rules 2021: r 80(2)"
+|- the CSD number."¶"Cadastral Survey Rules 2021: r 80(2)
 Rule1241¶"New boundary mark physical properties 1"¶"A new boundary mark must be one of the following if practicable:
 |- a wooden peg that is chamfered at the top and has a minimum width of 45 mm and is at least 3000 square mm in cross-section
 |- a type of peg that is not a wooden peg and is clearly labelled as a boundary mark
 |- a post
-|- a mark in a post which is clearly labelled as a boundary mark."¶"Cadastral Survey Rules 2021: r 36(1)(a); r 36(1)(b); r 36(1)(c); r 36(1)(d)"
+|- a mark in a post which is clearly labelled as a boundary mark."¶"Cadastral Survey Rules 2021: r 36(1)(a); r 36(1)(b); r 36(1)(c); r 36(1)(d)
 Rule1269¶"New boundary mark physical properties 2"¶"A new boundary mark must be any other type of mark clearly labeled as a boundary mark if it is not practicable to be any of the following:
 |- a wooden peg that is chamfered at the top and has a minimum width of 45 mm and is at least 3000 square mm in cross-section
 |- a type of peg that is not a wooden peg and is clearly labelled as a boundary mark
 |- a post
-|- a mark in a post which is clearly labelled as a boundary mark."¶"Cadastral Survey Rules 2021: r 36(1)(e)"
-Rule1242¶"New boundary mark physical properties 3"¶"A new boundary mark must be soundly anchored in place."¶"Cadastral Survey Rules 2021: r 36(2)(a)"
-Rule1306¶"New boundary mark physical properties 4"¶"A new boundary mark must be readily visible if practicable."¶"Cadastral Survey Rules 2021: r 36(2)(b)"
-Rule1396¶"New boundary mark physical properties 5"¶"A new boundary mark must be placed at a boundary point."¶"Cadastral Survey Rules 2021: r 36(2)(c)"
+|- a mark in a post which is clearly labelled as a boundary mark."¶"Cadastral Survey Rules 2021: r 36(1)(e)
+Rule1242¶"New boundary mark physical properties 3"¶"A new boundary mark must be soundly anchored in place."¶"Cadastral Survey Rules 2021: r 36(2)(a)
+Rule1306¶"New boundary mark physical properties 4"¶"A new boundary mark must be readily visible if practicable."¶"Cadastral Survey Rules 2021: r 36(2)(b)
+Rule1396¶"New boundary mark physical properties 5"¶"A new boundary mark must be placed at a boundary point."¶"Cadastral Survey Rules 2021: r 36(2)(c)
 Rule1161¶"New primary parcel created in a CSD 1"¶"An existing primary parcel being extinguished by a new primary parcel must have all land in the existing primary parcel included in at least one of the following:
 |- one or more new primary parcels
 |- a residue parcel
-|- a balance parcel."¶"Cadastral Survey Rules 2021: r 39(1); r 39(2)"
+|- a balance parcel."¶"Cadastral Survey Rules 2021: r 39(1); r 39(2)
 Rule1162¶"New primary parcel created in a CSD 2"¶"An existing primary parcel being extinguished by a new primary parcel that is defined by a height limited boundary must have all space occupied by the existing primary parcel included in at least one of the following:
 |- one or more new primary parcels
 |- a residue parcel
-|- a balance parcel."¶"Cadastral Survey Rules 2021: r 39(1); r 39(3)"
+|- a balance parcel."¶"Cadastral Survey Rules 2021: r 39(1); r 39(3)
 Rule1398¶"Non-primary parcel accepted boundaries"¶"A non-primary parcel boundary that coincides with a primary parcel boundary defining an underlying parcel must be considered an accepted boundary if any of the following is true:
 |- the non-primary parcel boundary is inaccurately determined
 |- the non-primary parcel overlies a parcel that is the bed of a stream 
 |- the non-primary parcel overlies a parcel that is the bed of a river 
 |- the non-primary parcel overlies a parcel that is the bed of a lake
-|- the non-primary parcel overlies a parcel that is common marine and coastal area."¶"Cadastral Survey Rules 2021: r 51(2)(a); r 53(2)(a); r 70(1); r 70(2)"
-Rule1053¶"Non-primary parcel boundary"¶"A non-primary parcel boundary must be the same boundary form as a boundary that defines an underlying parcel if the boundary that defines the non-primary parcel coincides with the boundary that defines the underlying parcel."¶"Cadastral Survey Rules 2021: r 46(3)"
-Rule1282¶"Non-primary parcel boundary mark"¶"A mark need not be placed at a new boundary point that is included in a non-primary parcel boundary."¶"Cadastral Survey Rules 2021: r 63"
+|- the non-primary parcel overlies a parcel that is common marine and coastal area."¶"Cadastral Survey Rules 2021: r 51(2)(a); r 53(2)(a); r 70(1); r 70(2)
+Rule1053¶"Non-primary parcel boundary"¶"A non-primary parcel boundary must be the same boundary form as a boundary that defines an underlying parcel if the boundary that defines the non-primary parcel coincides with the boundary that defines the underlying parcel."¶"Cadastral Survey Rules 2021: r 46(3)
+Rule1282¶"Non-primary parcel boundary mark"¶"A mark need not be placed at a new boundary point that is included in a non-primary parcel boundary."¶"Cadastral Survey Rules 2021: r 63
 Rule1365¶"Non-primary parcel class D boundaries 1"¶"A non-primary parcel boundary that intersects with a primary parcel boundary defining an underlying parcel must be considered a class D boundary if any of the following is true:
 |- the non-primary parcel boundary is inaccurately determined
 |- the non-primary parcel overlies a parcel that is the bed of a stream 
 |- the non-primary parcel overlies a parcel that is the bed of a river 
 |- the non-primary parcel overlies a parcel that is the bed of a lake
-|- the non-primary parcel overlies a parcel that is common marine and coastal area."¶"Cadastral Survey Rules 2021: r 51(2)(a); r 53(2)(a); r 70(1); r 70(2)"
+|- the non-primary parcel overlies a parcel that is common marine and coastal area."¶"Cadastral Survey Rules 2021: r 51(2)(a); r 53(2)(a); r 70(1); r 70(2)
 Rule1461¶"Non-primary parcel class D boundaries 3"¶"A non-primary parcel boundary must be a class D boundary if all of the following are true:
 |- the non-primary parcel boundary is inaccurately determined
-|- any of the other non-primary parcel boundaries is accurately determined."¶"Cadastral Survey Rules 2021: r 51(3)"
+|- any of the other non-primary parcel boundaries is accurately determined."¶"Cadastral Survey Rules 2021: r 51(3)
 Rule1377¶"Non-primary parcel reference to PRM"¶"A boundary point must be referenced by a permanent reference mark if the boundary point is included in a non-primary parcel boundary and any of the following is true:
 |- the non-primary parcel boundary is an inaccurately determined class A boundary or class B boundary and the boundary point is not a class D boundary point
-|- the non-primary parcel overlies a parcel that is the bed of a stream or the bed of a river or the bed of a lake."¶"Cadastral Survey Rules 2021: r 51(2)(h); r 70(1)"
-Rule1834¶"Non-primary parcel relation to underlying primary parcels"¶"A non-primary parcel boundary must be accurately determined if the non-primary parcel boundary is not inaccurately determined."¶"Cadastral Survey Rules 2021: Inferred from r 27(4); Inferred from r 51; Inferred from r 53"
+|- the non-primary parcel overlies a parcel that is the bed of a stream or the bed of a river or the bed of a lake."¶"Cadastral Survey Rules 2021: r 51(2)(h); r 70(1)
+Rule1834¶"Non-primary parcel relation to underlying primary parcels"¶"A non-primary parcel boundary must be accurately determined if the non-primary parcel boundary is not inaccurately determined."¶"Cadastral Survey Rules 2021: Inferred from r 27(4); Inferred from r 51; Inferred from r 53
 Rule1372¶"Non-primary parcel survey bearings"¶"The horizontal projection used in a cadastral survey must be an official geodetic projection applicable to the area that the cadastral survey is carried out in if the cadastral survey includes a non-primary parcel boundary for which any of the following is true:
 |- the non-primary parcel boundary is inaccurately determined
 |- the non-primary parcel overlies a parcel that is the bed of a stream 
 |- the non-primary parcel overlies a parcel that is the bed of a river 
 |- the non-primary parcel overlies a parcel that is the bed of a lake
-|- the non-primary parcel overlies a parcel that is common marine and coastal area."¶"Cadastral Survey Rules 2021: r 51(2)(b); r 53(2)(b); r 70(1); r 70(2)"
+|- the non-primary parcel overlies a parcel that is common marine and coastal area."¶"Cadastral Survey Rules 2021: r 51(2)(b); r 53(2)(b); r 70(1); r 70(2)
 Rule1366¶"Non-primary parcel with inaccurate relationship to new primary parcel"¶"A boundary point that is included in a non-primary parcel boundary may be inaccurately determined only if all of the following are true:
 |- an underlying parcel is created by the cadastral survey
 |- the boundary intersects or the boundary coincides with an accepted boundary of the underlying parcel at the boundary point
-|- at least one other non-primary parcel boundary is accurately determined to a class A boundary or class B boundary of the underlying parcel."¶"Cadastral Survey Rules 2021: r 51(4); r 51(5)"
-Rule1089¶"Non-primary parcels crossing boundaries"¶"A non-primary parcel may cross a boundary only if the boundary is not an estate boundary."¶"Cadastral Survey Rules 2021: r 47"
+|- at least one other non-primary parcel boundary is accurately determined to a class A boundary or class B boundary of the underlying parcel."¶"Cadastral Survey Rules 2021: r 51(4); r 51(5)
+Rule1089¶"Non-primary parcels crossing boundaries"¶"A non-primary parcel may cross a boundary only if the boundary is not an estate boundary."¶"Cadastral Survey Rules 2021: r 47
 Rule1301¶"Official geodetic projections"¶"A geodetic projection must be considered an official geodetic projection if the geodetic projection is any of the following meridional circuit projections:
 |- Mount Eden 2000
 |- Bay of Plenty 2000
@@ -475,7 +475,7 @@ Rule1301¶"Official geodetic projections"¶"A geodetic projection must be consid
 |- Mount York 2000
 |- Observation Point 2000
 |- North Taieri 2000
-|- Bluff 2000."¶"Cadastral Survey Rules 2021: sch 2 definition of \"official geodetic projection\"; sch 3"
+|- Bluff 2000."¶"Cadastral Survey Rules 2021: sch 2 definition of \"official geodetic projection\"; sch 3
 Rule1294¶"Official vertical datums"¶"A official vertical datum must be any of the following:
 |- New Zealand Vertical Datum 2016 or NZVD2016
 |- One Tree Point 1964
@@ -490,59 +490,59 @@ Rule1294¶"Official vertical datums"¶"A official vertical datum must be any of 
 |- Dunedin 1958
 |- Dunedin – Bluff 1960
 |- Bluff 1955
-|- Stewart Island 1977."¶"Cadastral Survey Rules 2021: sch 5"
-Rule1287¶"Offset water boundary"¶"A new water boundary that defines a non-primary parcel may be offset from an accepted water boundary only when the new water boundary is at MHWS or MLWS and the non-primary parcel overlies a hydro parcel."¶"Cadastral Survey Rules 2021: r 65; r 68"
-Rule1122¶"Orientation - horizontal datum 1"¶"The bearing of each vector in a cadastral survey must be oriented in terms of the same horizontal projection."¶"Cadastral Survey Rules 2021: r 16(1); r 16(3)"
+|- Stewart Island 1977."¶"Cadastral Survey Rules 2021: sch 5
+Rule1287¶"Offset water boundary"¶"A new water boundary that defines a non-primary parcel may be offset from an accepted water boundary only when the new water boundary is at MHWS or MLWS and the non-primary parcel overlies a hydro parcel."¶"Cadastral Survey Rules 2021: r 65; r 68
+Rule1122¶"Orientation - horizontal datum 1"¶"The bearing of each vector in a cadastral survey must be oriented in terms of the same horizontal projection."¶"Cadastral Survey Rules 2021: r 16(1); r 16(3)
 Rule1121¶"Orientation - horizontal datum 2"¶"The horizontal projection used in a cadastral survey must be an official geodetic projection applicable to the area that the cadastral survey is carried out in if all of the following are true:
 |- the cadastral survey defines or marks a new boundary point that is included in a boundary that defines a primary parcel
-|- the cadastral survey makes a new field measurement."¶"Cadastral Survey Rules 2021: r 16"
-Rule1082¶"Parcel area intended for lease"¶"An area [quantity] must be assigned to a parcel that is intended for a lease if the parcel is not defined by any permanent structure boundaries."¶"Cadastral Survey Rules 2021: r 41(2)"
-Rule1084¶"Parcel area quantity"¶"An area [quantity] assigned to a parcel that has a shape that varies with height must equal the area [quantity] of the horizontal extent of the parcel."¶"Cadastral Survey Rules 2021: r 41(4)"
-Rule1085¶"Parcel area requirement 1"¶"An area [quantity] assigned to a parcel must be correctly calculated from boundary information of the parcel."¶"Cadastral Survey Rules 2021: r 41(5)(a)"
-Rule1392¶"Parcel area requirement 2"¶"An area [quantity] assigned to a parcel must be expressed in hectares."¶"Cadastral Survey Rules 2021: r 41(5)(b)"
-Rule1176¶"Parcel area requirement 3"¶"An area [quantity] assigned to a parcel must not be less than 0.0001 ha."¶"Cadastral Survey Rules 2021: r 41(5)(c)"
-Rule1175¶"Parcel area requirement 4"¶"An area [quantity] assigned to a parcel may be rounded only to the greater of one part in 1000 of the area [quantity] or 0.0001 ha."¶"Cadastral Survey Rules 2021: r 41(5)(d)"
-Rule1077¶"Parcel definition - movable marginal strip"¶"An area [quantity] assigned to a primary parcel must include the area [quantity] assigned to each movable marginal strip in that primary parcel."¶"Cadastral Survey Rules 2021: r 41(1)"
-Rule1051¶"Parcel type component"¶"A parcel type component must be determined according to the parcel type component table."¶"Cadastral Survey Rules 2021: r 43"
-Rule1265¶"Permanent structure boundary"¶"A permanent structure boundary must follow a described part of a permanent structure or be clearly defined by reference to points on the interior or exterior of a permanent structure."¶"Cadastral Survey Rules 2021: r 56(2)"
-Rule1427¶"Permanent structure boundary accuracy A"¶"A permanent structure boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each boundary point that is included in a boundary that defines the same parcel that the permanent structure is on is class A accuracy when the boundary points are both class A boundary points."¶"Cadastral Survey Rules 2021: r 27; r 57(1)"
+|- the cadastral survey makes a new field measurement."¶"Cadastral Survey Rules 2021: r 16
+Rule1082¶"Parcel area intended for lease"¶"An area [quantity] must be assigned to a parcel that is intended for a lease if the parcel is not defined by any permanent structure boundaries."¶"Cadastral Survey Rules 2021: r 41(2)
+Rule1084¶"Parcel area quantity"¶"An area [quantity] assigned to a parcel that has a shape that varies with height must equal the area [quantity] of the horizontal extent of the parcel."¶"Cadastral Survey Rules 2021: r 41(4)
+Rule1085¶"Parcel area requirement 1"¶"An area [quantity] assigned to a parcel must be correctly calculated from boundary information of the parcel."¶"Cadastral Survey Rules 2021: r 41(5)(a)
+Rule1392¶"Parcel area requirement 2"¶"An area [quantity] assigned to a parcel must be expressed in hectares."¶"Cadastral Survey Rules 2021: r 41(5)(b)
+Rule1176¶"Parcel area requirement 3"¶"An area [quantity] assigned to a parcel must not be less than 0.0001 ha."¶"Cadastral Survey Rules 2021: r 41(5)(c)
+Rule1175¶"Parcel area requirement 4"¶"An area [quantity] assigned to a parcel may be rounded only to the greater of one part in 1000 of the area [quantity] or 0.0001 ha."¶"Cadastral Survey Rules 2021: r 41(5)(d)
+Rule1077¶"Parcel definition - movable marginal strip"¶"An area [quantity] assigned to a primary parcel must include the area [quantity] assigned to each movable marginal strip in that primary parcel."¶"Cadastral Survey Rules 2021: r 41(1)
+Rule1051¶"Parcel type component"¶"A parcel type component must be determined according to the parcel type component table."¶"Cadastral Survey Rules 2021: r 43
+Rule1265¶"Permanent structure boundary"¶"A permanent structure boundary must follow a described part of a permanent structure or be clearly defined by reference to points on the interior or exterior of a permanent structure."¶"Cadastral Survey Rules 2021: r 56(2)
+Rule1427¶"Permanent structure boundary accuracy A"¶"A permanent structure boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each boundary point that is included in a boundary that defines the same parcel that the permanent structure is on is class A accuracy when the boundary points are both class A boundary points."¶"Cadastral Survey Rules 2021: r 27; r 57(1)
 Rule1432¶"Permanent structure boundary accuracy B"¶"A permanent structure boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each boundary point that is included in a boundary that defines the same parcel that the permanent structure is on is class B accuracy when one of the boundary points is a class B boundary point and the other is any of:
 |- a class A boundary point
-|- a class B boundary point."¶"Cadastral Survey Rules 2021: r 27; r 57(1)"
+|- a class B boundary point."¶"Cadastral Survey Rules 2021: r 27; r 57(1)
 Rule1433¶"Permanent structure boundary accuracy C"¶"A permanent structure boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each boundary point that is included in a boundary that defines the same parcel that the permanent structure is on is class C accuracy when one of the boundary points is a class C boundary point and the other is any of:
 |- a class A boundary point
 |- a class B boundary point
-|- a class C boundary point."¶"Cadastral Survey Rules 2021: r 27; r 57(1)"
-Rule1469¶"Permanent structure boundary accuracy D"¶"A permanent structure boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each boundary point that is included in a boundary that defines the same parcel that the permanent structure is on is class D accuracy when one of the boundary points is a class D boundary point."¶"Cadastral Survey Rules 2021: r 27; r 57(1)"
-Rule1261¶"Permanent structure boundary parcel intention 1"¶"A permanent structure boundary may define a parcel intended for a right under the Unit Titles Act 2010 only if at least part of the permanent structure related to the permanent structure boundary is located on the same underlying parcels as the unit title development."¶"Cadastral Survey Rules 2021: r 56(1)(a)"
+|- a class C boundary point."¶"Cadastral Survey Rules 2021: r 27; r 57(1)
+Rule1469¶"Permanent structure boundary accuracy D"¶"A permanent structure boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each boundary point that is included in a boundary that defines the same parcel that the permanent structure is on is class D accuracy when one of the boundary points is a class D boundary point."¶"Cadastral Survey Rules 2021: r 27; r 57(1)
+Rule1261¶"Permanent structure boundary parcel intention 1"¶"A permanent structure boundary may define a parcel intended for a right under the Unit Titles Act 2010 only if at least part of the permanent structure related to the permanent structure boundary is located on the same underlying parcels as the unit title development."¶"Cadastral Survey Rules 2021: r 56(1)(a)
 Rule1262¶"Permanent structure boundary parcel intention 2"¶"A permanent structure boundary may define a parcel intended for a lease for which the boundary is located by reference to the permanent structure only if any of the parcels underlying the lease and any part the permanent structure are the same irrelevant of the permanent structure encroaching onto an adjoining parcel.
 |
-|A permanent structure boundary may define a parcel intended for a lease only if any part of the permanent structure that locates by reference the boundary is located on the same parcel that underlies that lease."¶"Cadastral Survey Rules 2021: r 56(1)(b)"
+|A permanent structure boundary may define a parcel intended for a lease only if any part of the permanent structure that locates by reference the boundary is located on the same parcel that underlies that lease."¶"Cadastral Survey Rules 2021: r 56(1)(b)
 Rule1263¶"Permanent structure boundary parcel intention 3"¶"A permanent structure boundary may define a parcel intended for a right over or an appurtenant to a base right under the Unit Titles Act 2010 or a base lease for which the boundary is located by reference to the permanent structure only if all of the following are true:
 |- the right will expire before or at the same time as the base right or base lease
-|- any of the parcels underlying the base right or the base lease and any part the permanent structure are the same."¶"Cadastral Survey Rules 2021: r 56(1)(c)"
+|- any of the parcels underlying the base right or the base lease and any part the permanent structure are the same."¶"Cadastral Survey Rules 2021: r 56(1)(c)
 Rule1264¶"Permanent structure boundary parcel intention 4"¶"A permanent structure boundary may define an easement parcel or a covenant parcel only if all of the following are true:
 |- the use of the easement parcel or covenant parcel is directly related to the permanent structure
-|- the easement or covenant is expected to become redundant once the permanent structure ceases to exist."¶"Cadastral Survey Rules 2021: r 56(1)(d)"
-Rule1428¶"Permanent structure boundary point class A horizontal accuracy"¶"A permanent structure boundary point that is a class A boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the permanent structure boundary point and each point on the permanent structure does not exceed 0.03 m horizontal."¶"Cadastral Survey Rules 2021: r 21; r 57(2)"
-Rule1437¶"Permanent structure boundary point class A vertical accuracy"¶"A permanent structure boundary point that is a class A boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the permanent structure boundary point and each point on the permanent structure does not exceed 0.04 m vertical."¶"Cadastral Survey Rules 2021: r 21; r 57(2)"
-Rule1438¶"Permanent structure boundary point class B horizontal accuracy"¶"A permanent structure boundary point that is a class B boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the permanent structure boundary point and each point on the permanent structure does not exceed 0.2 m horizontal."¶"Cadastral Survey Rules 2021: r 21; r 57(2)"
-Rule1439¶"Permanent structure boundary point class B vertical accuracy"¶"A permanent structure boundary point that is a class B boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the permanent structure boundary point and each point on the permanent structure does not exceed 0.2 m vertical."¶"Cadastral Survey Rules 2021: r 21; r 57(2)"
-Rule1441¶"Permanent structure boundary point class C horizontal accuracy"¶"A permanent structure boundary point that is a class C boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the permanent structure boundary point and each point on the permanent structure does not exceed 0.6 m horizontal."¶"Cadastral Survey Rules 2021: r 21; r 57(2)"
-Rule1440¶"Permanent structure boundary point class C vertical accuracy"¶"A permanent structure boundary point that is a class C boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the permanent structure boundary point and each point on the permanent structure does not exceed 0.6 m vertical."¶"Cadastral Survey Rules 2021: r 21; r 57(2)"
-Rule1447¶"Physical feature water or irregular boundaries"¶"A water or irregular boundary that is not an accepted boundary must have its position determined to a level of accuracy [positional] that takes into account the nature of any physical feature that defines the margin of a water body that adjoins the boundary."¶"Cadastral Survey Rules 2021: r 29(2)(d); r 29(3)"
+|- the easement or covenant is expected to become redundant once the permanent structure ceases to exist."¶"Cadastral Survey Rules 2021: r 56(1)(d)
+Rule1428¶"Permanent structure boundary point class A horizontal accuracy"¶"A permanent structure boundary point that is a class A boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the permanent structure boundary point and each point on the permanent structure does not exceed 0.03 m horizontal."¶"Cadastral Survey Rules 2021: r 21; r 57(2)
+Rule1437¶"Permanent structure boundary point class A vertical accuracy"¶"A permanent structure boundary point that is a class A boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the permanent structure boundary point and each point on the permanent structure does not exceed 0.04 m vertical."¶"Cadastral Survey Rules 2021: r 21; r 57(2)
+Rule1438¶"Permanent structure boundary point class B horizontal accuracy"¶"A permanent structure boundary point that is a class B boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the permanent structure boundary point and each point on the permanent structure does not exceed 0.2 m horizontal."¶"Cadastral Survey Rules 2021: r 21; r 57(2)
+Rule1439¶"Permanent structure boundary point class B vertical accuracy"¶"A permanent structure boundary point that is a class B boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the permanent structure boundary point and each point on the permanent structure does not exceed 0.2 m vertical."¶"Cadastral Survey Rules 2021: r 21; r 57(2)
+Rule1441¶"Permanent structure boundary point class C horizontal accuracy"¶"A permanent structure boundary point that is a class C boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the permanent structure boundary point and each point on the permanent structure does not exceed 0.6 m horizontal."¶"Cadastral Survey Rules 2021: r 21; r 57(2)
+Rule1440¶"Permanent structure boundary point class C vertical accuracy"¶"A permanent structure boundary point that is a class C boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the permanent structure boundary point and each point on the permanent structure does not exceed 0.6 m vertical."¶"Cadastral Survey Rules 2021: r 21; r 57(2)
+Rule1447¶"Physical feature water or irregular boundaries"¶"A water or irregular boundary that is not an accepted boundary must have its position determined to a level of accuracy [positional] that takes into account the nature of any physical feature that defines the margin of a water body that adjoins the boundary."¶"Cadastral Survey Rules 2021: r 29(2)(d); r 29(3)
 Rule1081¶"Primary parcel area"¶"An area [quantity] must be assigned to a primary parcel if the primary parcel is not any of the following:
 |- a residue parcel
-|- a balance parcel."¶"Cadastral Survey Rules 2021: r 41(1)"
-Rule1186¶"Principal Unit"¶"A principal unit must contain a building or be part of a building or be contained within a building or be a car park."¶"Unit Titles Act 2010: s 7; http://www.legislation.govt.nz/act/public/2010/0022/latest/DLM2319229.html"|"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=1700818"
-Rule1028¶"PRM relationship to ground level and situation"¶"A record of survey must describe the relationship of any permanent reference mark to ground level and the situation of the permanent reference mark."¶"Cadastral Survey Rules 2021: r 80(8)"
-Rule1326¶"Record of Survey Accepted Boundary Points"¶"A record of survey need not include accepted boundary points used for the purposes of a cadastral survey."¶"Cadastral Survey Rules 2021: r 80(1)"
+|- a balance parcel."¶"Cadastral Survey Rules 2021: r 41(1)
+Rule1186¶"Principal Unit"¶"A principal unit must contain a building or be part of a building or be contained within a building or be a car park."¶"Unit Titles Act 2010: s 7; http://www.legislation.govt.nz/act/public/2010/0022/latest/DLM2319229.html|Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=1700818"
+Rule1028¶"PRM relationship to ground level and situation"¶"A record of survey must describe the relationship of any permanent reference mark to ground level and the situation of the permanent reference mark."¶"Cadastral Survey Rules 2021: r 80(8)
+Rule1326¶"Record of Survey Accepted Boundary Points"¶"A record of survey need not include accepted boundary points used for the purposes of a cadastral survey."¶"Cadastral Survey Rules 2021: r 80(1)
 Rule1321¶"Record of Survey Boundary Information"¶"A record of survey must include the accuracy class of all of the following included in the record of survey:
 |- a right-line boundary
 |- an arc boundary
-|- a height limited boundary."¶"Cadastral Survey Rules 2021: r 79"
-Rule1314¶"Record of Survey Datum Information 1"¶"A record of survey must include the meridional circuit projection of the area the cadastral survey is carried out in if a bearing is included in the record of survey."¶"Cadastral Survey Rules 2021: r 77(a)"
-Rule1315¶"Record of Survey Datum Information 2"¶"A record of survey must include the vertical datum if a reduced level is recorded in the record of survey."¶"Cadastral Survey Rules 2021: r 77(b)"
+|- a height limited boundary."¶"Cadastral Survey Rules 2021: r 79
+Rule1314¶"Record of Survey Datum Information 1"¶"A record of survey must include the meridional circuit projection of the area the cadastral survey is carried out in if a bearing is included in the record of survey."¶"Cadastral Survey Rules 2021: r 77(a)
+Rule1315¶"Record of Survey Datum Information 2"¶"A record of survey must include the vertical datum if a reduced level is recorded in the record of survey."¶"Cadastral Survey Rules 2021: r 77(b)
 Rule1104¶"Record of survey for simple boundary reinstatement CSD"¶"A record of survey for a simple boundary reinstatement survey must include all of the following:
 |- a reinstatement diagram 
 |- a list of CSDs used and, if a CSD number is not unique, the land district of the CSD 
@@ -555,156 +555,156 @@ Rule1104¶"Record of survey for simple boundary reinstatement CSD"¶"A record of
 |- at least 1 measured vector to every new or old survey mark
 |- measured vectors to at least 2 other non-boundary marks for every new non-boundary mark
 |- the adopted vectors or calculated vectors used for the purpose of boundary definition
-|- a dataset description"¶"Cadastral Survey Rules 2021: r 119"
+|- a dataset description"¶"Cadastral Survey Rules 2021: r 119
 Rule1323¶"Record of Survey Occupation Information 1"¶"A record of survey must include all of the following information about an occupation in graphic form:
 |- the nature of the physical feature
 |- the age of the physical feature
-|- the relationship between the occupation and the boundary or the boundary position."¶"Cadastral Survey Rules 2021: r 81(2)"
+|- the relationship between the occupation and the boundary or the boundary position."¶"Cadastral Survey Rules 2021: r 81(2)
 Rule1331¶"Record of Survey Occupation Information 2"¶"A record of survey must include the relationship between an occupation and a boundary or boundary position in graphic form by any of the following:
 |- by vector
 |- by distance
-|- by description."¶"Cadastral Survey Rules 2021: r 81(2)"
+|- by description."¶"Cadastral Survey Rules 2021: r 81(2)
 Rule1327¶"Record of Survey Occupation Information 3"¶"A record of survey must record occupation information for each of the following:
 |- a new boundary point on a primary parcel
 |- an existing boundary point that is being marked
-|- an existing boundary point that is required to be marked."¶"Cadastral Survey Rules 2021: r 81(3)"
+|- an existing boundary point that is required to be marked."¶"Cadastral Survey Rules 2021: r 81(3)
 Rule1325¶"Record of Survey Occupation Information 4"¶"A record of survey must record a \"No Occupation\" annotation against a boundary point and the related boundaries if there is no occupation and the record of survey includes information about any of the following:
 |- a new boundary point on a primary parcel
 |- an existing boundary point that is being marked
-|- an existing boundary point that is required to be marked."¶"Cadastral Survey Rules 2021: r 81(4)"
+|- an existing boundary point that is required to be marked."¶"Cadastral Survey Rules 2021: r 81(4)
 Rule1316¶"Record of Survey Vector Information 1"¶"A record of survey must include the source CSD number for all of the following:
 |- each adopted vector
 |- each adopted distance
 |- each adopted bearing
-|- each adopted arc."¶"Cadastral Survey Rules 2021: r 78(a)"
-Rule1317¶"Record of Survey Vector Information 2"¶"A record of survey must include any bearing adjustment that is applied to each CSD from which a bearing is adopted."¶"Cadastral Survey Rules 2021: r 78(b)"
+|- each adopted arc."¶"Cadastral Survey Rules 2021: r 78(a)
+Rule1317¶"Record of Survey Vector Information 2"¶"A record of survey must include any bearing adjustment that is applied to each CSD from which a bearing is adopted."¶"Cadastral Survey Rules 2021: r 78(b)
 Rule1318¶"Record of Survey Vector Information 3"¶"A record of survey must include information indicating if any bearing included in the record of survey is any of the following:
 |- a calculated bearing
 |- a measured bearing
-|- an adopted bearing."¶"Cadastral Survey Rules 2021: r 78(c)"
+|- an adopted bearing."¶"Cadastral Survey Rules 2021: r 78(c)
 Rule1319¶"Record of Survey Vector Information 4"¶"A record of survey must include information indicating if any distance included in the record of survey is any of the following:
 |- a calculated distance
 |- a measured distance
-|- an adopted distance."¶"Cadastral Survey Rules 2021: r 78(c)"
+|- an adopted distance."¶"Cadastral Survey Rules 2021: r 78(c)
 Rule1320¶"Record of Survey Vector Information 5"¶"A record of survey must include information indicating if any arc included in the record of survey is any of the following:
 |- a calculated arc
 |- a measured arc
-|- an adopted arc."¶"Cadastral Survey Rules 2021: r 78(c)"
-Rule1041¶"Record of Survey Vector Information 6"¶"A record of survey must include the type of equipment used in the field measurement of each measured vector in the cadastral survey."¶"Cadastral Survey Rules 2021: r 78(d)"
-Rule1185¶"Reference mark for height limited boundary"¶"A cadastral survey must consist of at least two permanent reference marks that have reduced levels if the cadastral survey has a referenced height-limited boundary point."¶"Cadastral Survey Rules 2021: r 34"
-Rule1274¶"Referencing height limited boundary point 1"¶"A new height limited boundary point on a unit parcel must be referenced by a permanent reference mark."¶"Cadastral Survey Rules 2021: r 61(1)"
+|- an adopted arc."¶"Cadastral Survey Rules 2021: r 78(c)
+Rule1041¶"Record of Survey Vector Information 6"¶"A record of survey must include the type of equipment used in the field measurement of each measured vector in the cadastral survey."¶"Cadastral Survey Rules 2021: r 78(d)
+Rule1185¶"Reference mark for height limited boundary"¶"A cadastral survey must consist of at least two permanent reference marks that have reduced levels if the cadastral survey has a referenced height-limited boundary point."¶"Cadastral Survey Rules 2021: r 34
+Rule1274¶"Referencing height limited boundary point 1"¶"A new height limited boundary point on a unit parcel must be referenced by a permanent reference mark."¶"Cadastral Survey Rules 2021: r 61(1)
 Rule1279¶"Referencing height limited boundary point 2"¶"A new height limited boundary point on a parcel need not be referenced by a permanent reference mark only if the parcel is any of the following:
 |- an easement parcel
 |- a lease
-|- a covenant parcel."¶"Cadastral Survey Rules 2021: r 61(2)"
-Rule1278¶"Referencing height limited boundary point 3"¶"A new height limited boundary point that coincides with an accepted boundary need not be referenced by a permanent reference mark."¶"Cadastral Survey Rules 2021: r 61(3)"
-Rule1277¶"Referencing height limited boundary point 4"¶"A new height limited boundary point on a unit parcel required to be referenced by a permanent reference mark must be less than or equal to 150 m distant from a permanent reference mark if the accuracy class of the boundary point is class A."¶"Cadastral Survey Rules 2021: r 61(4)(a)"
-Rule1276¶"Referencing height limited boundary point 5"¶"A new height limited boundary point on a unit parcel required to be referenced by a permanent reference mark must be less than or equal to 500 m distant from a permanent reference mark if the accuracy class of the boundary point is class B."¶"Cadastral Survey Rules 2021: r 61(4)(b)"
-Rule1275¶"Referencing height limited boundary point 6"¶"A cadastral survey that includes a height limited boundary point must include at least 2 permanent reference marks with reduced levels."¶"Cadastral Survey Rules 2021: r 61(5)"
-Rule1270¶"Reinstated survey mark"¶"A survey mark must be considered a new survey mark if the survey mark is a reinstated survey mark."¶"Cadastral Survey Rules 2021: sch 2, definition of \"reinstated survey mark\""
+|- a covenant parcel."¶"Cadastral Survey Rules 2021: r 61(2)
+Rule1278¶"Referencing height limited boundary point 3"¶"A new height limited boundary point that coincides with an accepted boundary need not be referenced by a permanent reference mark."¶"Cadastral Survey Rules 2021: r 61(3)
+Rule1277¶"Referencing height limited boundary point 4"¶"A new height limited boundary point on a unit parcel required to be referenced by a permanent reference mark must be less than or equal to 150 m distant from a permanent reference mark if the accuracy class of the boundary point is class A."¶"Cadastral Survey Rules 2021: r 61(4)(a)
+Rule1276¶"Referencing height limited boundary point 5"¶"A new height limited boundary point on a unit parcel required to be referenced by a permanent reference mark must be less than or equal to 500 m distant from a permanent reference mark if the accuracy class of the boundary point is class B."¶"Cadastral Survey Rules 2021: r 61(4)(b)
+Rule1275¶"Referencing height limited boundary point 6"¶"A cadastral survey that includes a height limited boundary point must include at least 2 permanent reference marks with reduced levels."¶"Cadastral Survey Rules 2021: r 61(5)
+Rule1270¶"Reinstated survey mark"¶"A survey mark must be considered a new survey mark if the survey mark is a reinstated survey mark."¶"Cadastral Survey Rules 2021: sch 2, definition of \"reinstated survey mark\"
 Rule1105¶"Reinstatement diagram"¶"A reinstatement diagram for a simple boundary reinstatement CSD must include the following:
 |- a depiction of all survey marks and their unique names (which may be in abbreviated form)
 |- a depiction of all measured vectors between all survey marks, but is not required to show the bearings and distances
 |- a depiction of the primary parcel boundaries being reinstated
 |- the appellation of the parcel whose boundary is being reinstated
-|- the name or (if no name is available) a simple description of any road, railway, or water body that abuts the boundaries being reinstated."¶"Cadastral Survey Rules 2021: r 120"
-Rule1103¶"Reinstatement diagram plan symbols and text"¶"Information on a reinstatement diagram must conform to the symbol, line style, and text requirements specified in Schedule 7."¶"Cadastral Survey Rules 2021: r 121"
-Rule1272¶"Renewed survey mark"¶"A survey mark must be considered a new survey mark if the survey mark is a renewed survey mark."¶"Cadastral Survey Rules 2021: Inferred from the definition of \"renewed survey mark'; https://jira.linz.govt.nz/browse/BRC-12"
-Rule1256¶"Revoking part of existing covenant"¶"A new parcel must be created by a cadastral survey for each portion of an existing covenant parcel that is revoked and that remains if part of the covenant is revoked and the underlying parcel of that covenant parcel is not created by that cadastral survey."¶"Cadastral Survey Rules 2021: r 48"
+|- the name or (if no name is available) a simple description of any road, railway, or water body that abuts the boundaries being reinstated."¶"Cadastral Survey Rules 2021: r 120
+Rule1103¶"Reinstatement diagram plan symbols and text"¶"Information on a reinstatement diagram must conform to the symbol, line style, and text requirements specified in Schedule 7."¶"Cadastral Survey Rules 2021: r 121
+Rule1272¶"Renewed survey mark"¶"A survey mark must be considered a new survey mark if the survey mark is a renewed survey mark."¶"Cadastral Survey Rules 2021: Inferred from the definition of \"renewed survey mark'; https://jira.linz.govt.nz/browse/BRC-12
+Rule1256¶"Revoking part of existing covenant"¶"A new parcel must be created by a cadastral survey for each portion of an existing covenant parcel that is revoked and that remains if part of the covenant is revoked and the underlying parcel of that covenant parcel is not created by that cadastral survey."¶"Cadastral Survey Rules 2021: r 48
 Rule1424¶"Rule 10001 (copy of Derivation of class A boundary is subject to conflict 1)"¶"A boundary must be considered a boundary subject to conflict if all of the following are true:
 |- the boundary is an existing boundary
-|- the accuracy [relative] between a boundary point that is included in the boundary and a boundary point that is included in an estate boundary that coincides with the boundary is not class A."¶"Cadastral Survey Rules 2021: sch 2, definition of \"conflict\""
+|- the accuracy [relative] between a boundary point that is included in the boundary and a boundary point that is included in an estate boundary that coincides with the boundary is not class A."¶"Cadastral Survey Rules 2021: sch 2, definition of \"conflict\"
 Rule1380¶"Rule 10001 (copy of Rule 10001 (copy of Derivation of boundary is subject to conflict))"¶"A boundary must be considered a boundary subject to conflict if there is a difference that has not been resolved by 1 or more approved CSDs and the difference exceeds the applicable accuracy standards between any of the following:
 |- an estate boundary and the coinciding boundary recorded in an approved CSD
 |- the same boundary as recorded in different approved CSDs
-|- the same boundary as recorded in an approved CSD and other evidence that includes field evidence."¶"Cadastral Survey Rules 2021: sch 2, definition of \"conflict\""|"Survey and Titles Glossary: Estate boundary (glossary); https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17006971"
-Rule1499¶"Source of adopted value"¶"A CSD must be the source of information for an adopted value if that CSD measured or calculated the adopted value."¶"Cadastral Survey Rules 2021: r 75(2)(a)"
-Rule1500¶"Source of adopted water or irregular boundary"¶"A CSD must be the source of information for an adopted water or irregular boundary if that CSD measured or defined the adopted boundary."¶"Cadastral Survey Rules 2021: r 75(2)(b)"
-Rule1445¶"Statutory water body width and water or irregular boundaries"¶"A water or irregular boundary that is not an accepted boundary must have its position determined to a level of accuracy [positional] that prevents a parcel defined by the boundary infringing any statutory requirement applying to the width or size of a water body that adjoins the boundary."¶"Cadastral Survey Rules 2021: r 29(2)(b); r 29(3)"
-Rule1322¶"Suervey diagram boundary annotations"¶"A survey diagram must clearly depict the annotations related to the each relevant boundaries included in the survey diagram according to the boundary annotations for survey diagrams table."¶"Cadastral Survey Rules 2021: r 88"
-Rule1369¶"Surevy report - general information 2"¶"A survey report included in a CSD must contain an explanation for not including a certification of survey plan approval if the CSD is for a Crown subdivision."¶"Cadastral Survey Rules 2021: r 72(b)"
+|- the same boundary as recorded in an approved CSD and other evidence that includes field evidence."¶"Cadastral Survey Rules 2021: sch 2, definition of \"conflict\"|Survey and Titles Glossary: Estate boundary (glossary); https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17006971"
+Rule1499¶"Source of adopted value"¶"A CSD must be the source of information for an adopted value if that CSD measured or calculated the adopted value."¶"Cadastral Survey Rules 2021: r 75(2)(a)
+Rule1500¶"Source of adopted water or irregular boundary"¶"A CSD must be the source of information for an adopted water or irregular boundary if that CSD measured or defined the adopted boundary."¶"Cadastral Survey Rules 2021: r 75(2)(b)
+Rule1445¶"Statutory water body width and water or irregular boundaries"¶"A water or irregular boundary that is not an accepted boundary must have its position determined to a level of accuracy [positional] that prevents a parcel defined by the boundary infringing any statutory requirement applying to the width or size of a water body that adjoins the boundary."¶"Cadastral Survey Rules 2021: r 29(2)(b); r 29(3)
+Rule1322¶"Suervey diagram boundary annotations"¶"A survey diagram must clearly depict the annotations related to the each relevant boundaries included in the survey diagram according to the boundary annotations for survey diagrams table."¶"Cadastral Survey Rules 2021: r 88
+Rule1369¶"Surevy report - general information 2"¶"A survey report included in a CSD must contain an explanation for not including a certification of survey plan approval if the CSD is for a Crown subdivision."¶"Cadastral Survey Rules 2021: r 72(b)
 Rule1374¶"Surevy report - ground marking 1"¶"A survey report included in a CSD must contain the following reasons about marks where applicable:
 |- reasons why it was impracticable for a mark to be placed at a new boundary point that is included in a boundary that defines a new primary parcel 
-|- reasons why it was impracticable for a mark to be placed at a boundary point that is included in an existing boundary that defines a new primary parcel."¶"Cadastral Survey Rules 2021: r 35; r 72(m)"
+|- reasons why it was impracticable for a mark to be placed at a boundary point that is included in an existing boundary that defines a new primary parcel."¶"Cadastral Survey Rules 2021: r 35; r 72(m)
 Rule1388¶"Surevy report - ground marking 2"¶"A survey report included in a CSD must contain details to support the exemption of a mark to be placed at a new boundary point that is included in a boundary that defines a new primary parcel in the following circumstances:
 |- all parcels that are adjacent to the boundary point are new parcels intended to be owned by the Crown
 |- all parcels that are adjacent to the boundary point are new parcels intended to be owned by the same territorial authority
 |- the Maori Land Court does not require a mark to be placed at a boundary point that is included in the boundary
 |- all parcels that are adjacent to the boundary point are or will be held in common ownership
 |- the parcels on each side of the boundary are or will be subject to a reciprocal right of way
-|- the terrain, ground cover, or protected vegetation make it unlikely that the boundary point will need to be physically located."¶"Cadastral Survey Rules 2021: r 35(1)(a); r 35(1)(b); r 35(1)(c); r 35(1)(d); r 35(1)(e); r 72(n)"
-Rule1090¶"Surrendering part of existing easement"¶"A new parcel must be created by a cadastral survey for each portion of an existing easement parcel that is surrendered and that remains if part of the easement is surrendered and the underlying parcel of that easement parcel is not created by that cadastral survey."¶"Cadastral Survey Rules 2021: r 48"
-Rule1387¶"Survey diagram boundary accuracy information"¶"A survey diagram must depict a water or irregular boundary at a scale that is adequate to meet the accuracy [positional] required for the water or irregular boundary."¶"Cadastral Survey Rules 2021: r 85(b)"
-Rule1115¶"Survey diagram height limit boundaries information"¶"A survey diagram must show sufficient information to enable the relationship between any position on a height limited boundary surface and another boundary that defines the same parcel to be accurately ascertained for a height limited boundary that is mathematically described."¶"Cadastral Survey Rules 2021: r 86"
-Rule1454¶"Survey diagram horizontal extent  boundary relationship parcel information"¶"A survey diagram must include a depiction of the relationships between a parcel and its boundaries and boundary points in the horizontal extent."¶"Cadastral Survey Rules 2021: r 83(d)"
-Rule1111¶"Survey diagram horizontal extent of parcel information"¶"A survey diagram must include a depiction of the horizontal extent of each parcel that is not a balance parcel in the CSD."¶"Cadastral Survey Rules 2021: r 83(a)"
+|- the terrain, ground cover, or protected vegetation make it unlikely that the boundary point will need to be physically located."¶"Cadastral Survey Rules 2021: r 35(1)(a); r 35(1)(b); r 35(1)(c); r 35(1)(d); r 35(1)(e); r 72(n)
+Rule1090¶"Surrendering part of existing easement"¶"A new parcel must be created by a cadastral survey for each portion of an existing easement parcel that is surrendered and that remains if part of the easement is surrendered and the underlying parcel of that easement parcel is not created by that cadastral survey."¶"Cadastral Survey Rules 2021: r 48
+Rule1387¶"Survey diagram boundary accuracy information"¶"A survey diagram must depict a water or irregular boundary at a scale that is adequate to meet the accuracy [positional] required for the water or irregular boundary."¶"Cadastral Survey Rules 2021: r 85(b)
+Rule1115¶"Survey diagram height limit boundaries information"¶"A survey diagram must show sufficient information to enable the relationship between any position on a height limited boundary surface and another boundary that defines the same parcel to be accurately ascertained for a height limited boundary that is mathematically described."¶"Cadastral Survey Rules 2021: r 86
+Rule1454¶"Survey diagram horizontal extent  boundary relationship parcel information"¶"A survey diagram must include a depiction of the relationships between a parcel and its boundaries and boundary points in the horizontal extent."¶"Cadastral Survey Rules 2021: r 83(d)
+Rule1111¶"Survey diagram horizontal extent of parcel information"¶"A survey diagram must include a depiction of the horizontal extent of each parcel that is not a balance parcel in the CSD."¶"Cadastral Survey Rules 2021: r 83(a)
 Rule1112¶"Survey diagram irregular boundary information"¶"A survey diagram must depict a water or irregular boundary at a scale that clearly shows all of the following:
 |- the shape of the boundary
-|- the relationship of the boundary to other boundaries."¶"Cadastral Survey Rules 2021: r 85(a)"
-Rule1110¶"Survey diagram movable marginal strip information"¶"A survey diagram must depict a parcel that is a movable marginal strip as being contained within the underlying primary parcel of the movable marginal strip."¶"Cadastral Survey Rules 2021: r 84"
-Rule1455¶"Survey diagram non primary parcel information"¶"A survey diagram must include a depiction of the boundaries that define any non-primary parcel and the boundaries of underlying parcel of the non-primary parcel so that the location of the non-primary parcel within the underlying parcel is clear and unambiguous."¶"Cadastral Survey Rules 2021: r 83(e)"
-Rule1460¶"Survey diagram north point"¶"A survey diagram must include a north point shown on every sheet of the survey diagram."¶"Cadastral Survey Rules 2021: r 91(c)"
-Rule1381¶"Survey diagram parcel annotations"¶"A survey diagram must clearly depict the annotations related to the each relevant parcel included in the survey diagram according to the parcel annotations for survey diagrams table."¶"Cadastral Survey Rules 2021: r 87"
-Rule1453¶"Survey diagram parcel appellation information"¶"A survey diagram must include a depiction of the appellation of each new parcel in the CSD."¶"Cadastral Survey Rules 2021: r 83(c)"
+|- the relationship of the boundary to other boundaries."¶"Cadastral Survey Rules 2021: r 85(a)
+Rule1110¶"Survey diagram movable marginal strip information"¶"A survey diagram must depict a parcel that is a movable marginal strip as being contained within the underlying primary parcel of the movable marginal strip."¶"Cadastral Survey Rules 2021: r 84
+Rule1455¶"Survey diagram non primary parcel information"¶"A survey diagram must include a depiction of the boundaries that define any non-primary parcel and the boundaries of underlying parcel of the non-primary parcel so that the location of the non-primary parcel within the underlying parcel is clear and unambiguous."¶"Cadastral Survey Rules 2021: r 83(e)
+Rule1460¶"Survey diagram north point"¶"A survey diagram must include a north point shown on every sheet of the survey diagram."¶"Cadastral Survey Rules 2021: r 91(c)
+Rule1381¶"Survey diagram parcel annotations"¶"A survey diagram must clearly depict the annotations related to the each relevant parcel included in the survey diagram according to the parcel annotations for survey diagrams table."¶"Cadastral Survey Rules 2021: r 87
+Rule1453¶"Survey diagram parcel appellation information"¶"A survey diagram must include a depiction of the appellation of each new parcel in the CSD."¶"Cadastral Survey Rules 2021: r 83(c)
 Rule1452¶"Survey diagram parcel polygon information"¶"A survey diagram must include a representation of each parcel in the CSD as a polygon or polyhedron if the parcel is not an existing centre-line easement for which all of the following are true:
 |- the width of the centre-line easement is unknown
-|- the width of the centre-line easement is accepted within a large rural parcel with accepted boundaries."¶"Cadastral Survey Rules 2021: r 49; r 83(b)"
+|- the width of the centre-line easement is accepted within a large rural parcel with accepted boundaries."¶"Cadastral Survey Rules 2021: r 49; r 83(b)
 Rule1385¶"Survey diagram presentation of information"¶"The information included in a survey diagram must be all of the following:
 |- clear
 |- unambiguous
-|- legible when printed at A3 size."¶"Cadastral Survey Rules 2021: r 91(a); r 91(b)"
+|- legible when printed at A3 size."¶"Cadastral Survey Rules 2021: r 91(a); r 91(b)
 Rule1384¶"Survey diagram symbols"¶"The diagram plan symbols and text information on a survey diagram must conform to all of the following requirements specified in the symbols for survey marks table:
 |- symbol requirements
 |- line style requirements
-|- text requirements."¶"Cadastral Survey Rules 2021: r 90; sch 7"
-Rule1456¶"Survey diagram unique parcel appellation information"¶"The depiction of the appellation of each new parcel in a CSD that is included in a survey diagram may be abbreviated only if the appellation is unique."¶"Cadastral Survey Rules 2021: r 83(c)"
+|- text requirements."¶"Cadastral Survey Rules 2021: r 90; sch 7
+Rule1456¶"Survey diagram unique parcel appellation information"¶"The depiction of the appellation of each new parcel in a CSD that is included in a survey diagram may be abbreviated only if the appellation is unique."¶"Cadastral Survey Rules 2021: r 83(c)
 Rule1383¶"Survey diagram vectors"¶"A survey diagram must include:
 |- at least 1 measured vector to every survey mark
 |- measured vectors to at least 2 other non-boundary marks for every new non-boundary mark that is not disturbed
 |- measured vectors between each boundary mark and a permanent reference mark 
 |- the adopted or calculated vectors used for the purpose of boundary definition
 |- at least 1 vector to each boundary point that is included in a water or irregular boundary 
-|- any vector required to connect the survey to cadastral survey network marks"¶"Cadastral Survey Rules 2021: r 89(a); r 89(b); r 89(c); r 89(d); r 89(e); r 89(f)"
-Rule1425¶"Survey diagram vectors non-primary parcels"¶"A survey diagram must include least 2 boundary points on every non-primary parcel that are connected to a minimum of 2 underlying primary parcel boundary points either through being coincident or by vectors if the relationship to the underlying parcel is not being inaccurately determined."¶"Cadastral Survey Rules 2021: r 89(g)"
-Rule1457¶"Survey diagram vertical extent boundary relationship parcel information"¶"A survey diagram must include a depiction of the relationships between a parcel and its boundaries and boundary points in the vertical extent if a height limited boundary defines the parcel."¶"Cadastral Survey Rules 2021: r 83(d)"
-Rule1451¶"Survey diagram vertical extent of parcel information"¶"A survey diagram must include a depiction of the vertical extent of each parcel that is not a balance parcel and that is defined by height limited boundary in the CSD."¶"Cadastral Survey Rules 2021: r 83(a)"
+|- any vector required to connect the survey to cadastral survey network marks"¶"Cadastral Survey Rules 2021: r 89(a); r 89(b); r 89(c); r 89(d); r 89(e); r 89(f)
+Rule1425¶"Survey diagram vectors non-primary parcels"¶"A survey diagram must include least 2 boundary points on every non-primary parcel that are connected to a minimum of 2 underlying primary parcel boundary points either through being coincident or by vectors if the relationship to the underlying parcel is not being inaccurately determined."¶"Cadastral Survey Rules 2021: r 89(g)
+Rule1457¶"Survey diagram vertical extent boundary relationship parcel information"¶"A survey diagram must include a depiction of the relationships between a parcel and its boundaries and boundary points in the vertical extent if a height limited boundary defines the parcel."¶"Cadastral Survey Rules 2021: r 83(d)
+Rule1451¶"Survey diagram vertical extent of parcel information"¶"A survey diagram must include a depiction of the vertical extent of each parcel that is not a balance parcel and that is defined by height limited boundary in the CSD."¶"Cadastral Survey Rules 2021: r 83(a)
 Rule1109¶"Survey mark and point information on survey diagram 1"¶"A survey diagram must include all of the following:
 |- a depiction of each mark used for the purposes of the cadastral survey
 |- a depiction of each point used for the purposes of the cadastral survey
 |- the reduced level of any permanent reference mark required to have a reduced level
-|- the reduced level of any vertical control mark."¶"Cadastral Survey Rules 2021: r 18; r 34; r 61(5); r 62(2); r 82(a); r 82(d); r 82(e)"
+|- the reduced level of any vertical control mark."¶"Cadastral Survey Rules 2021: r 18; r 34; r 61(5); r 62(2); r 82(a); r 82(d); r 82(e)
 Rule1419¶"Survey mark and point information on survey diagram 2"¶"A survey diagram must include a depiction of the components of a mark name consisting of all of the following:
 |- an abbreviation that describes the physical mark type for each mark that is not a peg and is not a post
 |- the identifier for each mark and each point
-|- the CSD number for each mark and each point"¶"Cadastral Survey Rules 2021: r 82(b)"
-Rule1418¶"Survey mark and point information on survey diagram 3"¶"A survey diagram must include the former name for each renewed survey mark and whether the survey mark is renewed."¶"Cadastral Survey Rules 2021: r 82(c)"
-Rule1449¶"Survey mark and point information on survey diagram 4"¶"A survey diagram must include the former name for each disturbed survey mark and whether the survey mark disturbed."¶"Cadastral Survey Rules 2021: r 82(c)"
-Rule1450¶"Survey mark and point information on survey diagram 5"¶"A survey diagram must include the former name for each removed survey mark and whether the survey mark is removed."¶"Cadastral Survey Rules 2021: r 82(c)"
-Rule1271¶"Survey mark change of position due to earthquake"¶"An old survey mark must not be considered a disturbed survey mark if the survey mark has changed position due to a change of position due to Canterbury earthquake movement or fault zone movement."¶"Cadastral Survey Rules 2021: sch 2, definition of \"disturbed survey mark\""
+|- the CSD number for each mark and each point"¶"Cadastral Survey Rules 2021: r 82(b)
+Rule1418¶"Survey mark and point information on survey diagram 3"¶"A survey diagram must include the former name for each renewed survey mark and whether the survey mark is renewed."¶"Cadastral Survey Rules 2021: r 82(c)
+Rule1449¶"Survey mark and point information on survey diagram 4"¶"A survey diagram must include the former name for each disturbed survey mark and whether the survey mark disturbed."¶"Cadastral Survey Rules 2021: r 82(c)
+Rule1450¶"Survey mark and point information on survey diagram 5"¶"A survey diagram must include the former name for each removed survey mark and whether the survey mark is removed."¶"Cadastral Survey Rules 2021: r 82(c)
+Rule1271¶"Survey mark change of position due to earthquake"¶"An old survey mark must not be considered a disturbed survey mark if the survey mark has changed position due to a change of position due to Canterbury earthquake movement or fault zone movement."¶"Cadastral Survey Rules 2021: sch 2, definition of \"disturbed survey mark\"
 Rule1309¶"Survey mark name retention"¶"A mark with a unique name must retain that name in a record of survey if the mark is any of the following:
 |- an undisturbed old mark
 |- a removed mark
-|- an adopted mark."¶"Cadastral Survey Rules 2021: r 80(4)"
-Rule1403¶"Survey mark not recorded in record of survey"¶"A survey mark that is not able to be recorded in a record of survey must be included in a survey report."¶"Cadastral Survey Rules 2021: r 80(7)"
+|- an adopted mark."¶"Cadastral Survey Rules 2021: r 80(4)
+Rule1403¶"Survey mark not recorded in record of survey"¶"A survey mark that is not able to be recorded in a record of survey must be included in a survey report."¶"Cadastral Survey Rules 2021: r 80(7)
 Rule1026¶"Survey mark state"¶"A record of survey must indicate if a survey mark is any of the following:
 |- a disturbed survey mark
 |- a renewed survey mark
-|- a removed survey mark."¶"Cadastral Survey Rules 2021: r 80(5)"
+|- a removed survey mark."¶"Cadastral Survey Rules 2021: r 80(5)
 Rule1029¶"Survey marks in record of survey"¶"A record of survey must include all of the following used for the purposes of a cadastral survey:
 |- all survey marks 
-|- all points."¶"Cadastral Survey Rules 2021: r 80(1)"
+|- all points."¶"Cadastral Survey Rules 2021: r 80(1)
 Rule1494¶"Survey report - basis for bearing adjustments"¶"A survey report included in a CSD must provide for the basis for any bearing adjustment applied to an adopted bearing through the conduct of any of the following:
 |- a direct comparison of control vectors that are common to the new cadastral survey and the comparison approved CSD 
 |- re-observation of several vectors from a previously approved CSD
-|- a ray trace analysis."¶"Cadastral Survey Rules 2021: r 72(d)"|"Survey Knowledge Portal: Bearing correction/adjustment; https://confluence.linz.govt.nz/pages/releaseview.action?pageId=11961481"|": Capturing Referenced Surveys & Bearing Corrections in a CSD; LINZ KnowledgeBase; https://www.linz.govt.nz/kb/907"
+|- a ray trace analysis."¶"Cadastral Survey Rules 2021: r 72(d)|Survey Knowledge Portal: Bearing correction/adjustment; https://confluence.linz.govt.nz/pages/releaseview.action?pageId=11961481"|: Capturing Referenced Surveys & Bearing Corrections in a CSD; LINZ KnowledgeBase; https://www.linz.govt.nz/kb/907"
 Rule1370¶"Survey report - bearings and levels"¶"A survey report included in a CSD must contain the following information about bearings and levels where applicable:
 |- the basis for determining the orientation of bearings to the horizontal projection used
 |- the basis for any bearing adjustment applied to an adopted bearing
-|- the basis for determining the origin of levels."¶"Cadastral Survey Rules 2021: r 72(c); r 72(d); r 72(e)"
+|- the basis for determining the origin of levels."¶"Cadastral Survey Rules 2021: r 72(c); r 72(d); r 72(e)
 Rule1390¶"Survey report - correspondence"¶"A survey report included in a CSD must contain the following correspondence information where applicable:
 |- reference to any prior correspondence with LINZ on issues relevant to the application of the cadastral survey rules to the CSD
 |- notification of confirmation from the Maori Land Court of an alternative legal description to be used for a parcel ID for a new parcel described as a Maori freehold land in the CSD 
-|- notification from the Maori Land Court to support the exemption of a mark to be placed at a new boundary point that is included in a boundary that defines a new primary parcel in the CSD."¶"Cadastral Survey Rules 2021: r 72(p); r 72(q); r 72(r)"
+|- notification from the Maori Land Court to support the exemption of a mark to be placed at a new boundary point that is included in a boundary that defines a new primary parcel in the CSD."¶"Cadastral Survey Rules 2021: r 72(p); r 72(q); r 72(r)
 Rule1076¶"Survey report - definition information"¶"A survey report included in a CSD must contain the following information about parcel definitions where applicable:
 |- details of any conflict and how the conflict was resolved
 |- reasons for not relying on any old survey marks
@@ -712,44 +712,44 @@ Rule1076¶"Survey report - definition information"¶"A survey report included in
 |- reasons for, details of and the information considered in reaching decisions made about any existing boundary that is defined by survey
 |- a description of the method used to determine the existence of each movable marginal strip included in that CSD
 |- information about the level of accuracy [positional] and the factors taken into account in determining any water or irregular boundary
-|- information on why the physical margin of the water body is no longer coincident with an adopted water boundary."¶"Cadastral Survey Rules 2021: r 72(f); r 72(g); r 72(h); r 72(i); r 72(j); r 72(k); r 72(l); r 80(7)"
-Rule1389¶"Survey report - equipment"¶"A survey report included in a CSD must contain a description of the type of equipment and methods used to ensure compliance with the accuracy standards under the cadastral survey rules."¶"Cadastral Survey Rules 2021: r 72(o)"
+|- information on why the physical margin of the water body is no longer coincident with an adopted water boundary."¶"Cadastral Survey Rules 2021: r 72(f); r 72(g); r 72(h); r 72(i); r 72(j); r 72(k); r 72(l); r 80(7)
+Rule1389¶"Survey report - equipment"¶"A survey report included in a CSD must contain a description of the type of equipment and methods used to ensure compliance with the accuracy standards under the cadastral survey rules."¶"Cadastral Survey Rules 2021: r 72(o)
 Rule1330¶"Survey report - general information 1"¶"A survey report included in a CSD must contain all of the following:
 |- the survey purpose for which the cadastral survey was conducted
-|- reference to enactments that enabled the achievement of that survey purpose."¶"Cadastral Survey Rules 2021: r 72(a)"
+|- reference to enactments that enabled the achievement of that survey purpose."¶"Cadastral Survey Rules 2021: r 72(a)
 Rule1106¶"Survey report for simple boundary reinstatement CSD"¶"A survey report included in a simple boundary reinstatement CSD must include all of the following:
 |- the basis for determining the orientation of bearings
 |- the basis for any bearing adjustment applied to an adopted bearing
 |- reasons for and details of decisions made about an existing boundary point that is defined by survey
-|- the information considered in reaching decisions made about an existing boundary point that is defined by survey."¶"Cadastral Survey Rules 2021: r 118"
-Rule1099¶"Symbol and text colour"¶"Symbols and text of a diagram plan must be black in colour."¶"Cadastral Survey Rules 2021: sch 7(1)(2)"
-Rule1098¶"Symbol and text depiction"¶"Information on a survey, title, or reinstatement diagram must conform to the symbol and text requirements in Schedule 7."¶"Cadastral Survey Rules 2021: sch 7(1)(1)"
+|- the information considered in reaching decisions made about an existing boundary point that is defined by survey."¶"Cadastral Survey Rules 2021: r 118
+Rule1099¶"Symbol and text colour"¶"Symbols and text of a diagram plan must be black in colour."¶"Cadastral Survey Rules 2021: sch 7(1)(2)
+Rule1098¶"Symbol and text depiction"¶"Information on a survey, title, or reinstatement diagram must conform to the symbol and text requirements in Schedule 7."¶"Cadastral Survey Rules 2021: sch 7(1)(1)
 Rule1100¶"Symbols for survey marks"¶"The symbols in table 8 of Schedule 7 of RCS 2020 must be used for survey marks.
 |When a survey mark serves more than one purpose, a symbol higher up the table takes precedence over a symbol below it.
 |The symbol for a disturbed survey mark in its disturbed new position must be the same as that for a new mark.
-|The symbol for a renewed survey mark must be the same as that for an old mark."¶"Cadastral Survey Rules 2021: sch 7(2)"
-Rule1481¶"Title plan area schedule 1"¶"A title plan for legalisation must include an area schedule."¶"Cadastral Survey Rules 2021: r 96(1)"
+|The symbol for a renewed survey mark must be the same as that for an old mark."¶"Cadastral Survey Rules 2021: sch 7(2)
+Rule1481¶"Title plan area schedule 1"¶"A title plan for legalisation must include an area schedule."¶"Cadastral Survey Rules 2021: r 96(1)
 Rule1482¶"Title plan area schedule 2"¶"The area schedule included in a title plan for legalisation must be in tabular form and must include all of the following:
 |- the heading \"Schedule of Areas\"
 |- each parcel type and parcel ID
 |- the intended action for all areas
 |- the estate record reference
-|- the area of each primary parcel and lease parcel."¶"Cadastral Survey Rules 2021: r 96(2)"
-Rule1479¶"Title plan covenant information 1"¶"A title plan must include a notation for a new covenant or an existing covenant defined on an approved CSD that is retained in the cadastral survey."¶"Cadastral Survey Rules 2021: r 95(1)"
+|- the area of each primary parcel and lease parcel."¶"Cadastral Survey Rules 2021: r 96(2)
+Rule1479¶"Title plan covenant information 1"¶"A title plan must include a notation for a new covenant or an existing covenant defined on an approved CSD that is retained in the cadastral survey."¶"Cadastral Survey Rules 2021: r 95(1)
 Rule1480¶"Title plan covenant information 2"¶"A title plan notation must include all of the following:
 |- the parcel ID of any covenant parcel
 |- the parcel intent
-|- the reference to any document that created any existing covenant"¶"Cadastral Survey Rules 2021: r 95(2)"
-Rule1477¶"Title plan existing easement information 1"¶"A title plan must include information about each existing subject easement that is retained in the cadastral survey."¶"Cadastral Survey Rules 2021: r 94(1)"
+|- the reference to any document that created any existing covenant"¶"Cadastral Survey Rules 2021: r 95(2)
+Rule1477¶"Title plan existing easement information 1"¶"A title plan must include information about each existing subject easement that is retained in the cadastral survey."¶"Cadastral Survey Rules 2021: r 94(1)
 Rule1487¶"Title plan existing easement information 22"¶"A title plan for a unit title development must include information about all of the following:
 |- each existing subject easement that is retained in the cadastral survey
-|- each existing appurtenant easement for a unit title development that is retained in the cadastral survey."¶"Cadastral Survey Rules 2021: r 94(1)"
+|- each existing appurtenant easement for a unit title development that is retained in the cadastral survey."¶"Cadastral Survey Rules 2021: r 94(1)
 Rule1478¶"Title plan existing easement information 3"¶"The easement information included in a title plan must be provided in tabular form and must include all of the following:
 |- the heading \"Schedule of Existing Easements\"
 |- the parcel ID of the easement parcel
 |- the purpose of the easement
 |- the reference to any document that created the easement 
-|- the burdened land."¶"Cadastral Survey Rules 2021: r 94(2)"
+|- the burdened land."¶"Cadastral Survey Rules 2021: r 94(2)
 Rule1118¶"Title plan information"¶"A title plan must include all of the following:
 |- a title diagram
 |- the name of the territorial authority
@@ -763,68 +763,68 @@ Rule1118¶"Title plan information"¶"A title plan must include all of the follow
 |- the reference to any document that created an easement to be surrendered
 |- the reference to any document that created a covenant to be revoked 
 |- the estate record references for the land under survey
-|- the dataset description."¶"Cadastral Survey Rules 2021: r 92(a); r 92(b); r 92(c); r 92(d); r 92(f); r 92(g); r 92(h); r 92(i); r 92(j)"
-Rule1119¶"Title plan new easement information 1"¶"A title plan must include a memorandum containing information about any new easement if the easement is required by a territorial authority."¶"Cadastral Survey Rules 2021: r 93(1)(a)"
-Rule1486¶"Title plan new easement information 2"¶"A title plan must include a schedule containing information about any new easement if the easement is not required by a territorial authority."¶"Cadastral Survey Rules 2021: r 93(1)(b)"
+|- the dataset description."¶"Cadastral Survey Rules 2021: r 92(a); r 92(b); r 92(c); r 92(d); r 92(f); r 92(g); r 92(h); r 92(i); r 92(j)
+Rule1119¶"Title plan new easement information 1"¶"A title plan must include a memorandum containing information about any new easement if the easement is required by a territorial authority."¶"Cadastral Survey Rules 2021: r 93(1)(a)
+Rule1486¶"Title plan new easement information 2"¶"A title plan must include a schedule containing information about any new easement if the easement is not required by a territorial authority."¶"Cadastral Survey Rules 2021: r 93(1)(b)
 Rule1120¶"Title plan new easement information 3"¶"A memorandum containing information about any new easement included in a title plan must be in tabular form and include all of the following:
 | - the heading 'Memorandum of Easements'
 | - the easement parcel identifier
 | - the purpose of the easement
 | - the burdened land
-| - the benefited land or grantee."¶"Cadastral Survey Rules 2021: r 93(2)"
+| - the benefited land or grantee."¶"Cadastral Survey Rules 2021: r 93(2)
 Rule1492¶"Title plan new easement information 4"¶"A schedule containing information about any new easement included in a title plan must be in tabular form and include all of the following:
 | - the heading 'Schedule of Easements'
 | - the easement parcel identifier
 | - the purpose of the easement
 | - the burdened land
-| - the benefited land or grantee."¶"Cadastral Survey Rules 2021: r 93(2)"
+| - the benefited land or grantee."¶"Cadastral Survey Rules 2021: r 93(2)
 Rule1485¶"Title plan sheet information"¶"A title plan must include all of the following on every sheet of the title plan:
 |- the CSD number
 |- the sheet number
-|- the total number of sheets."¶"Cadastral Survey Rules 2021: r 92(e)"
-Rule1046¶"Unique identifier"¶"An ID within a CSD must be unique."¶"Cadastral Survey Rules 2021: r 45(d); r 80(2)"
-Rule1044¶"Unique parcel identifier criteria 1"¶"A parcel ID number must be a positive integer."¶"Cadastral Survey Rules 2021: r 45(b); https://jira.linz.govt.nz/browse/STEPBR-105"
-Rule1045¶"Unique parcel identifier criteria 2"¶"A parcel ID letter must be in uppercase."¶"Cadastral Survey Rules 2021: r 45(c); https://jira.linz.govt.nz/browse/STEPBR-122"
-Rule1043¶"Unique parcel identifier format"¶"A parcel identifier format must be determined according to the parcel identifier format table."¶"Cadastral Survey Rules 2021: r 45(a)"
-Rule1260¶"Unit parcel common boundary with unchanged parcel"¶"The boundary of a new parcel may be accepted only if the boundary of the new parcel is in common with an unchanged parcel that is not a future development unit."¶"Cadastral Survey Rules 2021: r 58(4)"
+|- the total number of sheets."¶"Cadastral Survey Rules 2021: r 92(e)
+Rule1046¶"Unique identifier"¶"An ID within a CSD must be unique."¶"Cadastral Survey Rules 2021: r 45(d); r 80(2)
+Rule1044¶"Unique parcel identifier criteria 1"¶"A parcel ID number must be a positive integer."¶"Cadastral Survey Rules 2021: r 45(b); https://jira.linz.govt.nz/browse/STEPBR-105
+Rule1045¶"Unique parcel identifier criteria 2"¶"A parcel ID letter must be in uppercase."¶"Cadastral Survey Rules 2021: r 45(c); https://jira.linz.govt.nz/browse/STEPBR-122
+Rule1043¶"Unique parcel identifier format"¶"A parcel identifier format must be determined according to the parcel identifier format table."¶"Cadastral Survey Rules 2021: r 45(a)
+Rule1260¶"Unit parcel common boundary with unchanged parcel"¶"The boundary of a new parcel may be accepted only if the boundary of the new parcel is in common with an unchanged parcel that is not a future development unit."¶"Cadastral Survey Rules 2021: r 58(4)
 Rule1462¶"Upgrade class D boundaries to class A"¶"The boundaries that define an existing non-primary parcel must be defined by survey to class A boundaries if all of the following are true:
 |- the boundaries are class D boundaries
-|- the primary parcel underlying the non-primary parcel is created by the cadastral survey with class A boundaries."¶"Cadastral Survey Rules 2021: r 51(6)"
-Rule1135¶"Use of Class A Accuracy"¶"A class A boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each other class A boundary point that is included in a boundary that defines the same parcel is class A accuracy."¶"Cadastral Survey Rules 2021: r 22(1); r 22(2); r 27(1); r 27(2); r 27(3); r 50"|"Accuracy of right-line and arc boundaries: Discussion indicates only boundary points of boundaries of the same parcel are to be considered.; https://www.linz.govt.nz/kb/728"
+|- the primary parcel underlying the non-primary parcel is created by the cadastral survey with class A boundaries."¶"Cadastral Survey Rules 2021: r 51(6)
+Rule1135¶"Use of Class A Accuracy"¶"A class A boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each other class A boundary point that is included in a boundary that defines the same parcel is class A accuracy."¶"Cadastral Survey Rules 2021: r 22(1); r 22(2); r 27(1); r 27(2); r 27(3); r 50|Accuracy of right-line and arc boundaries: Discussion indicates only boundary points of boundaries of the same parcel are to be considered.; https://www.linz.govt.nz/kb/728"
 Rule1305¶"Use of Class B Accuracy"¶"A class B boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each other boundary point that is included in a boundary that defines the same parcel is class B accuracy when the other boundary point is any of:
 |- a class A boundary point
-|- a class B boundary point."¶"Cadastral Survey Rules 2021: r 23; r 27(1); r 27(2); r 27(3); r 50"|"Accuracy of right-line and arc boundaries: Discussion indicates only boundary points of boundaries of the same parcel are to be considered.; https://www.linz.govt.nz/kb/728"
+|- a class B boundary point."¶"Cadastral Survey Rules 2021: r 23; r 27(1); r 27(2); r 27(3); r 50|Accuracy of right-line and arc boundaries: Discussion indicates only boundary points of boundaries of the same parcel are to be considered.; https://www.linz.govt.nz/kb/728"
 Rule1340¶"Use of class C accuracy"¶"A class C boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each other boundary point that is included in a boundary that defines the same parcel is class C accuracy when the other boundary point is any of:
 |- a class A boundary point
 |- a class B boundary point
-|- a class C boundary point."¶"Cadastral Survey Rules 2021: r 24; r 27(1); r 27(2); r 27(3)"
-Rule1341¶"Use of class D accuracy"¶"A class D boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each other boundary point that is included in a boundary that defines the same parcel is class D accuracy."¶"Cadastral Survey Rules 2021: r 25; r 27(1); r 27(2); r 27(3)"
-Rule1058¶"Use of irregular boundaries"¶"A parcel must not be defined by an irregular boundary."¶"Cadastral Survey Rules 2021: r 9(2)"
-Rule1060¶"Use of irregular boundary as landward boundary"¶"A boundary that is the landward boundary defining a movable marginal strip or defining an esplanade strip must be an irregular boundary if the boundary is not coincident with a right line boundary of the underlying parcel."¶"Cadastral Survey Rules 2021: r 46(4)"
+|- a class C boundary point."¶"Cadastral Survey Rules 2021: r 24; r 27(1); r 27(2); r 27(3)
+Rule1341¶"Use of class D accuracy"¶"A class D boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each other boundary point that is included in a boundary that defines the same parcel is class D accuracy."¶"Cadastral Survey Rules 2021: r 25; r 27(1); r 27(2); r 27(3)
+Rule1058¶"Use of irregular boundaries"¶"A parcel must not be defined by an irregular boundary."¶"Cadastral Survey Rules 2021: r 9(2)
+Rule1060¶"Use of irregular boundary as landward boundary"¶"A boundary that is the landward boundary defining a movable marginal strip or defining an esplanade strip must be an irregular boundary if the boundary is not coincident with a right line boundary of the underlying parcel."¶"Cadastral Survey Rules 2021: r 46(4)
 Rule1373¶"Vectors connecting survey marks to non-primary parcel boundary points"¶"A cadastral survey must have each boundary point that is included in a non-primary parcel boundary connected to at least 2 nearby cadastral survey network marks if any of the following are true:
 |- the non-primary parcel boundary is inaccurately determined
 |- the non-primary parcel overlies a parcel that is the bed of a stream 
 |- the non-primary parcel overlies a parcel that is the bed of a river 
 |- the non-primary parcel overlies a parcel that is the bed of a lake
-|- the non-primary parcel overlies a parcel that is common marine and coastal area."¶"Cadastral Survey Rules 2021: r 51(2)(c); r 51(2)(d); r 53(2)(c); r 53(2)(d); r 70(1); r 70(2)"
-Rule1124¶"Vertical accuracy between non-boundary marks 1"¶"The accuracy [relative] between a non-boundary mark and each other non-boundary mark must not exceed 0.030 + (0.0001 * the slope distance between the non-boundary marks)."¶"Cadastral Survey Rules 2021: r 19(2)"
-Rule1303¶"Vertical accuracy between non-boundary marks 2"¶"The accuracy [relative] between a non-boundary mark and each other non-boundary mark must not exceed 0.2 m vertical."¶"Cadastral Survey Rules 2021: r 19(2)"
+|- the non-primary parcel overlies a parcel that is common marine and coastal area."¶"Cadastral Survey Rules 2021: r 51(2)(c); r 51(2)(d); r 53(2)(c); r 53(2)(d); r 70(1); r 70(2)
+Rule1124¶"Vertical accuracy between non-boundary marks 1"¶"The accuracy [relative] between a non-boundary mark and each other non-boundary mark must not exceed 0.030 + (0.0001 * the slope distance between the non-boundary marks)."¶"Cadastral Survey Rules 2021: r 19(2)
+Rule1303¶"Vertical accuracy between non-boundary marks 2"¶"The accuracy [relative] between a non-boundary mark and each other non-boundary mark must not exceed 0.2 m vertical."¶"Cadastral Survey Rules 2021: r 19(2)
 Rule1394¶"Vertical accuracy between vertical control mark and new height-limited boundary point 1"¶"A new boundary point that is included in a height limited boundary must be considered a boundary point that is accurately defined if the accuracy [relative] between the boundary point and each vertical control mark is the lesser of the following:
 |- 0.030 + (0.0001 * the slope distance between the new boundary point and the vertical control mark)
-|- 0.2 m vertical."¶"Cadastral Survey Rules 2021: r 20(2)"
-Rule1408¶"Vertical Class A accuracy of boundary referencing"¶"A class A boundary point that is a referenced point must be considered an accurately defined boundary point only if the accuracy [relative] between the class A boundary point and each non-boundary mark that is less than or equal to 150 m from the class A boundary point does not exceed 0.04 m vertical."¶"Cadastral Survey Rules 2021: r 21"
-Rule1410¶"Vertical Class B accuracy of boundary referencing"¶"A class B boundary point that is a referenced point must be considered an accurately defined boundary point only if the accuracy [relative] between the class B boundary point and each non-boundary mark that is less than or equal to 500 m from the class B boundary point does not exceed 0.20 m vertical."¶"Cadastral Survey Rules 2021: r 21"
-Rule1412¶"Vertical Class C accuracy of boundary referencing"¶"A class C boundary point that is a referenced point must be considered an accurately defined boundary point only if the accuracy [relative] between the class C boundary point and each non-boundary mark that is less than or equal to 1000 m from the class A boundary point does not exceed 0.60 m vertical."¶"Cadastral Survey Rules 2021: r 21"
-Rule1245¶"Vertical control mark"¶"A survey mark may be a vertical control mark only if the survey mark has been assigned a height in terms of an official vertical datum with a Landonline order 3V or better."¶"Cadastral Survey Rules 2021: sch 6"
-Rule1246¶"Vertical datum - 1"¶"The reduced levels in a cadastral survey must be expressed in terms of the same official vertical datum."¶"Cadastral Survey Rules 2021: r 18(1)"
-Rule1247¶"Vertical datum - 2"¶"A vertical control mark that exists less than and equal to 1,000m from a boundary point must be included in a cadastral survey if the boundary point is a new boundary point that has a reduced level and is included in a height limited boundary."¶"Cadastral Survey Rules 2021: r 18(2)"
+|- 0.2 m vertical."¶"Cadastral Survey Rules 2021: r 20(2)
+Rule1408¶"Vertical Class A accuracy of boundary referencing"¶"A class A boundary point that is a referenced point must be considered an accurately defined boundary point only if the accuracy [relative] between the class A boundary point and each non-boundary mark that is less than or equal to 150 m from the class A boundary point does not exceed 0.04 m vertical."¶"Cadastral Survey Rules 2021: r 21
+Rule1410¶"Vertical Class B accuracy of boundary referencing"¶"A class B boundary point that is a referenced point must be considered an accurately defined boundary point only if the accuracy [relative] between the class B boundary point and each non-boundary mark that is less than or equal to 500 m from the class B boundary point does not exceed 0.20 m vertical."¶"Cadastral Survey Rules 2021: r 21
+Rule1412¶"Vertical Class C accuracy of boundary referencing"¶"A class C boundary point that is a referenced point must be considered an accurately defined boundary point only if the accuracy [relative] between the class C boundary point and each non-boundary mark that is less than or equal to 1000 m from the class A boundary point does not exceed 0.60 m vertical."¶"Cadastral Survey Rules 2021: r 21
+Rule1245¶"Vertical control mark"¶"A survey mark may be a vertical control mark only if the survey mark has been assigned a height in terms of an official vertical datum with a Landonline order 3V or better."¶"Cadastral Survey Rules 2021: sch 6
+Rule1246¶"Vertical datum - 1"¶"The reduced levels in a cadastral survey must be expressed in terms of the same official vertical datum."¶"Cadastral Survey Rules 2021: r 18(1)
+Rule1247¶"Vertical datum - 2"¶"A vertical control mark that exists less than and equal to 1,000m from a boundary point must be included in a cadastral survey if the boundary point is a new boundary point that has a reduced level and is included in a height limited boundary."¶"Cadastral Survey Rules 2021: r 18(2)
 Rule1248¶"Vertical datum - 3"¶"A vertical control mark that exists more than 1,000 m from a boundary point may be included in a cadastral survey only if all of the following are true:
 |- the boundary point is a new boundary point that has a reduced level and is included in a height limited boundary
-|- there are no vertical control marks that exist less than or equal to 1,000 m from the boundary point."¶"Cadastral Survey Rules 2021: r 18(3)"
-Rule1273¶"Vertical datum and connections 1"¶"A new height limited boundary point on a non-primary parcel must be expressed in terms of the same official vertical datum."¶"Cadastral Survey Rules 2021: r 60"
-Rule1292¶"Vertical datum and connections 2"¶"A new height limited boundary point on a non-primary parcel must be connected to a vertical control mark included in a cadastral survey that is less than or equal to 1,000 m from the boundary point if there are one or more vertical control marks less than or equal to 1,000 m from the boundary point."¶"Cadastral Survey Rules 2021: r 60"
-Rule1291¶"Vertical datum and connections 3"¶"A new height limited boundary point on a non-primary parcel must be connected to a vertical control mark included in a cadastral survey that more than 1,000 m from the boundary point if there are no vertical control marks that are less than or equal to 1,000 m from the boundary point."¶"Cadastral Survey Rules 2021: r 60"
-Rule1064¶"Vertical extent of a primary parcel"¶"The vertical extent of a primary parcel for which the vertical extent is limited must be defined by a height limited boundary."¶"Cadastral Survey Rules 2021: r 38(2)"
+|- there are no vertical control marks that exist less than or equal to 1,000 m from the boundary point."¶"Cadastral Survey Rules 2021: r 18(3)
+Rule1273¶"Vertical datum and connections 1"¶"A new height limited boundary point on a non-primary parcel must be expressed in terms of the same official vertical datum."¶"Cadastral Survey Rules 2021: r 60
+Rule1292¶"Vertical datum and connections 2"¶"A new height limited boundary point on a non-primary parcel must be connected to a vertical control mark included in a cadastral survey that is less than or equal to 1,000 m from the boundary point if there are one or more vertical control marks less than or equal to 1,000 m from the boundary point."¶"Cadastral Survey Rules 2021: r 60
+Rule1291¶"Vertical datum and connections 3"¶"A new height limited boundary point on a non-primary parcel must be connected to a vertical control mark included in a cadastral survey that more than 1,000 m from the boundary point if there are no vertical control marks that are less than or equal to 1,000 m from the boundary point."¶"Cadastral Survey Rules 2021: r 60
+Rule1064¶"Vertical extent of a primary parcel"¶"The vertical extent of a primary parcel for which the vertical extent is limited must be defined by a height limited boundary."¶"Cadastral Survey Rules 2021: r 38(2)
 Rule1034¶"Vertical extent of non-primary parcel"¶"The vertical extent of a non-primary parcel for which the vertical extent is limited must be defined by one of the following:
 |- a height limited boundary
-|- a permanent structure boundary."¶"Cadastral Survey Rules 2021: r 46(2)"
+|- a permanent structure boundary."¶"Cadastral Survey Rules 2021: r 46(2)
