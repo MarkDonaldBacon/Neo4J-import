@@ -534,8 +534,7 @@ Rule1447¶"Physical feature water or irregular boundaries"¶"A water or irregula
 Rule1081¶"Primary parcel area"¶"An area [quantity] must be assigned to a primary parcel if the primary parcel is not any of the following:
 |- a residue parcel
 |- a balance parcel."¶"Cadastral Survey Rules 2021: r 41(1)"
-Rule1186¶"Principal Unit"¶"A principal unit must contain a building or be part of a building or be contained within a building or be a car park."¶"Unit Titles Act 2010: s 7; http://www.legislation.govt.nz/act/public/2010/0022/latest/DLM2319229.html";
-"Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=1700818"
+Rule1186¶"Principal Unit"¶"A principal unit must contain a building or be part of a building or be contained within a building or be a car park."¶"Unit Titles Act 2010: s 7; http://www.legislation.govt.nz/act/public/2010/0022/latest/DLM2319229.html"; | "Survey and Titles Glossary: https://confluence.linz.govt.nz/pages/releaseview.action?pageId=1700818"
 Rule1028¶"PRM relationship to ground level and situation"¶"A record of survey must describe the relationship of any permanent reference mark to ground level and the situation of the permanent reference mark."¶"Cadastral Survey Rules 2021: r 80(8)"
 Rule1326¶"Record of Survey Accepted Boundary Points"¶"A record of survey need not include accepted boundary points used for the purposes of a cadastral survey."¶"Cadastral Survey Rules 2021: r 80(1)"
 Rule1321¶"Record of Survey Boundary Information"¶"A record of survey must include the accuracy class of all of the following included in the record of survey:
@@ -618,8 +617,7 @@ Rule1424¶"Rule 10001 (copy of Derivation of class A boundary is subject to conf
 Rule1380¶"Rule 10001 (copy of Rule 10001 (copy of Derivation of boundary is subject to conflict))"¶"A boundary must be considered a boundary subject to conflict if there is a difference that has not been resolved by 1 or more approved CSDs and the difference exceeds the applicable accuracy standards between any of the following:
 |- an estate boundary and the coinciding boundary recorded in an approved CSD
 |- the same boundary as recorded in different approved CSDs
-|- the same boundary as recorded in an approved CSD and other evidence that includes field evidence."¶"Cadastral Survey Rules 2021: sch 2, definition of \"conflict\"";
-"Survey and Titles Glossary: Estate boundary (glossary); https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17006971"
+|- the same boundary as recorded in an approved CSD and other evidence that includes field evidence."¶"Cadastral Survey Rules 2021: sch 2, definition of \"conflict\""; | "Survey and Titles Glossary: Estate boundary (glossary); https://confluence.linz.govt.nz/pages/releaseview.action?pageId=17006971"
 Rule1499¶"Source of adopted value"¶"A CSD must be the source of information for an adopted value if that CSD measured or calculated the adopted value."¶"Cadastral Survey Rules 2021: r 75(2)(a)"
 Rule1500¶"Source of adopted water or irregular boundary"¶"A CSD must be the source of information for an adopted water or irregular boundary if that CSD measured or defined the adopted boundary."¶"Cadastral Survey Rules 2021: r 75(2)(b)"
 Rule1445¶"Statutory water body width and water or irregular boundaries"¶"A water or irregular boundary that is not an accepted boundary must have its position determined to a level of accuracy [positional] that prevents a parcel defined by the boundary infringing any statutory requirement applying to the width or size of a water body that adjoins the boundary."¶"Cadastral Survey Rules 2021: r 29(2)(b); r 29(3)"
@@ -698,9 +696,7 @@ Rule1029¶"Survey marks in record of survey"¶"A record of survey must include a
 Rule1494¶"Survey report - basis for bearing adjustments"¶"A survey report included in a CSD must provide for the basis for any bearing adjustment applied to an adopted bearing through the conduct of any of the following:
 |- a direct comparison of control vectors that are common to the new cadastral survey and the comparison approved CSD 
 |- re-observation of several vectors from a previously approved CSD
-|- a ray trace analysis."¶"Cadastral Survey Rules 2021: r 72(d)";
-"Survey Knowledge Portal: Bearing correction/adjustment; https://confluence.linz.govt.nz/pages/releaseview.action?pageId=11961481";
-": Capturing Referenced Surveys & Bearing Corrections in a CSD; LINZ KnowledgeBase; https://www.linz.govt.nz/kb/907"
+|- a ray trace analysis."¶"Cadastral Survey Rules 2021: r 72(d)"; | "Survey Knowledge Portal: Bearing correction/adjustment; https://confluence.linz.govt.nz/pages/releaseview.action?pageId=11961481"; | ": Capturing Referenced Surveys & Bearing Corrections in a CSD; LINZ KnowledgeBase; https://www.linz.govt.nz/kb/907"
 Rule1370¶"Survey report - bearings and levels"¶"A survey report included in a CSD must contain the following information about bearings and levels where applicable:
 |- the basis for determining the orientation of bearings to the horizontal projection used
 |- the basis for any bearing adjustment applied to an adopted bearing
@@ -794,12 +790,10 @@ Rule1260¶"Unit parcel common boundary with unchanged parcel"¶"The boundary of 
 Rule1462¶"Upgrade class D boundaries to class A"¶"The boundaries that define an existing non-primary parcel must be defined by survey to class A boundaries if all of the following are true:
 |- the boundaries are class D boundaries
 |- the primary parcel underlying the non-primary parcel is created by the cadastral survey with class A boundaries."¶"Cadastral Survey Rules 2021: r 51(6)"
-Rule1135¶"Use of Class A Accuracy"¶"A class A boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each other class A boundary point that is included in a boundary that defines the same parcel is class A accuracy."¶"Cadastral Survey Rules 2021: r 22(1); r 22(2); r 27(1); r 27(2); r 27(3); r 50";
-"Accuracy of right-line and arc boundaries: Discussion indicates only boundary points of boundaries of the same parcel are to be considered.; https://www.linz.govt.nz/kb/728"
+Rule1135¶"Use of Class A Accuracy"¶"A class A boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each other class A boundary point that is included in a boundary that defines the same parcel is class A accuracy."¶"Cadastral Survey Rules 2021: r 22(1); r 22(2); r 27(1); r 27(2); r 27(3); r 50"; | "Accuracy of right-line and arc boundaries: Discussion indicates only boundary points of boundaries of the same parcel are to be considered.; https://www.linz.govt.nz/kb/728"
 Rule1305¶"Use of Class B Accuracy"¶"A class B boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each other boundary point that is included in a boundary that defines the same parcel is class B accuracy when the other boundary point is any of:
 |- a class A boundary point
-|- a class B boundary point."¶"Cadastral Survey Rules 2021: r 23; r 27(1); r 27(2); r 27(3); r 50";
-"Accuracy of right-line and arc boundaries: Discussion indicates only boundary points of boundaries of the same parcel are to be considered.; https://www.linz.govt.nz/kb/728"
+|- a class B boundary point."¶"Cadastral Survey Rules 2021: r 23; r 27(1); r 27(2); r 27(3); r 50"; | "Accuracy of right-line and arc boundaries: Discussion indicates only boundary points of boundaries of the same parcel are to be considered.; https://www.linz.govt.nz/kb/728"
 Rule1340¶"Use of class C accuracy"¶"A class C boundary point must be considered a boundary point that is accurately defined only if the accuracy [relative] between the boundary point and each other boundary point that is included in a boundary that defines the same parcel is class C accuracy when the other boundary point is any of:
 |- a class A boundary point
 |- a class B boundary point
