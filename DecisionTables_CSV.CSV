@@ -3,43 +3,43 @@ DecTable1005¶"Boundary annotations for survey diagrams"¶"
 	
 	
 	
-		<>Boundary</>
-		<>Annotation</>
+		<td>Boundary</td>
+		<td>Annotation</td>
 	
 
 	
-		<>Class D boundary</>
-		<>\"Class D\"</>
+		<td>Class D boundary</td>
+		<td>\"Class D\"</td>
 	
 
 	
-		<>Water centre-line boundary</>
-		<>\"Boundary follows centre-line of stream/river\"</>
+		<td>Water centre-line boundary</td>
+		<td>\"Boundary follows centre-line of stream/river\"</td>
 	
 
 	
-		<>Water boundary defined by a physical feature </>
-		<>Description of the physical feature</>
+		<td>Water boundary defined by a physical feature </td>
+		<td>Description of the physical feature</td>
 	
 
 	
-		<>The source CSD number for an adopted permanent structure boundary</>
-		<>\"Adpt \" CSD number</>
+		<td>The source CSD number for an adopted permanent structure boundary</td>
+		<td>\"Adpt \" CSD number</td>
 	
 
 	
-		<>The source CSD number for an accepted permanent structure boundary</>
-		<>\"Adpt \" CSD number</>
+		<td>The source CSD number for an accepted permanent structure boundary</td>
+		<td>\"Adpt \" CSD number</td>
 	
 
 	
-		<>The source CSD number for an adopted water or irregular boundary</>
-		<>\"Adpt \" CSD number</>
+		<td>The source CSD number for an adopted water or irregular boundary</td>
+		<td>\"Adpt \" CSD number</td>
 	
 
 	
-		<>The source CSD number for an accepted water or irregular boundary</>
-		<>\"Adpt \" CSD number</>
+		<td>The source CSD number for an accepted water or irregular boundary</td>
+		<td>\"Adpt \" CSD number</td>
 	
 
 "¶"Cadastral Survey Rules 2021: r 88; Table 6: Boundary annotations for survey diagrams"
@@ -47,33 +47,33 @@ DecTable1004¶"Parcel annotations for survey diagrams"¶"
 	
 	
 	
-		<>Parcel</>
-		<>Annotation</>
+		<td>Parcel</td>
+		<td>Annotation</td>
 	
 
 	
-		<>The name or if no name is available a simple description of any road, or railway, or water body that abuts a new parcel</>
-		<>Suitable notation</>
+		<td>The name or if no name is available a simple description of any road, or railway, or water body that abuts a new parcel</td>
+		<td>Suitable notation</td>
 	
 
 	
-		<>Land that has been eroded</>
-		<>\"Erosion\"</>
+		<td>Land that has been eroded</td>
+		<td>\"Erosion\"</td>
 	
 
 	
-		<>Land that is claimed as accretion</>
-		<>\"Accretion\"</>
+		<td>Land that is claimed as accretion</td>
+		<td>\"Accretion\"</td>
 	
 
 	
-		<>Land that is claimed as dry stream bed</>
-		<>\"Dry bed\"</>
+		<td>Land that is claimed as dry stream bed</td>
+		<td>\"Dry bed\"</td>
 	
 
 	
-		<>A balance parcel that is a fixed marginal strip</>
-		<>\"Fixed marginal strip\"</>
+		<td>A balance parcel that is a fixed marginal strip</td>
+		<td>\"Fixed marginal strip\"</td>
 	
 
 "¶"Cadastral Survey Rules 2021: r 87; Table 5: Parcel annotations for survey diagrams"
@@ -81,43 +81,43 @@ DecTable1001¶"Parcel identifier format"¶"
 	
 	
 	
-		<>Parcel tenure type</>
-		<>Unique parcel identifier format</>
+		<td>Parcel tenure type</td>
+		<td>Unique parcel identifier format</td>
 	
 
 	
-		<>Lot</>
-		<>a number</>
+		<td>Lot</td>
+		<td>a number</td>
 	
 
 	
-		<>Section</>
-		<>a number</>
+		<td>Section</td>
+		<td>a number</td>
 	
 
 	
-		<>Maori block</>
-		<>a sequence of alternating letters and numbers</>
+		<td>Maori block</td>
+		<td>a sequence of alternating letters and numbers</td>
 	
 
 	
-		<>Unit as part of a unit title development</>
-		<>a number or a number followed by a letter or a letter followed by a number</>
+		<td>Unit as part of a unit title development</td>
+		<td>a number or a number followed by a letter or a letter followed by a number</td>
 	
 
 	
-		<>Common property as part of a unit title development</>
-		<>no identifier</>
+		<td>Common property as part of a unit title development</td>
+		<td>no identifier</td>
 	
 
 	
-		<>Lease or licence</>
-		<>a number or a number followed by a letter</>
+		<td>Lease or licence</td>
+		<td>a number or a number followed by a letter</td>
 	
 
 	
-		<>Right associated with any other non-primary parcel including a movable marginal strip or an esplanade strip</>
-		<>a letter or a letter followed by another letter</>
+		<td>Right associated with any other non-primary parcel including a movable marginal strip or an esplanade strip</td>
+		<td>a letter or a letter followed by another letter</td>
 	
 
 "¶"Cadastral Survey Rules 2021: r 45; Table 4: Unique parcel identifier format"
@@ -126,67 +126,67 @@ DecTable1002¶"Parcel type component"¶"
 	
 	
 	
-		<>Type of parcel</>
-		<>Type of CSD</>
-		<>Parcel type component</>
+		<td>Type of parcel</td>
+		<td>Type of CSD</td>
+		<td>Parcel type component</td>
 	
 
 	
-		<>Primary parcel</>
-		<>Land transfer CSD</>
-		<>Lot</>
+		<td>Primary parcel</td>
+		<td>Land transfer CSD</td>
+		<td>Lot</td>
 	
 
 	
-		<>Primary parcel</>
-		<>Land transfer CSD with a height limited boundary</>
-		<>Height-Limited Lot</>
+		<td>Primary parcel</td>
+		<td>Land transfer CSD with a height limited boundary</td>
+		<td>Height-Limited Lot</td>
 	
 
 	
-		<>Primary parcel</>
-		<>Survey office CSD</>
-		<>Section</>
+		<td>Primary parcel</td>
+		<td>Survey office CSD</td>
+		<td>Section</td>
 	
 
 	
-		<>Primary parcel</>
-		<>Survey office CSD with a height limited boundary</>
-		<>Height-Limited Section</>
+		<td>Primary parcel</td>
+		<td>Survey office CSD with a height limited boundary</td>
+		<td>Height-Limited Section</td>
 	
 
 	
-		<>Unit title development</>
-		<> </>
-		<>As appropriate:
+		<td>Unit title development</td>
+		<td> </td>
+		<td>As appropriate:
 |- Principal Unit
 |- Accessory Unit
 |- Future Development Unit
-|- Common Property</>
+|- Common Property</td>
 	
 
 	
-		<>Movable marginal strip</>
-		<> </>
-		<>Marginal Strip</>
+		<td>Movable marginal strip</td>
+		<td> </td>
+		<td>Marginal Strip</td>
 	
 
 	
-		<>Esplanade strip</>
-		<> </>
-		<>Esplanade Strip</>
+		<td>Esplanade strip</td>
+		<td> </td>
+		<td>Esplanade Strip</td>
 	
 
 	
-		<>Any other non-primary parcel</>
-		<> </>
-		<>Area</>
+		<td>Any other non-primary parcel</td>
+		<td> </td>
+		<td>Area</td>
 	
 
 	
-		<>Any other non-primary parcel with a height limited boundary</>
-		<> </>
-		<>Height Limited Area</>
+		<td>Any other non-primary parcel with a height limited boundary</td>
+		<td> </td>
+		<td>Height Limited Area</td>
 	
 
 "¶"Cadastral Survey Rules 2021: r 43; Table 3: Parcel type component of appellation"
