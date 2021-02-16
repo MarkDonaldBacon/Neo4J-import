@@ -2,42 +2,42 @@ Name:ID¶Signifier¶Table¶Source
 DecTable1005¶"Boundary annotations for survey diagrams"¶"
 	
 	
-	<tr>
+	<tr  >
 		Boundary
 		Annotation
 	</tr>|
 
-	<tr>
+	<tr  >
 		Class D boundary
 		\"Class D\"
 	</tr>|
 
-	<tr>
+	<tr  >
 		Water centre-line boundary
 		\"Boundary follows centre-line of stream/river\"
 	</tr>|
 
-	<tr>
+	<tr  >
 		Water boundary defined by a physical feature 
 		Description of the physical feature
 	</tr>|
 
-	<tr>
+	<tr  >
 		The source CSD number for an adopted permanent structure boundary
 		\"Adpt \" CSD number
 	</tr>|
 
-	<tr>
+	<tr  >
 		The source CSD number for an accepted permanent structure boundary
 		\"Adpt \" CSD number
 	</tr>|
 
-	<tr>
+	<tr  >
 		The source CSD number for an adopted water or irregular boundary
 		\"Adpt \" CSD number
 	</tr>|
 
-	<tr>
+	<tr  >
 		The source CSD number for an accepted water or irregular boundary
 		\"Adpt \" CSD number
 	</tr>|
@@ -46,32 +46,32 @@ DecTable1005¶"Boundary annotations for survey diagrams"¶"
 DecTable1004¶"Parcel annotations for survey diagrams"¶"
 	
 	
-	<tr>
+	<tr  >
 		Parcel
 		Annotation
 	</tr>|
 
-	<tr>
+	<tr  >
 		The name or if no name is available a simple description of any road, or railway, or water body that abuts a new parcel
 		Suitable notation
 	</tr>|
 
-	<tr>
+	<tr  >
 		Land that has been eroded
 		\"Erosion\"
 	</tr>|
 
-	<tr>
+	<tr  >
 		Land that is claimed as accretion
 		\"Accretion\"
 	</tr>|
 
-	<tr>
+	<tr  >
 		Land that is claimed as dry stream bed
 		\"Dry bed\"
 	</tr>|
 
-	<tr>
+	<tr  >
 		A balance parcel that is a fixed marginal strip
 		\"Fixed marginal strip\"
 	</tr>|
@@ -80,42 +80,42 @@ DecTable1004¶"Parcel annotations for survey diagrams"¶"
 DecTable1001¶"Parcel identifier format"¶"
 	
 	
-	<tr>
+	<tr  >
 		Parcel tenure type
 		Unique parcel identifier format
 	</tr>|
 
-	<tr>
+	<tr  >
 		Lot
 		a number
 	</tr>|
 
-	<tr>
+	<tr  >
 		Section
 		a number
 	</tr>|
 
-	<tr>
+	<tr  >
 		Maori block
 		a sequence of alternating letters and numbers
 	</tr>|
 
-	<tr>
+	<tr  >
 		Unit as part of a unit title development
 		a number or a number followed by a letter or a letter followed by a number
 	</tr>|
 
-	<tr>
+	<tr  >
 		Common property as part of a unit title development
 		no identifier
 	</tr>|
 
-	<tr>
+	<tr  >
 		Lease or licence
 		a number or a number followed by a letter
 	</tr>|
 
-	<tr>
+	<tr  >
 		Right associated with any other non-primary parcel including a movable marginal strip or an esplanade strip
 		a letter or a letter followed by another letter
 	</tr>|
@@ -125,37 +125,37 @@ DecTable1002¶"Parcel type component"¶"
 	
 	
 	
-	<tr>
+	<tr   >
 		Type of parcel
 		Type of CSD
 		Parcel type component
 	</tr>|
 
-	<tr>
+	<tr   >
 		Primary parcel
 		Land transfer CSD
 		Lot
 	</tr>|
 
-	<tr>
+	<tr   >
 		Primary parcel
 		Land transfer CSD with a height limited boundary
 		Height-Limited Lot
 	</tr>|
 
-	<tr>
+	<tr   >
 		Primary parcel
 		Survey office CSD
 		Section
 	</tr>|
 
-	<tr>
+	<tr   >
 		Primary parcel
 		Survey office CSD with a height limited boundary
 		Height-Limited Section
 	</tr>|
 
-	<tr>
+	<tr   >
 		Unit title development
 		 
 		As appropriate:
@@ -165,25 +165,25 @@ DecTable1002¶"Parcel type component"¶"
 |- Common Property
 	</tr>|
 
-	<tr>
+	<tr   >
 		Movable marginal strip
 		 
 		Marginal Strip
 	</tr>|
 
-	<tr>
+	<tr   >
 		Esplanade strip
 		 
 		Esplanade Strip
 	</tr>|
 
-	<tr>
+	<tr   >
 		Any other non-primary parcel
 		 
 		Area
 	</tr>|
 
-	<tr>
+	<tr   >
 		Any other non-primary parcel with a height limited boundary
 		 
 		Height Limited Area
