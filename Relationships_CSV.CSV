@@ -6112,6 +6112,9 @@ RuleGr1002¶Rule1054¶Includes_Rule
 RuleGr1002¶Rule1028¶Includes_Rule
 RuleGr1001¶DecTable1002¶Uses_Decision_Table
 RuleGr1001¶DecTable1001¶Uses_Decision_Table
+Dec1017¶Term1018¶Based_On_Term
+Dec1016¶Term1209¶Based_On_Term
+Dec1016¶Term1018¶Based_On_Term
 Dec1016¶Rule1178¶Uses_Rule
 Dec1016¶Rule1179¶Uses_Rule
 Dec1016¶Rule1180¶Uses_Rule
